@@ -1,1 +1,2 @@
-recursive-include zero_point/coefficients *.txt
+recursive-include sagittarius/pickles *.pkl
+recursive-include tutorials *.ipynb
