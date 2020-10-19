@@ -3,10 +3,11 @@
 **Empirical interpolators for the distance and proper motions of the Sagittarius Stream**
 
 This Python package provides the necessary tools to query the proper motions (in different Spherical frames) and distances to the Sagittarius Stream. The interpolating functions are created from the median values obtain with different samples:
-1. General: [Antoja et al. 2020](https://ui.adsabs.harvard.edu/link_gateway/2020A&A...635L...3A/doi:10.1051/0004-6361/201937145)
-2. RR Lyrae only: [Ramos et al. 2020](https://ui.adsabs.harvard.edu/link_gateway/2020A&A...638A.104R/doi:10.1051/0004-6361/202037819)
-  1. Strip: more complete but also less pure
-  2. nGC3: more pure but less complete
+1. General ([Antoja et al. 2020](https://ui.adsabs.harvard.edu/link_gateway/2020A&A...635L...3A/doi:10.1051/0004-6361/201937145))
+2. RR Lyrae only ([Ramos et al. 2020](https://ui.adsabs.harvard.edu/link_gateway/2020A&A...638A.104R/doi:10.1051/0004-6361/202037819)):
+    1. Strip: more complete but also less pure
+    2. nGC3: more pure but less complete
+  
   
 ## Documentation
 
