@@ -8,8 +8,8 @@ try:
 except ImportError:
     import pickle
 
-import string
 import os
+import numpy as np
 
 __mypath = os.path.dirname(os.path.abspath(__file__))
 
@@ -22,14 +22,14 @@ def get_dist(Lambda,source):
         dist_vec = dist_interpol(Lambda)
     return dist_vec
             
-def get_scale(Lambda):
+def get_scale(Lambda,source):
     """ Query the distance scale for a given Lambda vector and source (strip or ngc3) """
     with open(filename+'_{}_{}.pkl'.format(source,'scale'), 'rb') as f:
         scale_interpol = pickle.load(f)
         scale_vec = scale_interpol(Lambda)
     return scale_vec
 
-def get_pm(Lambda):
+def get_pm(Lambda,source,frame):
     """ Query the proper motions for a given Lambda vector, source (a20, strip or ngc) and frame (gal or icrs)"""
     with open(filename+'_{}_{}_{}.pkl'.format(source,frame,'pmlong'), 'rb') as f:
         pmlong_interpol = pickle.load(f)
@@ -59,50 +59,54 @@ def sagittarius_properties(Lambda,
         Array of values at each given Lambda. The number of columns varies depending on the requested properties (distance, scale and/or proper_motions)
     """
     
-    if string.lower(source) not in ['a20','strip','ngc3']:
+    if source.lower() not in ['a20','strip','ngc3']:
         raise ValueError("The source requested does not exist. Available options are: A20, Strip, nGC3.")
         
-    if string.lower(source) not in ['g','c','icrs','galactic']:
+    if frame.lower() not in ['g','c','icrs','galactic']:
         raise ValueError("The requested reference frame does not exist. The available celestial frames are ICRS (or 'C') and Galactic (or 'G').")
     else:
-        if string.lower(source) in ['g','galactic']:
-            source='gal'
-        elif string.lower(source) in ['c','icrs']:
-            source='icrs'
+        if frame.lower() in ['g','galactic']:
+            frame='gal'
+        elif frame.lower() in ['c','icrs']:
+            frame='icrs'
         
-    if not (isinstance(Lambda,np.ndarrray) or isinstance(Lambda,list) or isinstance(Lambda,tuple)):
-        raise ValueError("The input must be an valid iterable (list, tuple or array).")
+    if not (isinstance(Lambda,np.ndarray) or isinstance(Lambda,list) or isinstance(Lambda,tuple) or isinstance(Lambda,float)\
+           or isinstance(Lambda,int)):
+        raise ValueError("The input must be an valid iterable (list, tuple or array) or a float/int.")
         
-    if not isinstance(Lambda,np.ndarrray):
-        Lambda = np.array(Lambda)
+    if not isinstance(Lambda,np.ndarray):
+        if (isinstance(Lambda,list) or isinstance(Lambda,tuple)):
+            Lambda = np.array(Lambda)
+        else:
+            Lambda = np.array([Lambda])
             
     
     if (distance) or (scale) or (proper_motion):
         if distance:
-            dist_vec=get_dist(Lambda)            
+            dist_vec=get_dist(Lambda,source)            
             if scale:
-                scale_vec=get_scale(Lambda)
+                scale_vec=get_scale(Lambda,source)
                 if proper_motion:
-                    pm_vec=get_pm(Lambda)
+                    pm_vec=get_pm(Lambda,source,frame)
                     return np.vstack((dist_vec,scale_vec,pm_vec))
                 else:
                     return np.vstack((dist_vec,scale_vec))
             else:
                 if proper_motion:
-                    pm_vec=get_pm(Lambda)
+                    pm_vec=get_pm(Lambda,source,frame)
                     return np.vstack((dist_vec,pm_vec))
                 else:
                     return dist_vec
         elif scale:
-            scale_vec=get_scale(Lambda)
+            scale_vec=get_scale(Lambda,source)
             if proper_motion:
-                pm_vec=get_pm(Lambda)
+                pm_vec=get_pm(Lambda,source,frame)
                 return np.vstack((scale_vec,pm_vec))
             else:
                 return scale_vec
             
         elif proper_motion:
-            pm_vec=get_pm(Lambda)
+            pm_vec=get_pm(Lambda,source,frame)
             return pm_vec
             
     else:
