@@ -9,13 +9,11 @@ This Python package provides the necessary tools to query the proper motions (in
   2. nGC3: more pure but less complete
   
 ## Documentation
--------------
 
 All classes and methods/functions are documented so use the python help() function to find out more.
 
 
 ## Installation
------------
 
 This is a Python3 package (*issues may arise if executed with Python2*).
 
@@ -25,7 +23,6 @@ The required dependencies are:
 
 
 ## Basic usage
------------
 
 In the folder *TUTORIALS*, you will find examples on how to use the different functions provided.
 
@@ -33,6 +30,5 @@ The main module is *sagittarius_properties* and allows to select from within the
 
 
 ## Attribution
------------
 
 If you make use of this package for your research, please acknowledge the authors in your work.
