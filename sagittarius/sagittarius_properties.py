@@ -13,21 +13,27 @@ import numpy as np
 
 __mypath = os.path.dirname(os.path.abspath(__file__))
 
-filename = __mypath+'pickles/sgr_interpolator'
+filename = __mypath+'/pickles/sgr_interpolator'
 
 def get_dist(Lambda,source):
-    """ Query the distance for a given Lambda vector and source (strip or ngc3) """
-    with open(filename+'_{}_{}.pkl'.format(source,'dist'), 'rb') as f:
-        dist_interpol = pickle.load(f)
-        dist_vec = dist_interpol(Lambda)
-    return dist_vec
+    """ Query the distance for a given Lambda vector and source (strip or ngc3, else return NaN) """
+    if source.lower()=='a20':
+        return np.ones_like(Lambda)*np.nan
+    else:
+        with open(filename+'_{}_{}.pkl'.format(source,'dist'), 'rb') as f:
+            dist_interpol = pickle.load(f)
+            dist_vec = dist_interpol(Lambda)
+        return dist_vec
             
 def get_scale(Lambda,source):
-    """ Query the distance scale for a given Lambda vector and source (strip or ngc3) """
-    with open(filename+'_{}_{}.pkl'.format(source,'scale'), 'rb') as f:
-        scale_interpol = pickle.load(f)
-        scale_vec = scale_interpol(Lambda)
-    return scale_vec
+    """ Query the distance scale for a given Lambda vector and source (strip or ngc3, else return NaN) """
+    if source.lower()=='a20':
+        return np.ones_like(Lambda)*np.nan
+    else:
+        with open(filename+'_{}_{}.pkl'.format(source,'scale'), 'rb') as f:
+            scale_interpol = pickle.load(f)
+            scale_vec = scale_interpol(Lambda)
+        return scale_vec
 
 def get_pm(Lambda,source,frame):
     """ Query the proper motions for a given Lambda vector, source (a20, strip or ngc) and frame (gal or icrs)"""
@@ -48,7 +54,7 @@ def sagittarius_properties(Lambda,
     Obtain the properties of the Sagittarius stream at different Lambdas (defined as in Antoja et al. 2020 & Ramos et al. 2020).
     
     Input:
-        - Lambda: float or iterable (ndarray, list or tuple). Values of the Longitude (in the Sagittarius reference frame.) in degrees
+        - Lambda: float or iterable of size N (ndarray, list or tuple). Values of the Longitude (in the Sagittarius reference frame.) in degrees
         - distance: boolean. True to query the distance to the stream [kpc]. Only available for Strip and nGC3 (based on RR Lyrae, see Ramos20).
         - scale: boolean. True to query the depth of the stream [kpc]. Only available for Strip and nGC3 (based on RR Lyrae, see Ramos20).
         - proper_motion: boolean. True to query the proper motions of the stream [mas/yr]. If frame='ICRS' or 'C', the proper motions are pmra and pmdec. If frame='Galactic' or 'G', the proper motions are mul and mub.
@@ -56,11 +62,13 @@ def sagittarius_properties(Lambda,
         - source: string. A20 for the proper motions obtained in Antoja+20. Strip or nGC3 for the proper motions obtained in Ramos+20, respectively, with the Strip or nGC3 sample.
         
     Output:
-        Array of values at each given Lambda. The number of columns varies depending on the requested properties (distance, scale and/or proper_motions)
+        Array (N,1 to 4) of values at each given Lambda. The number of columns varies depending on the requested properties (distance, scale and/or proper_motions). The order is always the same: distance, scale, pm_long_coslat, pm_lat.
     """
     
     if source.lower() not in ['a20','strip','ngc3']:
         raise ValueError("The source requested does not exist. Available options are: A20, Strip, nGC3.")
+    else:
+        source = source.lower()
         
     if frame.lower() not in ['g','c','icrs','galactic']:
         raise ValueError("The requested reference frame does not exist. The available celestial frames are ICRS (or 'C') and Galactic (or 'G').")
@@ -80,6 +88,14 @@ def sagittarius_properties(Lambda,
         else:
             Lambda = np.array([Lambda])
             
+            
+    #not all interpolators are ready, so for the moment we'll raise and Error
+    if (frame=='gal')&(source!='a20'):
+        raise ValueError("Sorry, this combination of frame and source is not available yet! We are working on it ᕦ(ò_óˇ)ᕤ")
+        
+    if (frame=='icrs')&(source=='a20'):
+        raise ValueError("Sorry, this combination of frame and source is not available yet! We are working on it ᕦ(ò_óˇ)ᕤ")
+            
     
     if (distance) or (scale) or (proper_motion):
         if distance:
@@ -88,26 +104,28 @@ def sagittarius_properties(Lambda,
                 scale_vec=get_scale(Lambda,source)
                 if proper_motion:
                     pm_vec=get_pm(Lambda,source,frame)
-                    return np.vstack((dist_vec,scale_vec,pm_vec))
+                    ans = np.vstack((dist_vec,scale_vec,pm_vec))
                 else:
-                    return np.vstack((dist_vec,scale_vec))
+                    ans = np.vstack((dist_vec,scale_vec))
             else:
                 if proper_motion:
                     pm_vec=get_pm(Lambda,source,frame)
-                    return np.vstack((dist_vec,pm_vec))
+                    ans = np.vstack((dist_vec,pm_vec))
                 else:
-                    return dist_vec
+                    ans = dist_vec
         elif scale:
             scale_vec=get_scale(Lambda,source)
             if proper_motion:
                 pm_vec=get_pm(Lambda,source,frame)
-                return np.vstack((scale_vec,pm_vec))
+                ans = np.vstack((scale_vec,pm_vec))
             else:
-                return scale_vec
+                ans = scale_vec
             
         elif proper_motion:
             pm_vec=get_pm(Lambda,source,frame)
-            return pm_vec
+            ans = pm_vec
+    
+        return ans.T
             
     else:
         return none

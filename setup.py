@@ -15,7 +15,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/brugalada/Sagittarius",
     packages=setuptools.find_packages(),
-    install_requires=[ 'numpy', 'pandas' ],
+    install_requires=[ 'numpy', 'scipy' ],
     package_data={'': ['LICENSE', 'MANIFEST.in','tutorials/*.ipynb'],
             'sagittarius': ['pickles/*.pkl']},
     include_package_data=True,

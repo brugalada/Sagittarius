@@ -9,5 +9,9 @@ try:
 except ImportError:
     raise ImportError('NumPy does not seem to be installed.')
 
+try:
+    import scipy
+except ImportError:
+    raise ImportError('Scipy does not seem to be installed.')
 
 import sagittarius.sagittarius_properties
