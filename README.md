@@ -23,6 +23,12 @@ The required dependencies are:
 * [scipy](http://www.scipy.org/)
 
 
+To install it:
+1. Clone the Github repository or download the source file
+2. cd to the directory
+3. Run ```python setup.py install```
+
+
 ## Basic usage
 
 In the folder *TUTORIALS*, you will find examples on how to use the different functions provided.
