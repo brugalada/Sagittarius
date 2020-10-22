@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="sagittarius-properties-brugalada", # Replace with your own username
+    name="sagittarius-brugalada", # Replace with your own username
     version="0.0.1",
     author="Pau Ramos",
     author_email="p.ramos@unistra.fr",

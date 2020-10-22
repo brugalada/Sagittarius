@@ -1,2 +1,2 @@
-recursive-include sagittarius/pickles *.pkl
+recursive-include interpolators/pickles *.pkl
 recursive-include tutorials *.ipynb

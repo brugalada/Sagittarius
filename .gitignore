@@ -56,3 +56,9 @@ build/lib/interpolators/pickles/Sgr_pmra_scale_interpolator_sky_20deg.pkl
 build/lib/interpolators/pickles/Sgr_RRLyr_Strip_mub_err.pkl
 build/lib/interpolators/pickles/Sgr_RRLyr_Strip_mul_err.pkl
 build/lib/interpolators/sagittarius_properties.py
+sagittarius_brugalada.egg-info/top_level.txt
+sagittarius_brugalada.egg-info/SOURCES.txt
+sagittarius_brugalada.egg-info/requires.txt
+sagittarius_brugalada.egg-info/PKG-INFO
+sagittarius_brugalada.egg-info/dependency_links.txt
+dist/sagittarius_brugalada-0.0.1-py3.8.egg
