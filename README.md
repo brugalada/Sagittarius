@@ -33,7 +33,7 @@ To install it:
 
 In the folder *TUTORIALS*, you will find examples on how to use the different functions provided.
 
-The main module is *sagittarius_properties* and allows to select from within the three different samples, two reference frames ('Galactic' or 'ICRS') and four properties (distance, depth, and the two components of the proper motion).
+The main module is *interpolators* and its main function, *sagittarius_properties*, allows to select from within the three different samples, two reference frames ('Galactic' or 'ICRS') and four properties (distance, depth, and the two components of the proper motion).
 
 
 ## Attribution
