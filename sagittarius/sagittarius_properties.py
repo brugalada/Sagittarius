@@ -89,7 +89,7 @@ def sagittarius_properties(Lambda,
             Lambda = np.array([Lambda])
             
             
-    #not all interpolators are ready, so for the moment we'll raise and Error
+    #not all interpolators are ready, so for the moment we'll raise an Error
     if (frame=='gal')&(source!='a20'):
         raise ValueError("Sorry, this combination of frame and source is not available yet! We are working on it ᕦ(ò_óˇ)ᕤ")
         
