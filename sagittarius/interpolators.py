@@ -17,6 +17,11 @@ filename = __mypath+'/pickles/sgr_interpolator'
 
 def get_dist(Lambda,source):
     """ Query the distance for a given Lambda vector and source (strip or ngc3, else return NaN) """
+    if source.lower() not in ['a20','strip','ngc3']:
+        raise ValueError("The source requested does not exist. Available options are: A20, Strip, nGC3.")
+    else:
+        source = source.lower()
+        
     if source.lower()=='a20':
         return np.ones_like(Lambda)*np.nan
     else:
@@ -27,6 +32,11 @@ def get_dist(Lambda,source):
             
 def get_scale(Lambda,source):
     """ Query the distance scale for a given Lambda vector and source (strip or ngc3, else return NaN) """
+    if source.lower() not in ['a20','strip','ngc3']:
+        raise ValueError("The source requested does not exist. Available options are: A20, Strip, nGC3.")
+    else:
+        source = source.lower()
+        
     if source.lower()=='a20':
         return np.ones_like(Lambda)*np.nan
     else:
@@ -37,6 +47,19 @@ def get_scale(Lambda,source):
 
 def get_pm(Lambda,source,frame):
     """ Query the proper motions for a given Lambda vector, source (a20, strip or ngc) and frame (gal or icrs)"""
+    if source.lower() not in ['a20','strip','ngc3']:
+        raise ValueError("The source requested does not exist. Available options are: A20, Strip, nGC3.")
+    else:
+        source = source.lower()
+        
+    if frame.lower() not in ['g','c','icrs','galactic','gal']:
+        raise ValueError("The requested reference frame does not exist. The available celestial frames are ICRS (or 'C') and Galactic (or 'G').")
+    else:
+        if frame.lower() in ['g','galactic','gal']:
+            frame='gal'
+        elif frame.lower() in ['c','icrs']:
+            frame='icrs'
+            
     with open(filename+'_{}_{}_{}.pkl'.format(source,frame,'pmlong'), 'rb') as f:
         pmlong_interpol = pickle.load(f)
         pmlong_vec = pmlong_interpol(Lambda)
@@ -45,7 +68,7 @@ def get_pm(Lambda,source,frame):
         pmlat_interpol = pickle.load(f)
         pmlat_vec = pmlat_interpol(Lambda)
         
-    return np.vstack((pmlong_vec,pmlat_vec))
+    return pmlong_vec,pmlat_vec
 
 
 def sagittarius_properties(Lambda,
@@ -103,27 +126,27 @@ def sagittarius_properties(Lambda,
             if scale:
                 scale_vec=get_scale(Lambda,source)
                 if proper_motion:
-                    pm_vec=get_pm(Lambda,source,frame)
-                    ans = np.vstack((dist_vec,scale_vec,pm_vec))
+                    pmlong_vec,pmlat_vec=get_pm(Lambda,source,frame)
+                    ans = np.vstack((dist_vec,scale_vec,pmlong_vec,pmlat_vec))
                 else:
                     ans = np.vstack((dist_vec,scale_vec))
             else:
                 if proper_motion:
-                    pm_vec=get_pm(Lambda,source,frame)
-                    ans = np.vstack((dist_vec,pm_vec))
+                    pmlong_vec,pmlat_vec=get_pm(Lambda,source,frame)
+                    ans = np.vstack((dist_vec,pmlong_vec,pmlat_vec))
                 else:
                     ans = dist_vec
         elif scale:
             scale_vec=get_scale(Lambda,source)
             if proper_motion:
-                pm_vec=get_pm(Lambda,source,frame)
-                ans = np.vstack((scale_vec,pm_vec))
+                pmlong_vec,pmlat_vec=get_pm(Lambda,source,frame)
+                ans = np.vstack((scale_vec,pmlong_vec,pmlat_vec))
             else:
                 ans = scale_vec
             
         elif proper_motion:
-            pm_vec=get_pm(Lambda,source,frame)
-            ans = pm_vec
+            pmlong_vec,pmlat_vec=get_pm(Lambda,source,frame)
+            ans = np.vstack((pmlong_vec,pmlat_vec))
     
         return ans.T
             
