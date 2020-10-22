@@ -62,3 +62,5 @@ sagittarius_brugalada.egg-info/requires.txt
 sagittarius_brugalada.egg-info/PKG-INFO
 sagittarius_brugalada.egg-info/dependency_links.txt
 dist/sagittarius_brugalada-0.0.1-py3.8.egg
+build/lib/sagittarius/interpolators.py
+sagittarius/__pycache__/interpolators.cpython-38.pyc
