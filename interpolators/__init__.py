@@ -14,4 +14,4 @@ try:
 except ImportError:
     raise ImportError('Scipy does not seem to be installed.')
 
-import sagittarius.sagittarius_properties
+import sagittarius.interpolators

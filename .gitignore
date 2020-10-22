@@ -34,3 +34,7 @@ sagittarius_properties_brugalada.egg-info/SOURCES.txt
 sagittarius_properties_brugalada.egg-info/top_level.txt
 tutorials/.ipynb_checkpoints/sagittarius_tutorial-checkpoint.ipynb
 .ipynb_checkpoints/README-checkpoint.md
+interpolators/.ipynb_checkpoints/__init__-checkpoint.py
+interpolators/.ipynb_checkpoints/sagittarius_properties-checkpoint.py
+interpolators/__pycache__/__init__.cpython-38.pyc
+interpolators/__pycache__/sagittarius_properties.cpython-38.pyc
