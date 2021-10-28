@@ -189,7 +189,7 @@
 >
 > [Chou+07:](#_nz1yq792erdm) 53
 >
-> [Hernitschek+17](#hernitschek17) 54
+> [Hernitschek+17](#_a0570vkq0fcg) 54
 >
 > [Dierickx+17: (Fig. 4 is wrong! Look only at Fig.
 > 6).](#dierickx17-fig.-4-is-wrong-look-only-at-fig.-6.) 54
@@ -1596,7 +1596,7 @@ measurement errors and the small-sample sizes. We discuss the
 implications of this in the context of the radius-age trend we have
 previously highlighted for the Magellanic Cloud clusters.
 
-![](.//media/image1.png){width="6.267716535433071in"
+![](.//media/image3.png){width="6.267716535433071in"
 height="1.8888888888888888in"}
 
 ### Bellazzini et al. 2003:
@@ -2532,7 +2532,7 @@ than previous determinations for this galaxy and agrees with previous
 suggestions that Sgr\'s body is truly closer to us, this estimate is
 larger than studies at comparable galactic latitudes.
 
-![](.//media/image8.png){width="6.270833333333333in"
+![](.//media/image10.png){width="6.270833333333333in"
 height="3.2083333333333335in"}
 
 NOTE: distance calibration is tricky and the absolute distance you get
@@ -2912,7 +2912,7 @@ NOT expect any significant gradient in initial radius (based on V21).
 Therefore, the metallicity gradient observed is NOT a product of a
 correlation between initial radius and metallicity.
 
-![](.//media/image11.png){width="6.267716535433071in"
+![](.//media/image12.png){width="6.267716535433071in"
 height="4.736111111111111in"}
 
 ### Correnti et al. 2010:
@@ -2955,7 +2955,7 @@ this. In fact, V21 predicts the trailing arm farther than that, and the
 second wrap of the leading, closer. **The detection seems robust
 though... is the V21 model wrong?**
 
-![](.//media/image9.png){width="6.267716535433071in"
+![](.//media/image11.png){width="6.267716535433071in"
 height="4.694444444444445in"}
 
 **NOTE: based on the comparison of the fields A and B with the V21
@@ -3114,10 +3114,10 @@ its evolution, which is consistent with observations of Sgr that show
 few or no young*** ***(age \< 2-3 Gyr) stars (e.g., Siegel et al. 2007),
 as well as the \[C/N\] inferences shown in §4.6."***
 
-![](.//media/image14.png){width="0.8333333333333334in"
+![](.//media/image13.png){width="0.8333333333333334in"
 height="4.423611111111111in"}
 
-![](.//media/image14.png){width="0.4375in" height="4.194444444444445in"}
+![](.//media/image13.png){width="0.4375in" height="4.194444444444445in"}
 
 "The Sgr comparison is shown in the bottom-right panel of Figure 12.
 Neither model matches well with the Weisz et al. (2014) SFH of Sgr,
@@ -3192,7 +3192,7 @@ contour map (panel a) and velocity dispersion profile (panel b) compares
 well with the results reported in Ibata+94. Hence we cannot constrain
 the initial mass of the dwarf or its orbit \[..\]."*
 
-![](.//media/image10.png){width="6.267716535433071in"
+![](.//media/image7.png){width="6.267716535433071in"
 height="2.861111111111111in"}
 
 ### Edelsohn, D. J.; Elmegreen, B. G. 1997:
@@ -3350,7 +3350,7 @@ surface brightness, gas-poor dwarf galaxies of mass \>∼ 10\^9M⊙ onto
 giant spiral galaxies from careful analysis of observations of the
 structure of HI disks.
 
-![](.//media/image4.png){width="6.267716535433071in" height="3.25in"}
+![](.//media/image5.png){width="6.267716535433071in" height="3.25in"}
 
 ### Gómez-Flechoso 1999:
 
@@ -3874,6 +3874,12 @@ result because no star gets stripped before its age). ii) the end result
 should show a correlation between distance to the centre of Sgr and
 metallicity/age (it does), which is not observed (Giuffrida+10).
 
+From Peñarrubia+10: *"However, LM10 find that in order to reproduce the
+location and velocities of the stream the intermediate axis of the dark
+matter halo should be aligned with the spin vector of the MW disc. This
+is hard to understand as circular orbits about the intermediate axis are
+unstable (e.g. Adams et al. 2007)"*
+
 ### Law & Majewski 2010:
 
 Numerical models of the tidal disruption of the Sagittarius (Sgr) dwarf
@@ -3904,6 +3910,194 @@ statistically significant evidence to suggest that any of the recently
 discovered population of ultrafaint dwarf galaxies are associated with
 the Sgr tidal streams, but are unable to rule out this possibility
 conclusively for all systems.
+
+### Peñarrubia et al. 2010:
+
+We use N-body simulations to explore the possibility that the
+Sagittarius (Sgr) dwarf galaxy **was originally a late-type, rotating
+disc galaxy,** rather than a non-rotating, pressure-supported dwarf
+spheroidal galaxy, as previously thought. **We find that bifurcations in
+the leading tail of the Sgr stream, similar to those detected by the
+SDSS survey, naturally arise in models where the Sgr disc is misaligned
+with respect to the orbital plane**. Moreover, we show that the internal
+rotation of the progenitor may strongly alter the location of the
+leading tail projected on the sky, and thus affect the constraints on
+the shape of the Milky Way dark matter halo that may be derived from
+modelling the Sgr stream. Our models provide a clear, easily tested
+prediction; **although tidal mass stripping removes a large fraction of
+the original angular momentum in the progenitor dwarf galaxy, the
+remnant core should still rotate with a velocity amplitude \~20kms-1**
+that could be readily detected in future, wide-field kinematic surveys
+of the Sgr dwarf.
+
+*"We use test particles to integrate its orbit back in time for a few
+orbital periods in order to provide initial conditions for our N-body
+realizations of the Sgr dwarf. We find that its orbital peri- and
+apocentres in the above potential are 15 and 67 kpc, respectively, which
+implies an*
+
+*orbital period of 1.04 Gyr. Currently, Sgr has just (≈34 Myr ago) gone
+through its last pericentric passage, and will cross the MW disc in
+approximately 28 Myr."*
+
+NOTES: no orbital shrinkage through time considered.
+
+*"The total initial mass of our Sgr model therefore is M = md + mh =
+3.5e8 + 2.4e9 = 2.8e9 Msun. \[..\] Also, since we only simulate the most
+recent history of the Sgr dwarf, our initial conditions must account for
+the fact that the outer halo envelope may have already been lost to
+tides at the time when the stellar stream begins to form (see Penarrubia
+et al. 2008). To do this, we impose a truncation in the dark matter
+density profile at r = rcut = 6Rd, which roughly corresponds to the
+tidal radius of a satellite galaxy with mass ∼3 × 10\^9 M at a
+pericentre rperi = 15 kpc."*
+
+*"During the stripping process, a fraction of the internal angular
+momentum of Sgr transfers to the stream. As a result, the stream tail(s)
+do not trace the progenitor's orbit. \[..\] we can appreciate that in
+all models both arms show a very similar gradient throughout the sky, in
+concordance with observational data. Hence, internal rotation in the Sgr
+dwarf mainly affects the apparent precision of the stream plane on the
+sky."*
+
+*"By colour coding the particles according to the time at which they are
+stripped, we can appreciate that the bifurcation arises from material
+lost at consecutive pericentric passages. In particular, the southern,
+more prominent tail of the leading arm (stream A) corresponds to stars
+that were lost at the third most recent pericentric interaction, i.e. 2
+Gyr ago (coloured in red), whilst the fainter northern tail (stream B)
+is more recent and is composed of stars that became unbound at the
+penultimate pericentre, i.e. 1 Gyr ago (in blue). This result clearly
+implies that the minimum age of the Sgr stream is two orbital periods,
+which justifies the choice of integration time for our N-body models."*
+
+NOTES: the faint branch is due to the L2p1w material in terms of V21
+model. This has a pro and a con. Pro: it naturally explains why it ends
+earlier than the bright branch. Con: its metallicity should be higher.
+
+*"Together with observed metallicity patterns that are atypical for
+dSphs, this suggests that the Sgr dwarf may have originally been a
+galaxy akin to late-type spirals with a peak rotation of 45 km s−1."*
+
+NOTES: bold...
+
+### Myers et al. 2010:
+
+In hierarchical models of large-scale structure formation, most galaxies
+grow in clusters, where merging is an essential, if not dominant
+process. Understanding the merger process is greatly aided by examples
+in the vicinity of the Milky Way due to the availability of high quality
+positional and kinematic data. The Sagittarius Dwarf Galaxy at a
+distance of 25 kpc is a prime example. Detailed observations of stars in
+this dwarf galaxy and its associated tidal streams also provide a unique
+probe of the gravitational field of the Milky Way. To fully utilize this
+probe requires not only excellent observations but also accurate models
+of the merging event. We investigate the recent history of the
+Sagittarius Dwarf with the smoothed particle hydrodynamics/N-body
+GADGET-2 code, treating both the Milky Way and the dwarf galaxy as a
+particle system. In addition to considerations of particle number,
+gravitational softening, stability criteria such as Toomre Q parameter,
+and angular momentum transport, we add the distinction between static
+and dynamic potential differences as another aspect that deserves
+consideration. We find that the commonly employed approximation of a
+static Milky Way potential induces changes in the orbit corresponding to
+position changes on the sky of order 0.5°-1°. **The weak dependence of
+the results on the live versus static Milky Way model justify the use of
+static potentials in situations which do not require very high
+positional accuracy.**
+
+"To treat the static gravitational potential of the MW, we do not employ
+analytical models for the potential, but instead **fix the MW particles'
+position** while allowing the SDG particles to move in response to the
+total gravitational potential of the system. \[..\] In the case of the
+dynamic potential of the MW, the MW particles are treated in the usual
+N-body fashion."
+
+NOTES: in the static case, everything is almost the same, but no
+dynamical friction or resonant effects at play.
+
+*"The assumed initial position of the SDG relative to the center of the
+MW was determined by performing a simple two-body evolution to 2 Gyr in
+the past. \[..\] We calculate the orbital path of the SDG galaxy
+starting from its initial point ∼1.2 Gyr in the past."*
+
+NOTES: that is an extremely short time!! Of course they do not observe
+any difference between the static and live simulations...
+
+### Lokas et al. 2010
+
+The tidal stirring model envisions the formation of dwarf spheroidal
+(dSph) galaxies in the Local Group and similar environments via the
+tidal interaction of disky dwarf systems with a larger host galaxy like
+the Milky Way. These progenitor disks are embedded in extended dark
+halos and during the evolution both components suffer strong mass loss.
+In addition, the disks undergo the morphological transformation into
+spheroids and the transition from ordered to random motion of their
+stars. Using collisionless N-body simulations, we construct a model for
+the nearby and highly elongated Sagittarius (Sgr) dSph galaxy within the
+framework of the tidal stirring scenario. Constrained by the present
+orbit of the dwarf, which is fairly well known, the model suggests that
+in order to produce the majority of tidal debris observed as the Sgr
+stream, but not yet transform the core of the dwarf into a spherical
+shape, **Sgr must have just passed the second pericenter of its current
+orbit around the Milky Way.** In the model, the stellar component of Sgr
+is still very elongated after the second pericenter and morphologically
+intermediate between the strong bar formed at the first pericenter and
+the almost spherical shape existing after the third pericenter. **This
+is thus the first model of the evolution of the Sgr dwarf that accounts
+for its observed very elliptical shape.** At the present time, there is
+very little intrinsic rotation left and **the velocity gradient detected
+along the major axis is almost entirely of tidal origin.** We model the
+recently measured velocity dispersion profile for Sgr assuming that mass
+traces light and estimate its **current total mass within 5 kpc to be
+5.2 × 10\^8 M sun**. To have this mass at present, the model requires
+that the **initial virial mass of Sgr must have been as high as 1.6 ×
+10\^10 M sun**, comparable to that of the Large Magellanic Cloud, which
+may serve as a suitable analog for the pre-interaction, Sgr progenitor.
+
+"In the simulation described below that reproduced best the observed
+properties of Sgr, the dwarf progenitor initially had a dark halo with a
+virial mass M = 1.6 × 10\^10 M and a concentration of c = 15. **The mass
+and radial scale length of the disk were 3.2 × 10\^8 M and Rd = 2.3 kpc,
+respectively. \[..\] The orbit was inclined by 76◦ to the Galactic plane
+and the dwarf galaxy disk was inclined by 10◦ with respect to the
+orbital plane."**
+
+**NOTE: they actually simulated a disc! But there is no study of the
+bifurcation. Could be that it does not appear because of the low
+relative angle between the disc and the orbit. But they manage to get a
+final shape that explains the elongation of the remnant and the fact
+that it has no rotation left!**
+
+*"\[Peñarrubia+10\] showed that if their initial disk was inclined by
+about 20◦ with respect to the orbital plane then the bifurcation would
+be reproduced. While an intriguing hypothesis for the origin of the
+enigmatic bifurcation, our work suggests that the initial inclination of
+the disk was probably about a factor of 2 lower since otherwise the
+stellar component forms a pronounced S-shape that is not observed in the
+real data."*
+
+*"Note however that some mass loss in stars and the formation of stellar
+streams could take place even before the phases of evolution we study in
+this paper. Thus, more pericenter passages than two may have occurred in
+total, but the earlier ones at large radii will have minimal effect on
+the internal structure of Sgr (Kazantzidis et al. 2010)."*
+
+*"The shape of the dwarf galaxy disk evolves so that after the first
+pericenter a bar is formed (b/a = c/a). This bar soon transforms into a
+triaxial, but still prolate shape. At the second pericenter the bar
+becomes stronger again and at the moment shown in Figure 3, which
+corresponds to the present state of Sgr, the dwarf is still quite
+elongated with b/a = 0.83 and c/a = 0.72 inside the inner 1 kpc. Note
+that these values depend on radius and would be b/a = 0.64 and c/a =
+0.57 when measured within the disk initial scale length r\<Rd = 2.3 kpc.
+Right after the second pericenter the stellar component becomes almost
+spherical with b/a and c/a both very close to unity. The shape becomes a
+little elongated again at the third pericenter because the tidal forces
+are at their maximum. \[..\] The changes of the shape of the stellar
+component are accompanied by a strong mass loss and decreasing rotation
+velocity Vrot of the stars **(from \~25 km/s to \~2km/s in the inner
+1kpc).**"*
 
 ### Hernitschek+17
 
@@ -4136,7 +4330,7 @@ computed in a non-linear way and thus the relation with the JK96 scale
 (bias by +0.3 wrt Zinn&West84, see Gratton+04) depends on the location
 in the Periods vs ${{\phi_{31}}^{s}}_{}$:
 
-![](.//media/image2.png){width="6.270833333333333in" height="7.625in"}
+![](.//media/image1.png){width="6.270833333333333in" height="7.625in"}
 
 However, the stars selected by nGC3 fall predominantly at the regions
 where the relation JK96 to Nemec13 is almost one-to-one. Therefore, for
@@ -4145,7 +4339,7 @@ Z&W84 scale. However, if we take the relation in Eq. (5) of
 Kunder&Chaboyer 2008, we can fit directly the metallicity in the Z&W84
 scale -\> \[Fe/H\]~ZW~\~-1.55dex.
 
-![](.//media/image12.png){width="5.208333333333333in"
+![](.//media/image9.png){width="5.208333333333333in"
 height="4.166666666666667in"}
 
 ![](.//media/image6.png){width="5.208333333333333in"
@@ -4153,7 +4347,7 @@ height="4.166666666666667in"}
 
 Regarding the RRc stars, the relation is linear and we can already see
 the offset wrt to Z&W84 in the following figure, also from
-Nemec+13:![](.//media/image7.png){width="6.270833333333333in"
+Nemec+13:![](.//media/image8.png){width="6.270833333333333in"
 height="7.527777777777778in"}
 
 When we take the mean metallicity of DPAC for RRc stars at distance \>
@@ -4330,7 +4524,7 @@ The first tests have shown a discrepancy in the determination of the
 pole of Sgr stream. However, this might be correct because, when
 colouring the stream by B_sol we see that is not centred at zero:
 
-![](.//media/image5.png){width="3.0781255468066493in"
+![](.//media/image4.png){width="3.0781255468066493in"
 height="2.478254593175853in"}
 
 We have also checked that the change used is coherent up to the level of
@@ -4338,5 +4532,5 @@ We have also checked that the change used is coherent up to the level of
 
 It is centred, however, with the trailing tail, as it was intended.
 
-![](.//media/image3.png){width="3.8443175853018374in"
+![](.//media/image2.png){width="3.8443175853018374in"
 height="3.057292213473316in"}
