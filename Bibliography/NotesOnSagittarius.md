@@ -1,236 +1,339 @@
-**[Observational evidence](#observational-evidence)** **4**
+**[Observational evidence](#observational-evidence)** **6**
 
-> [References:](#references) 4
+> [References:](#references) 6
 >
-> [Notes:](#notes) 4
+> [Notes:](#notes) 6
 >
-> [Ibata, Gilmore & Irwin 1994](#ibata-gilmore-irwin-1994) 4
+> [Ibata, Gilmore & Irwin 1994](#ibata-gilmore-irwin-1994) 6
 >
-> [Sarajedini & Layden 1995](#sarajedini-layden-1995) 5
+> [Sarajedini & Layden 1995](#sarajedini-layden-1995) 7
 >
 > [Da Costa, G. S.; Armandroff, T. E.
-> 1995](#da-costa-g.-s.-armandroff-t.-e.-1995) 5
+> 1995](#da-costa-g.-s.-armandroff-t.-e.-1995) 7
 >
 > [Bassino, L. P.; Muzzio, J. C. 1995](#bassino-l.-p.-muzzio-j.-c.-1995)
-> 6
+> 8
 >
 > [Ibata, Rodrigo A.; Gilmore, Gerard; Irwin, Michael J.
-> 1995](#ibata-rodrigo-a.-gilmore-gerard-irwin-michael-j.-1995) 6
+> 1995](#ibata-rodrigo-a.-gilmore-gerard-irwin-michael-j.-1995) 8
 >
-> [Mateo et al. 1995a](#mateo-et-al.-1995a) 7
+> [Mateo et al. 1995a](#mateo-et-al.-1995a) 9
 >
-> [Mateo et al. 1995b](#mateo-et-al.-1995b) 7
+> [Mateo et al. 1995b](#mateo-et-al.-1995b) 9
 >
-> [Mateo et al. 1996](#mateo-et-al.-1996) 8
+> [Mateo et al. 1996](#mateo-et-al.-1996) 10
 >
-> [Alard 1996](#alard-1996) 8
+> [Alard 1996](#alard-1996) 10
 >
-> [Fahlman et al. 1996](#fahlman-et-al.-1996) 8
+> [Fahlman et al. 1996](#fahlman-et-al.-1996) 10
 >
 > [Whitelock, Irwin and Catchpole
-> 1996](#whitelock-irwin-and-catchpole-1996) 8
+> 1996](#whitelock-irwin-and-catchpole-1996) 10
 >
-> [Zijlstra and Walsh 1996](#zijlstra-and-walsh-1996) 8
+> [Zijlstra and Walsh 1996](#zijlstra-and-walsh-1996) 10
 >
-> [Alcock et al. 1996](#alcock-et-al.-1996) 9
+> [Alcock et al. 1996](#alcock-et-al.-1996) 11
 >
-> [Ibata et al. 1997](#ibata-et-al.-1997) 9
+> [Ibata et al. 1997](#ibata-et-al.-1997) 11
 >
-> [Ng & Schultheis 1997:](#ng-schultheis-1997) 12
+> [Ng & Schultheis 1997:](#ng-schultheis-1997) 14
 >
-> [Layden & Sarajedini 1997:](#layden-sarajedini-1997) 12
+> [Layden & Sarajedini 1997:](#layden-sarajedini-1997) 14
 >
-> [Walsh et al. 1997](#walsh-et-al.-1997) 13
+> [Walsh et al. 1997](#walsh-et-al.-1997) 15
 >
-> [Marconi et al. 1997:](#marconi-et-al.-1997) 13
+> [Marconi et al. 1997:](#marconi-et-al.-1997) 15
 >
-> [Montegriffo et al. 1998:](#montegriffo-et-al.-1998) 13
+> [Montegriffo et al. 1998:](#montegriffo-et-al.-1998) 15
 >
-> [Smith et al. 1998:](#smith-et-al.-1998) 14
+> [Smith et al. 1998:](#smith-et-al.-1998) 16
 >
-> [Ng 1998:](#ng-1998) 14
+> [Ng 1998:](#ng-1998) 16
 >
-> [van den Bergh 1998:](#van-den-bergh-1998) 15
+> [van den Bergh 1998:](#van-den-bergh-1998) 17
 >
-> [Mateo et al. 1998:](#mateo-et-al.-1998) 15
+> [Mateo et al. 1998:](#mateo-et-al.-1998) 17
 >
-> [Whitelock et al. 1999:](#whitelock-et-al.-1999) 16
+> [Whitelock et al. 1999:](#whitelock-et-al.-1999) 18
 >
-> [Bellazzini et al. 1999:](#bellazzini-et-al.-1999) 16
+> [Bellazzini et al. 1999:](#bellazzini-et-al.-1999) 18
 >
-> [Burton & Lockman 1999:](#burton-lockman-1999) 17
+> [Burton & Lockman 1999:](#burton-lockman-1999) 19
 >
-> [Brown et al. 1999:](#brown-et-al.-1999) 17
+> [Brown et al. 1999:](#brown-et-al.-1999) 19
 >
-> [Majewski et al. 1999:](#majewski-et-al.-1999) 17
+> [Majewski et al. 1999:](#majewski-et-al.-1999) 19
 >
-> [Layden and Sarajedini 2000:](#layden-and-sarajedini-2000) 18
+> [Layden and Sarajedini 2000:](#layden-and-sarajedini-2000) 20
 >
-> [Cseresnjes et al. 2000:](#cseresnjes-et-al.-2000) 19
+> [Cseresnjes et al. 2000:](#cseresnjes-et-al.-2000) 21
 >
-> [Bonifacio et al. 2000:](#bonifacio-et-al.-2000) 19
+> [Bonifacio et al. 2000:](#bonifacio-et-al.-2000) 21
 >
-> [Dinescu et al. 2000:](#dinescu-et-al.-2000) 20
+> [Dinescu et al. 2000:](#dinescu-et-al.-2000) 22
 >
-> [Dudziak et al. 2000:](#dudziak-et-al.-2000) 20
+> [Dudziak et al. 2000:](#dudziak-et-al.-2000) 22
 >
-> [Yanny et al. 2000:](#yanny-et-al.-2000) 21
+> [Yanny et al. 2000:](#yanny-et-al.-2000) 23
 >
-> [Ibata et al. 2001:](#ibata-et-al.-2001) 21
+> [Ibata et al. 2001:](#ibata-et-al.-2001) 23
 >
-> [Martinez-Delgado et al. 2001:](#martinez-delgado-et-al.-2001) 22
+> [Martinez-Delgado et al. 2001:](#martinez-delgado-et-al.-2001) 24
 >
-> [Vivas et al. 2001:](#vivas-et-al.-2001) 22
+> [Vivas et al. 2001:](#vivas-et-al.-2001) 24
 >
-> [Dohm-Palmer et al. 2001:](#dohm-palmer-et-al.-2001) 22
+> [Dohm-Palmer et al. 2001:](#dohm-palmer-et-al.-2001) 24
 >
-> [Cseresnjes 2001:](#cseresnjes-2001) 23
+> [Cseresnjes 2001:](#cseresnjes-2001) 25
 >
-> [Cole 2001](#cole-2001) 24
+> [Cole 2001](#cole-2001) 26
 >
-> [Alard 2001:](#alard-2001) 24
+> [Alard 2001:](#alard-2001) 26
 >
-> [Newberg et al. 2002:](#newberg-et-al.-2002) 25
+> [Newberg et al. 2002:](#newberg-et-al.-2002) 27
 >
-> [Martinez-Delgado et al. 2002:](#martinez-delgado-et-al.-2002) 25
+> [Martinez-Delgado et al. 2002:](#martinez-delgado-et-al.-2002) 27
 >
-> [Bellazzini et al. 2002](#bellazzini-et-al.-2002) 26
+> [Bellazzini et al. 2002](#bellazzini-et-al.-2002) 28
 >
-> [Dinescu et al. 2002](#dinescu-et-al.-2002) 26
+> [Dinescu et al. 2002](#dinescu-et-al.-2002) 28
 >
-> [Kundu et al. 2002:](#kundu-et-al.-2002) 27
+> [Kundu et al. 2002:](#kundu-et-al.-2002) 29
 >
-> [Monaco et al. 2002:](#monaco-et-al.-2002) 27
+> [Monaco et al. 2002:](#monaco-et-al.-2002) 29
 >
-> [Bellazzini et al. 2003:](#bellazzini-et-al.-2003) 28
+> [Bellazzini et al. 2003:](#bellazzini-et-al.-2003) 30
 >
-> [Bonifacio et al. 2003:](#bonifacio-et-al.-2003) 28
+> [Bonifacio et al. 2003:](#bonifacio-et-al.-2003) 30
 >
-> [Mackey & Gilmore 2003:](#mackey-gilmore-2003) 29
+> [Mackey & Gilmore 2003:](#mackey-gilmore-2003) 31
 >
-> [Bellazzini et al. 2003:](#bellazzini-et-al.-2003-1) 29
+> [Bellazzini et al. 2003:](#bellazzini-et-al.-2003-1) 31
 >
-> [Newberg et al. 2003:](#newberg-et-al.-2003) 30
+> [Newberg et al. 2003:](#newberg-et-al.-2003) 32
 >
-> [Monaco et al. 2003:](#monaco-et-al.-2003) 30
+> [Monaco et al. 2003:](#monaco-et-al.-2003) 32
 >
-> [Majewski et al. 2003:](#majewski-et-al.-2003) 30
+> [Majewski et al. 2003:](#majewski-et-al.-2003) 32
 >
-> [Tautvaišienė et al. 2003:](#tautvaišienė-et-al.-2003) 32
+> [Tautvaišienė et al. 2003:](#tautvaišienė-et-al.-2003) 34
 >
-> [Martinez-Delgado et al. 2004:](#martinez-delgado-et-al.-2004) 33
+> [Martinez-Delgado et al. 2004:](#martinez-delgado-et-al.-2004) 35
 >
-> [Bonifacio et al. 2004:](#bonifacio-et-al.-2004) 34
+> [Bonifacio et al. 2004:](#bonifacio-et-al.-2004) 36
 >
-> [Cohen 2004:](#cohen-2004) 34
+> [Cohen 2004:](#cohen-2004) 36
 >
-> [Putman et al. 2004:](#putman-et-al.-2004) 35
+> [Putman et al. 2004:](#putman-et-al.-2004) 37
 >
-> [Majewski et al. 2004:](#majewski-et-al.-2004) 35
+> [Majewski et al. 2004:](#majewski-et-al.-2004) 37
 >
-> [Monaco et al. 2004:](#monaco-et-al.-2004) 36
+> [Monaco et al. 2004:](#monaco-et-al.-2004) 38
 >
-> [Vivas et al. 2005](#vivas-et-al.-2005) 36
+> [Vivas et al. 2005](#vivas-et-al.-2005) 38
 >
-> [Dinescu et al. 2005:](#dinescu-et-al.-2005) 36
+> [Dinescu et al. 2005:](#dinescu-et-al.-2005) 38
 >
-> [Monaco et al. 2005:](#monaco-et-al.-2005) 37
+> [Monaco et al. 2005:](#monaco-et-al.-2005) 39
 >
-> [Monaco et al. 2005:](#monaco-et-al.-2005-1) 37
+> [Monaco et al. 2005:](#monaco-et-al.-2005-1) 39
 >
-> [Bellazzini et al. 2006:](#bellazzini-et-al.-2006) 37
+> [Bellazzini et al. 2006:](#bellazzini-et-al.-2006) 39
 >
-> [Kunder&Chaboyer09:](#kunderchaboyer09) 38
+> [Belokurov et al. 2006:](#belokurov-et-al.-2006) 40
 >
-> [Peñarrubia+11:](#peñarrubia11) 38
+> [Clewley & Jarvis 2006:](#clewley-jarvis-2006) 40
 >
-> [Hasselquist et al. 2021:](#hasselquist-et-al.-2021) 38
+> [Zijlstra et al. 2006:](#zijlstra-et-al.-2006) 41
+>
+> [Bellazzini et al. 2006](#bellazzini-et-al.-2006-1) 42
+>
+> [Ramsay & Wu 2006:](#ramsay-wu-2006) 42
+>
+> [Monaco et al. 2007:](#monaco-et-al.-2007) 42
+>
+> [Sbordone et al. 2007:](#sbordone-et-al.-2007) 43
+>
+> [Siegel et al. 2007:](#siegel-et-al.-2007) 44
+>
+> [Newberg et al. 2007:](#newberg-et-al.-2007) 45
+>
+> [Chou et al. 2007:](#chou-et-al.-2007) 45
+>
+> [Keller et al. 2008:](#keller-et-al.-2008) 46
+>
+> [Mottini et al. 2008](#mottini-et-al.-2008) 47
+>
+> [Mottini et al. 2008:](#mottini-et-al.-2008-1) 47
+>
+> [Cole et al. 2008:](#cole-et-al.-2008) 48
+>
+> [Kniazev et al. 2008:](#kniazev-et-al.-2008) 48
+>
+> [Bellazzini et al. 2008:](#bellazzini-et-al.-2008) 49
+>
+> [Kunder&Chaboyer09:](#kunderchaboyer09) 49
+>
+> [Ibata et al. 2009:](#ibata-et-al.-2009) 50
+>
+> [Carraro & Bensby 2009:](#carraro-bensby-2009) 50
+>
+> [Yanny et al. 2009:](#yanny-et-al.-2009) 51
+>
+> [Prior et al. 2009:](#prior-et-al.-2009) 52
+>
+> [Chou et al. 2010:](#chou-et-al.-2010) 52
+>
+> [Pryor et al. 2010:](#pryor-et-al.-2010) 53
+>
+> [Niederste-Ostholt et al. 2010:](#niederste-ostholt-et-al.-2010) 54
+>
+> [Giuffrida et al. 2010:](#giuffrida-et-al.-2010) 54
+>
+> [Carretta et al. 2010:](#carretta-et-al.-2010) 55
+>
+> [Sollima et al. 2010:](#sollima-et-al.-2010) 55
+>
+> [Carretta et al. 2010:](#carretta-et-al.-2010-1) 56
+>
+> [Keller et al. 2010:](#keller-et-al.-2010) 56
+>
+> [Correnti et al. 2010:](#correnti-et-al.-2010) 58
+>
+> [Peñarrubia+11:](#peñarrubia11) 59
+>
+> [Ruhland et al. 2011:](#ruhland-et-al.-2011) 60
+>
+> [Siegel et al. 2011:](#siegel-et-al.-2011) 60
+>
+> [Carlin et al. 2012:](#carlin-et-al.-2012) 61
+>
+> [Salinas et al. 2012:](#salinas-et-al.-2012) 62
+>
+> [Koposov et al. 2012](#koposov-et-al.-2012) 62
+>
+> [Carrell et al. 2012:](#carrell-et-al.-2012) 63
+>
+> [Frinchaboy et al. 2012:](#frinchaboy-et-al.-2012) 64
+>
+> [McDonald et al. 2012:](#mcdonald-et-al.-2012) 65
+>
+> [Hasselquist et al. 2021:](#hasselquist-et-al.-2021) 65
 
-**[Models](#models)** **43**
+**[Models](#models)** **69**
 
-> [References](#references-1) 43
+> [References](#references-1) 69
 >
-> [Notes](#notes-1) 43
+> [Notes](#notes-1) 69
 >
-> [Velázquex and White 1995](#velázquex-and-white-1995) 43
+> [Velázquex and White 1995](#velázquex-and-white-1995) 69
 >
 > [Johnston, Kathryn V.; Spergel, David N.; Hernquist, Lars
-> 1995](#johnston-kathryn-v.-spergel-david-n.-hernquist-lars-1995) 43
+> 1995](#johnston-kathryn-v.-spergel-david-n.-hernquist-lars-1995) 69
 >
 > [Edelsohn, D. J.; Elmegreen, B. G.
-> 1997:](#edelsohn-d.-j.-elmegreen-b.-g.-1997) 44
+> 1997:](#edelsohn-d.-j.-elmegreen-b.-g.-1997) 70
 >
-> [Ibata+97:](#ibata97) 44
+> [Ibata+97:](#ibata97) 70
 >
-> [Ibata & Lewis1998:](#ibata-lewis1998) 45
+> [Ibata & Lewis1998:](#ibata-lewis1998) 71
 >
-> [Zhao 1998:](#zhao-1998) 46
+> [Zhao 1998:](#zhao-1998) 72
 >
-> [Ibata et al. 1998:](#ibata-et-al.-1998) 46
+> [Ibata et al. 1998:](#ibata-et-al.-1998) 72
 >
-> [Gómez-Flechoso 1999:](#gómez-flechoso-1999) 47
+> [Gómez-Flechoso 1999:](#gómez-flechoso-1999) 73
 >
-> [Johnston et al. 1999](#johnston-et-al.-1999) 47
+> [Johnston et al. 1999](#johnston-et-al.-1999) 73
 >
 > [Jiang, Ing-Guey and Binney, James
-> 2000:](#jiang-ing-guey-and-binney-james-2000) 48
+> 2000:](#jiang-ing-guey-and-binney-james-2000) 74
 >
-> [Helmi and White 2001:](#helmi-and-white-2001) 49
+> [Helmi and White 2001:](#helmi-and-white-2001) 75
 >
-> [Bailin 2003:](#bailin-2003) 49
+> [Bailin 2003:](#bailin-2003) 75
 >
-> [Law et al. 2004](#law-et-al.-2004) 50
+> [Law et al. 2004](#law-et-al.-2004) 76
 >
-> [Helmi 2004:](#helmi-2004) 50
+> [Helmi 2004:](#helmi-2004) 76
 >
-> [Johnston et al. 2005](#johnston-et-al.-2005) 51
+> [Johnston et al. 2005](#johnston-et-al.-2005) 77
 >
-> [Law et al. 2005:](#law-et-al.-2005) 52
+> [Law et al. 2005:](#law-et-al.-2005) 78
 >
-> [Chou+07:](#_nz1yq792erdm) 53
+> [Fellhauer et al. 2006](#fellhauer-et-al.-2006) 79
 >
-> [Hernitschek+17](#_a0570vkq0fcg) 54
+> [Law et al. 2009:](#law-et-al.-2009) 80
+>
+> [Law & Majewski 2010:](#law-majewski-2010) 81
+>
+> [Law & Majewski 2010:](#law-majewski-2010-1) 83
+>
+> [Peñarrubia et al. 2010:](#peñarrubia-et-al.-2010) 83
+>
+> [Myers et al. 2010:](#myers-et-al.-2010) 85
+>
+> [Lokas et al. 2010](#lokas-et-al.-2010) 85
+>
+> [Purcell et al. 2011:](#purcell-et-al.-2011) 87
+>
+> [Niederste-Ostholt et al. 2012:](#niederste-ostholt-et-al.-2012) 88
+>
+> [Hernitschek+17](#hernitschek17) 89
 >
 > [Dierickx+17: (Fig. 4 is wrong! Look only at Fig.
-> 6).](#dierickx17-fig.-4-is-wrong-look-only-at-fig.-6.) 54
+> 6).](#dierickx17-fig.-4-is-wrong-look-only-at-fig.-6.) 89
 >
-> [Fardal+19](#fardal19) 55
+> [Fardal+19](#fardal19) 90
 >
-> [Velokurov et al. 2021](#velokurov-et-al.-2021) 55
+> [Velokurov et al. 2021](#velokurov-et-al.-2021) 90
 
 **[Star formation and Metallicity
-Distribution](#star-formation-and-metallicity-distribution)** **56**
+Distribution](#star-formation-and-metallicity-distribution)** **92**
 
-> [References](#references-2) 56
+> [References](#references-2) 92
 >
-> [Notes](#notes-2) 56
+> [Notes](#notes-2) 92
 >
-> [Chou+07:](#chou07) 56
+> [Chou+07:](#chou07) 92
 >
-> [Tepper-Garcia+18:](#tepper-garcia18) 56
+> [Tepper-Garcia+18:](#tepper-garcia18) 92
 
-**[RR Lyrae](#rr-lyrae)** **57**
+**[RR Lyrae](#rr-lyrae)** **93**
 
-> [References](#references-3) 57
+> [References](#references-3) 93
 >
-> [Notes](#notes-3) 57
+> [Notes](#notes-3) 93
 >
-> [Fardal+19](#fardal19-1) 57
+> [Fardal+19](#fardal19-1) 93
 >
-> [Hernitschek+17](#hernitschek17-1) 57
+> [Hernitschek+17](#hernitschek17-1) 93
 
 **[RR Lyrae metallicity
-calibration](#rr-lyrae-metallicity-calibration)** **59**
+calibration](#rr-lyrae-metallicity-calibration)** **95**
 
-> [References](#references-4) 59
+> [References](#references-4) 95
 
-**[Bifurcation](#bifurcation)** **64**
+**[Bifurcation](#bifurcation)** **100**
 
-> [References](#references-5) 64
+> [References](#references-5) 100
 
-**[Others](#others)** **66**
+**[Others](#others)** **102**
 
-> [Sgr orbital plane](#sgr-orbital-plane) 66
+> [Miscellaneous](#miscellaneous) 102
+>
+> [Forbes & Bridges 2010:](#forbes-bridges-2010) 102
+>
+> [Lux et al. 2010:](#lux-et-al.-2010) 102
+>
+> [Kazantzidis et al. 2011:](#kazantzidis-et-al.-2011) 103
+>
+> [Curiosities](#curiosities) 104
+>
+> [Kesden, Michael & Kamionkowski, Marc
+> 2006](#kesden-michael-kamionkowski-marc-2006) 104
+>
+> [Sgr orbital plane](#sgr-orbital-plane) 104
 
 #  
 
@@ -1596,7 +1699,7 @@ measurement errors and the small-sample sizes. We discuss the
 implications of this in the context of the radius-age trend we have
 previously highlighted for the Magellanic Cloud clusters.
 
-![](.//media/image3.png){width="6.267716535433071in"
+![](.//media/image1.png){width="6.267716535433071in"
 height="1.8888888888888888in"}
 
 ### Bellazzini et al. 2003:
@@ -2532,7 +2635,7 @@ than previous determinations for this galaxy and agrees with previous
 suggestions that Sgr\'s body is truly closer to us, this estimate is
 larger than studies at comparable galactic latitudes.
 
-![](.//media/image10.png){width="6.270833333333333in"
+![](.//media/image9.png){width="6.270833333333333in"
 height="3.2083333333333335in"}
 
 NOTE: distance calibration is tricky and the absolute distance you get
@@ -2701,7 +2804,7 @@ fingerprinting,\" we conclude that these mostly receding northern
 hemisphere M giants also are Sgr stars, likely trailing arm debris
 overlapping the Sgr leading arm in the north.**
 
-NOTE: their detection of the trailing arm in the north seems confirmed
+NOTE: Their detection of the trailing arm in the north seems confirmed
 compared to previous works (Majewski+2004, Chou+2007), and correspond
 roughly to the same detections we have with modern samples.
 
@@ -2955,8 +3058,8 @@ this. In fact, V21 predicts the trailing arm farther than that, and the
 second wrap of the leading, closer. **The detection seems robust
 though... is the V21 model wrong?**
 
-![](.//media/image11.png){width="6.267716535433071in"
-height="4.694444444444445in"}
+![](.//media/image13.png){width="6.270833333333333in"
+height="4.697916666666667in"}
 
 **NOTE: based on the comparison of the fields A and B with the V21
 model, it would seem like they detected the trailing arm. However, right
@@ -2966,8 +3069,301 @@ trailing to these detections?**
 
 ### Peñarrubia+11:
 
-dSph is most likely pressure supported (no net rotation) as seen by line
-of sight velocities.
+We have conducted a spectroscopic survey of the inner regions of the
+Sagittarius (Sgr) dwarf galaxy using the AAOmega spectrograph on the
+Anglo-Australian Telescope. We determine radial velocities for over 1800
+Sgr star members in six fields that cover an area 18.84 deg2, with a
+typical accuracy of ≈2 km s-1. Motivated by recent numerical models of
+the Sgr tidal stream that predict a substantial amount of rotation in
+the dwarf remnant core, we compare the kinematic data against N-body
+models that simulate the stream progenitor as (1) a pressure-supported,
+mass-follows-light system and (2) a late-type, rotating disk galaxy
+embedded in an extended dark matter halo. **We find that the models with
+little or no intrinsic rotation clearly yield a better match to the mean
+line-of-sight velocity in all surveyed fields, but fail to reproduce the
+shape of the line-of-sight velocity distribution.** This result rules
+out models wherein the prominent bifurcation observed in the leading
+tail of the Sgr stream was caused by a transfer from intrinsic angular
+momentum from the progenitor satellite into the tidal stream. It also
+implies that the trajectory of the young tidal tails has not been
+affected by internal rotation in the progenitor system. Our finding
+indicates that new, more elaborate dynamical models, in which the dark
+and luminous components are treated independently, are necessary for
+simultaneously reproducing both the internal kinematics of the Sgr dwarf
+and the available data for the associated tidal stream.
+
+*"dSph is most likely pressure supported (no net rotation) as seen by
+line of sight velocities."*
+
+**NOTES: based on the results of Lokas+10, it's not true that the lack
+of intrinsic rotation today rules out a disky origin for Sgr. Plus, as
+they say, their model fails to reproduce the shape of the line-of-sight
+velocity distribution. Clearly, there's more to it.**
+
+### Ruhland et al. 2011:
+
+We use a sample of blue horizontal branch (BHB) stars from the Sloan
+Digital Sky Survey Data Release 7 to explore the structure of the tidal
+tails from the Sagittarius Dwarf Galaxy. We use a method yielding BHB
+star candidates with up to \~70% purity from photometry alone. The
+resulting sample has a distance precision of roughly 5% and can probe
+distances in excess of 100 kpc. Using this sample, **we identify a
+possible extension to the trailing arm at distances of 60-80 kpc from
+the Sun** with an estimated significance of at least 3.8σ. **Current
+models predict that a distant \"returning\" segment of the debris stream
+should exist, but place it substantially closer to the Sun where no
+debris is observed in our data.** Exploiting the distance precision of
+our tracers, we estimate the mean line-of-sight thickness of the leading
+arm to be \~3 kpc, **and show that the two \"bifurcated\" branches of
+the debris stream differ by only 1-2 kpc in distance.** With a
+spectroscopic very pure BHB star subsample, we estimate **the velocity
+dispersion in the leading arm, 37 km s-1**, which is in reasonable
+agreement with models of Sgr disruption. We finally present a sample of
+high-probability Sgr BHB stars in the leading arm of Sgr, selected to
+have distances and velocities consistent with Sgr membership, to allow
+further study.
+
+NOTES: first actual proof that the leading arm extends farther than
+predicted by the models.
+
+### Siegel et al. 2011:
+
+We use observations from the Hubble Space Telescope Advanced Camera for
+Surveys (HST/ACS) study of Galactic globular clusters to investigate the
+spatial distribution of the inner regions of the disrupting Sagittarius
+dwarf spheroidal galaxy (Sgr). We combine previously published analyses
+of four Sgr member clusters located near or in the Sgr core (M54, Arp 2,
+Terzan 7, and Terzan 8) with a new analysis of diffuse Sgr material
+identified in the background of five low-latitude Galactic bulge
+clusters (NGC 6624, 6637, 6652, 6681, and 6809) observed as part of the
+ACS survey. By comparing the bulge cluster color-magnitude diagrams to
+our previous analysis of the M54/Sgr core, we estimate distances to
+these background features. The combined data from four Sgr member
+clusters and five Sgr background features provide nine independent
+measures of the Sgr distance and, as a group, provide uniformly measured
+and calibrated probes of different parts of the inner regions of Sgr
+spanning 20° over the face of the disrupting dwarf. This allows us,
+**for the first time, to constrain the three-dimensional orientation of
+Sgr\'s disrupting core and globular cluster system and compare that
+orientation to the predictions of an N-body model of tidal disruption.**
+The density and distance of Sgr debris are consistent with models that
+favor **a relatively high Sgr core mass and a slightly greater distance
+(28-30 kpc, with a mean of 29.4 kpc).** **Our analysis also suggests
+that M54 is in the foreground of Sgr by \~2 kpc, projected on the center
+of the Sgr dSph.** While this would imply a remarkable alignment of the
+cluster and the Sgr nucleus along the line of sight, we cannot identify
+any systematic effect in our analysis that would falsely create the
+measured 2 kpc separation. **Finally, we find that the cluster Terzan 7
+has the most discrepant distance (25 kpc) among the four Sgr core
+clusters, which may suggest a different dynamical history than the other
+Sgr core clusters.**
+
+*"The N-body model of LM10a makes specific predictions about the
+relationship between sky position and line-of-sight distance for the
+disrupting Sgr dwarf. In the model, emerging debris in the trailing arm
+(positive Λ values) is slightly more distant than emerging debris in the
+leading arm (negative Λ). This reflects the energy of the debris lost to
+the tails. The leading stream falls inside the orbital path and the
+angular momentum moves it ahead of Sgr along the orbit. The trailing
+stream falls outside the orbital path and the angular momentum moves it
+behind Sgr. "*
+
+NOTE: their measurements are based on the Sgr contamination detected
+around known clusters.
+
+### Carlin et al. 2012:
+
+We present three-dimensional (3D) kinematics of Sagittarius (Sgr)
+trailing tidal debris in six fields located 70°-130° along the stream
+from the Sgr dwarf galaxy core. The data are from our proper-motion (PM)
+survey of Kapteyn\'s Selected Areas, in which **we have measured
+accurate PMs to faint magnitudes in \~40\' × 40\' fields** evenly spaced
+across the sky. The radial velocity (RV) signature of Sgr has been
+identified among our follow-up spectroscopic data in four of the six
+fields and combined with mean PMs of spectroscopically confirmed members
+to derive space motions of Sgr debris based on \~15-64 confirmed stream
+members per field. These kinematics are compared to predictions of the
+Law & Majewski model of Sgr disruption; **we find reasonable agreement
+with model predictions in RVs and PMs along Galactic latitude.**
+**However, an upward adjustment of the local standard of rest velocity
+(ΘLSR) from its standard 220 km s-1 to at least 232 ± 14 km s-1 (and
+possibly as high as 264 ± 23 km s-1) is necessary to bring 3D model
+debris kinematics and our measurements into agreement.** Satisfactory
+model fits that simultaneously reproduce known position, distance, and
+RV trends of the Sgr tidal streams, while significantly increasing ΘLSR,
+could only be achieved by increasing the Galactic bulge and disk mass
+while leaving the dark matter halo fixed to the best-fit values from Law
+& Majewski. **We derive low-resolution spectroscopic abundances along
+this stretch of the Sgr stream and find a constant \[Fe/H\] \~ -1.15
+(with \~0.5 dex scatter in each field---typical for dwarf galaxy
+populations) among the four fields with reliable measurements. A
+constant metallicity suggests that debris along the \~60° span of this
+study was all stripped from Sgr on the same orbital passage.**
+
+NOTES: based on their footprints, they are studying the young leading
+and trailing arms.
+
+### Salinas et al. 2012:
+
+We present BV photometry of four Sagittarius dwarf spheroidal galaxy
+globular clusters: Arp 2, NGC 5634, Palomar 12 and Terzan 8, obtained
+with the Danish Telescope at ESO La Silla. We measure the structural
+parameters of the clusters using a King profile fitting, obtaining the
+**first reliable measurements of the tidal radius of Arp 2 and Terzan
+8.** These two clusters are **remarkably extended and with low
+concentrations**; with a concentration of only c= 0.41 ± 0.02, Terzan 8
+is less concentrated than any cluster in our Galaxy.
+
+Blue stragglers are identified in the four clusters, and their spatial
+distribution is compared to those of horizontal branch and red giant
+branch stars. **The blue straggler properties do not provide evidence of
+mass segregation in Terzan 8, while Arp 2 probably shares the same
+status**, although with less confidence. In the case of **NGC 5634 and
+Palomar 12, blue stragglers are significantly less populous, and their
+analysis suggests that the two clusters have probably undergone mass
+segregation.**
+
+### Koposov et al. 2012
+
+The structure of the Sagittarius stream in the southern Galactic
+hemisphere is analyzed with the Sloan Digital Sky Survey Data Release 8.
+**Parallel to the Sagittarius tidal track, but \~10° away, there is
+another fainter and more metal-poor stream.** We provide evidence that
+the two streams follow similar distance gradients but have distinct
+morphological properties and stellar populations. **The brighter stream
+is broader, contains more metal-rich stars, and has a richer
+color-magnitude diagram with multiple turnoffs and a prominent red clump
+as compared to the fainter stream.** Based on the structural properties
+and the stellar population mix, **the stream configuration is similar to
+the Northern \"bifurcation.\"** In the region of the South Galactic Cap,
+there is overlapping tidal debris from the Cetus stream, which crosses
+the Sagittarius stream. Using both photometric and spectroscopic data,
+we show that the blue straggler population belongs mainly to Sagittarius
+and the blue horizontal branch stars belong mainly to the Cetus stream
+in this confused location in the halo.
+
+*"Our modeling of the cross-sections of the density suggests the
+existence of a thicker brighter stream and a thinner fainter stream,
+offset by ∼10◦. **The streams differ in integrated luminosity by a
+factor of 5--10.** There is also strong evidence that the two streams
+have different metallicity distribution functions"*
+
+NOTES: the faint branches DO have metal rich stars, but much less.
+
+*"The simplest explanation is that the southern faint stream is part of
+the same structure as the northern faint stream. \[..\] is it possible
+to produce the streams with the properties described in this paper in a
+disruption of one galaxy or is more than one progenitor necessary?"*
+
+*"Moreover, in the scenario of Penarrubia et al. (2010) the two streams
+are not expected to differ significantly in their stellar populations
+content."*
+
+NOTES: I STRONGLY DISAGREE.
+
+*"Finally, it is tempting to suggest that the two streams with different
+properties have actually originated from two different progenitors. The
+infall of satellites in groups is not particular but general, as best
+illustrated by the recent arrival of the LMC and SMC."*
+
+NOTES: the populations are too similar, the secondary object should be
+quite massive AND its stream should cross Sgr stream at some point,
+which it doesn't.
+
+### Carrell et al. 2012:
+
+We have probed a section (l \~ 150, b \~ -60) of the trailing tidal arm
+of the Sagittarius dwarf spheroidal galaxy by identifying a sample of
+Red Clump (RC) stream stars. RC stars are not generally found in the
+halo field, but are found in significant numbers in both the Sagittarius
+galaxy and its tidal streams, making them excellent probes of stream
+characteristics. Our target sample was selected using photometric data
+from the Sloan Digital Sky Survey, Data Release 6, which was constrained
+in color to match the Sagittarius RC stars. Spectroscopic observations
+of the target stars were conducted at Kitt Peak National Observatory
+using the WIYN telescope. The resulting spectroscopic sample is
+magnitude limited and contains both main-sequence disk stars and evolved
+RC stars. We have developed a method to systematically separate these
+two stellar classes using kinematic information and a Bayesian approach
+for surface gravity determination. The resulting RC sample allows us to
+determine an absolute stellar density of **ρ = 2.7 ± 0.5 RC stars
+kpc-3** at this location in the stream. Future measurements of stellar
+densities for a variety of populations and at various locations along
+the streams will lead to a much improved understanding of the original
+nature of the Sagittarius galaxy and the physical processes controlling
+its disruption and subsequent stream generation.
+
+### Frinchaboy et al. 2012:
+
+We have assembled a large-area spectroscopic survey of giant stars in
+the Sagittarius (Sgr) dwarf galaxy core. Using medium resolution (R \~
+15,000), multifiber spectroscopy we have measured velocities of these
+stars, which extend up to 12° from the galaxy\'s center (3.7 core radii
+or 0.4 times the King limiting radius). From these high-quality spectra
+we identify 1310 Sgr members out of 2296 stars surveyed, distributed
+across 24 different fields across the Sgr core. Additional slit spectra
+were obtained of stars bridging from the Sgr core to its trailing tail.
+Our systematic, large-area sample shows no evidence for significant
+rotation, a result at odds with the \~20 km s-1 rotation required as an
+explanation for the bifurcation seen in the Sgr tidal stream; **the
+observed small (\<=4 km s-1)** velocity trend primarily along the major
+axis is consistent with models of the projected motion of an extended
+body on the sky with no need for intrinsic rotation. The Sgr core is
+found to have a flat velocity dispersion (except for a kinematically
+colder center point) across its surveyed extent and into its tidal
+tails, a property that matches the velocity dispersion profiles measured
+for other Milky Way dwarf spheroidal (dSph) galaxies. We comment on the
+possible significance of this observed kinematical similarity for the
+dynamical state of the other classical Milky Way dSphs in light of the
+fact that Sgr is clearly a strongly tidally disrupted system.
+
+*"1) The Sgr central velocity dispersion is found to be 9.9 ± 0.7 km
+s−1, in agreement with the dispersion (9.6 ± 0.4 km s−1) found by
+Bellazzini et al. (2008) after removing stars associated with M54 (e.g.,
+Figure 4, Section 4). This central velocity dispersion is not atypical
+among the "classical" dSph galaxies (see Table 6).*
+
+*2) Within the distribution of RVs, we find no signatures of rotation
+along the minor axis of Sgr. With a detailed investigation of trends
+along the major axis, we find evidence for at most a small trend (4 km
+s−1 deg−1), though even this small effect can be explained without
+needing intrinsic rotation, as shown by various adopted models of an
+extended Sgr system moving along its orbit. Thus, we confirm that Sgr is
+like other dSphs in having no significant rotation (vrot/σ(v) 1)
+signature along any axis (e.g., Figures 10, Section 4)."*
+
+NOTE: the authors agree that the model presented in Lokas+2010 is
+consistent with their data and deem it "the first model to explain both
+the very large ellipticity of Sgr as well as the observed kinematics of
+its stars".
+
+"\[..\] the velocity dispersion profile for Sgr as a function of radius
+for the data presented in this study also strongly imitates those for
+other MW dSphs. Just like the velocity dispersion profiles of the other
+classical MW dSphs, that of Sgr remains more or less flat to large
+radii, including that part of the system where it is clearly dominated
+by tidal debris."
+
+### McDonald et al. 2012:
+
+We present spectra of 1142 colour-selected stars in the direction of the
+Sagittarius Dwarf Spheroidal (Sgr dSph) galaxy, of which 1058 were taken
+with VLT/FLAMES multi-object spectrograph and 84 were taken with the
+SAAO Radcliffe 1.9-m telescope grating spectrograph. Spectroscopic
+membership is confirmed (at \>99 per cent confidence) for 592 stars on
+the basis of their radial velocity, and spectral types are given. **Very
+slow rotation is marginally detected around the galaxy\'s major axis**.
+We identify five S stars and 23 carbon stars, of which all but four
+carbon stars are newly determined and all but one (PQ Sgr) are likely
+Sgr dSph members. We examine the onset of carbon richness in this
+metal-poor galaxy in the context of stellar models. We compare the
+stellar death rate (one star per 1000-1700 yr) with the known planetary
+nebula dynamical ages and find that the bulk population produce the
+observed (carbon-rich) planetary nebulae. We compute average lifetimes
+of S and carbon stars as 60-250 and 130-500 kyr, compared to a total
+thermal-pulsing asymptotic giant branch lifetime of 530-1330 kyr. We
+conclude by discussing the return of carbon-rich material to the
+interstellar medium.
 
 ### Hasselquist et al. 2021:
 
@@ -3114,10 +3510,10 @@ its evolution, which is consistent with observations of Sgr that show
 few or no young*** ***(age \< 2-3 Gyr) stars (e.g., Siegel et al. 2007),
 as well as the \[C/N\] inferences shown in §4.6."***
 
-![](.//media/image13.png){width="0.8333333333333334in"
+![](.//media/image14.png){width="0.8333333333333334in"
 height="4.423611111111111in"}
 
-![](.//media/image13.png){width="0.4375in" height="4.194444444444445in"}
+![](.//media/image14.png){width="0.4375in" height="4.194444444444445in"}
 
 "The Sgr comparison is shown in the bottom-right panel of Figure 12.
 Neither model matches well with the Weisz et al. (2014) SFH of Sgr,
@@ -3192,7 +3588,7 @@ contour map (panel a) and velocity dispersion profile (panel b) compares
 well with the results reported in Ibata+94. Hence we cannot constrain
 the initial mass of the dwarf or its orbit \[..\]."*
 
-![](.//media/image7.png){width="6.267716535433071in"
+![](.//media/image6.png){width="6.267716535433071in"
 height="2.861111111111111in"}
 
 ### Edelsohn, D. J.; Elmegreen, B. G. 1997:
@@ -3856,9 +4252,12 @@ stripped at similar times implies that they are ejected simultaneously
 but with different orbits due to the causes they mention. However, it is
 true that, if the faint branch is caused by the L1p1w as proposed in
 Peñarrubia+10, there should be some metallicity difference between
-branches.**
+branches. iv) IF indeed bright and faint are ejected simultaneously,
+this MUST increase the mass estimates of the dwarf. But the velocity
+dispersion of the stream and the properties of its remnant would then be
+at odds with the higher mass... right?**
 
-"Younger stellar populations might be realistically assumed to be more
+*"Younger stellar populations might be realistically assumed to be more
 tightly bound than older populations, which have had more time to
 diffuse outward in the dwarf. Motivated by the presence of such
 population gradients within other Galactic dSphs (e.g., Tolstoy et al.
@@ -3866,7 +4265,7 @@ population gradients within other Galactic dSphs (e.g., Tolstoy et al.
 concentrated and have lower velocity dispersion, we tag particles in our
 best-fit model of the Sgr dwarf to correspond to different stellar
 populations according to their total energy in the pre-interaction
-dSph."
+dSph."*
 
 NOTE: this has several problems: i) you have young stars even at the
 beginning of the simulation (actually, doesn't seem to affect final
@@ -4099,6 +4498,90 @@ component are accompanied by a strong mass loss and decreasing rotation
 velocity Vrot of the stars **(from \~25 km/s to \~2km/s in the inner
 1kpc).**"*
 
+### Purcell et al. 2011:
+
+Like many galaxies of its size, the Milky Way is a disk with prominent
+spiral arms rooted in a central bar, although our knowledge of its
+structure and origin is incomplete. Traditional attempts to understand
+our Galaxy\'s morphology assume that it has been unperturbed by major
+external forces. Here we report simulations of the response of the Milky
+Way to the infall of the Sagittarius dwarf galaxy (Sgr), which results
+in the formation of spiral arms, influences the central bar and produces
+a flared outer disk. **Two ring-like wrappings emerge towards the
+Galactic anti-Centre in our model that are reminiscent of the
+low-latitude arcs observed in the same area of the Milky Way.** Previous
+models have focused on Sgr itself to reproduce the dwarf\'s orbital
+history and place associated constraints on the shape of the Milky Way
+gravitational potential, treating the Sgr impact event as a trivial
+influence on the Galactic disk. **Our results show that the Milky Way\'s
+morphology is not purely secular in origin and that low-mass minor
+mergers predicted to be common throughout the Universe probably have a
+similarly important role in shaping galactic structure.**
+
+*"\[..\] although best estimates (Conroy+09, Behroozi+10) place it in a
+much more massive halo of roughly 10\^11 M⊙."*
+
+*"The Light Sgr (Heavy Sgr) progenitor with effective virial mass Mvir =
+10\^10.5 M⊙ (10\^11 M⊙) was initialized with an NFW dark halo of scale
+length 4.9 kpc (6.5 kpc) self-consistently with a separate stellar
+component motivated by an analysis of the observed Sgr debris and core:
+a King profile with core radius 1.5 kpc, tidal radius 4.0 kpc, and
+central velocity dispersion equal to 23 km s-1. Following previous work
+on the Sgr interaction22, our satellites started 80 kpc from the
+Galactic Center in the plane of the Milky Way, traveling vertically at
+80 km s-1 toward the North Galactic Pole. **We account for the mass loss
+that would have occurred between virial-radius infall and this "initial"
+location by truncating the Sgr progenitor NFW mass profile at the
+instantaneous Jacobi tidal radius, rt = 23.2 kpc (30.6 kpc),** leaving a
+total bound mass that is factor of \~3 smaller than their effective
+virial mass from abundance matching."*
+
+NOTES: First model to have the right young trailing arm (i.e., it goes
+far beyond 80kpc). But their leading arm only does 1 extra wrap (instead
+of two like V21 model). Also, in the case of the light Sgr, their
+trailing arm seems a bit short compared to the detections of
+Correnti+2010.
+
+![](.//media/image2.png){width="5.432292213473316in"
+height="3.630536964129484in"}
+
+NOTES: the integration is very similar to V21 but it does not eject
+stars (or very very few) on its first pericentre because of the DM
+shielding. This might be due to the difference in the initial conditions
+and the "fake" DM truncation imposed.
+
+### Niederste-Ostholt et al. 2012:
+
+The Sagittarius (Sgr) dwarf galaxy is the archetype of a tidally
+disrupting system. Both leading and trailing tails can be observed
+across at least 180° of the sky and measurements of their luminosity
+density profiles have recently become available. Using numerical
+simulations, we explore the factors that control the appearance of such
+profiles.
+
+We use two possible models for the Sgr progenitor. The first is a
+one-component Plummer model, which may represent either a dark matter
+free progenitor, or one in which pre-existing dark matter has already
+been largely stripped. The second is a two-component model in which the
+stars are represented by a Hernquist sphere embedded in a cosmologically
+modish Navarro-Frenk-White dark halo. Disruption of the models in the
+Milky Way galaxy provides us with two tellings of the tale of the
+formation of the Sgr stream. **The initial disintegration of the baryons
+proceeds more slowly for the two-component models because of the
+protective cocoon of dark matter. Once this has been stripped, though,
+matters proceed apace. In both cases, the profiles after ∼6 pericentric
+passages provide good matches to the observational data, but the tails
+are more extended for the two-component models.**
+
+The leading and trailing tails are symmetric at apocentre or pericentre.
+At other orbital phases, asymmetries are present, as tails are
+compressed as they approach apocentre and stretched out as they approach
+pericentre. **There may exist density enhancements corresponding to such
+pile-ups which may be observable in current survey data.** We re-visit
+the calculation of Niederste-Ostholt et al. and **slightly revise
+upwards the luminosity of the Sgr progenitor to 9.9-14.4 × 10\^7 L⊙
+based on insights from the simulations.**
+
 ### Hernitschek+17
 
 "*In more recent work, Belokurov et al. (2014) have demonstrated that
@@ -4272,7 +4755,7 @@ different distances (their fig. 1)."
 
 ### Hernitschek+17
 
-![](.//media/image15.png){width="6.270833333333333in"
+![](.//media/image16.png){width="6.270833333333333in"
 height="3.263888888888889in"}
 
 Fig.1: RRab stars within \|B∣\< 9º as obtained after fitting of the
@@ -4330,7 +4813,7 @@ computed in a non-linear way and thus the relation with the JK96 scale
 (bias by +0.3 wrt Zinn&West84, see Gratton+04) depends on the location
 in the Periods vs ${{\phi_{31}}^{s}}_{}$:
 
-![](.//media/image1.png){width="6.270833333333333in" height="7.625in"}
+![](.//media/image8.png){width="6.270833333333333in" height="7.625in"}
 
 However, the stars selected by nGC3 fall predominantly at the regions
 where the relation JK96 to Nemec13 is almost one-to-one. Therefore, for
@@ -4339,15 +4822,15 @@ Z&W84 scale. However, if we take the relation in Eq. (5) of
 Kunder&Chaboyer 2008, we can fit directly the metallicity in the Z&W84
 scale -\> \[Fe/H\]~ZW~\~-1.55dex.
 
-![](.//media/image9.png){width="5.208333333333333in"
+![](.//media/image11.png){width="5.208333333333333in"
 height="4.166666666666667in"}
 
-![](.//media/image6.png){width="5.208333333333333in"
+![](.//media/image3.png){width="5.208333333333333in"
 height="4.166666666666667in"}
 
 Regarding the RRc stars, the relation is linear and we can already see
 the offset wrt to Z&W84 in the following figure, also from
-Nemec+13:![](.//media/image8.png){width="6.270833333333333in"
+Nemec+13:![](.//media/image10.png){width="6.270833333333333in"
 height="7.527777777777778in"}
 
 When we take the mean metallicity of DPAC for RRc stars at distance \>
@@ -4489,6 +4972,63 @@ with the most massive subhaloes that form before z = 10. This lends
 further support to the idea that the Milky Way\'s dwarfs formed before
 reionization.
 
+### Kazantzidis et al. 2011:
+
+The tidal stirring model posits the formation of dwarf spheroidal
+galaxies (dSphs) via the tidal interactions between late-type,
+rotationally supported dwarfs and Milky-Way-sized host galaxies. Using a
+comprehensive set of collisionless N-body simulations, we investigate
+the efficiency of the tidal stirring mechanism for the origin of dSphs.
+In particular, we examine the degree to which the tidal field of the
+primary galaxy affects the sizes, masses, shapes, and kinematics of the
+disky dwarfs for a range of dwarf orbital and structural parameters. Our
+study is the first to employ self-consistent, equilibrium models for the
+progenitor dwarf galaxies constructed from a composite distribution
+function and consisting of exponential stellar disks embedded in
+massive, cosmologically motivated dark matter halos. Exploring a wide
+variety of dwarf orbital configurations and initial structures, we
+demonstrate that in the majority of cases the disky dwarfs experience
+significant mass loss and their stellar distributions undergo a dramatic
+morphological, as well as dynamical, transformation. Specifically, the
+stellar components evolve from disks to bars and finally to
+pressure-supported, spheroidal systems with kinematic and structural
+properties akin to those of the classic dSphs in the Local Group (LG)
+and similar environments. The self-consistency of the adopted dwarf
+models is crucial for confirming this complex transformation process via
+tidally induced dynamical instabilities and impulsive tidal heating of
+the stellar distribution. Our results suggest that such tidal
+transformations should be common occurrences within the currently
+favored cosmological paradigm and highlight the key factor responsible
+for an effective metamorphosis to be the strength of the tidal shocks at
+the pericenters of the orbit. We also demonstrate that the combination
+of short orbital times and small pericentric distances, characteristic
+of dwarfs being accreted by their hosts at high redshift, induces the
+strongest and most complete transformations. Our models also indicate
+that the efficiency of the transformation via tidal stirring is affected
+significantly by the structure of the progenitor disky dwarfs. While the
+mass-to-light ratios, M/L, of the dwarf galaxies typically decrease
+monotonically with time as the extended dark matter halos are
+efficiently tidally stripped, we identify a few cases where this trend
+is reversed later in the evolution when stellar mass loss becomes more
+effective. We also find that the dwarf remnants satisfy the relation
+V_max = √{3}σ\_{\*}, where σ\* is the one-dimensional, central stellar
+velocity dispersion and V max is the maximum halo circular velocity,
+which has intriguing implications for the missing satellites problem.
+Assuming that the distant dSphs in the LG, such as Leo I, Tucana, and
+Cetus, are the products of tidal stirring, our findings suggest that
+these galaxies should have only been partially stirred by the tidal
+field of their hosts. We thus predict that these remote dwarfs should
+exhibit higher values of V rot/σ\*, where V rot is the stellar
+rotational velocity, compared with those of dSphs located closer to the
+primary galaxies. Overall, we conclude that the action of tidal forces
+from the hosts constitutes a crucial evolutionary mechanism for shaping
+the nature of dwarf galaxies in environments such as that of the LG.
+Environmental mechanisms of this type should thus be included as
+ingredients in models of dwarf galaxy formation and evolution.
+
+NOTES: basically generalises the results of Lokas et al. 2010 to any
+disky dwarf.
+
 ## Curiosities
 
 ### Kesden, Michael & Kamionkowski, Marc 2006
@@ -4532,5 +5072,5 @@ We have also checked that the change used is coherent up to the level of
 
 It is centred, however, with the trailing tail, as it was intended.
 
-![](.//media/image2.png){width="3.8443175853018374in"
+![](.//media/image7.png){width="3.8443175853018374in"
 height="3.057292213473316in"}
