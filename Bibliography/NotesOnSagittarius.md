@@ -102,27 +102,29 @@
 >
 > [Monaco et al. 2002:](#monaco-et-al.-2002) 29
 >
+> [Dolphin 2012:](#dolphin-2012) 30
+>
 > [Bellazzini et al. 2003:](#bellazzini-et-al.-2003) 30
 >
-> [Bonifacio et al. 2003:](#bonifacio-et-al.-2003) 30
+> [Bonifacio et al. 2003:](#bonifacio-et-al.-2003) 31
 >
 > [Mackey & Gilmore 2003:](#mackey-gilmore-2003) 31
 >
-> [Bellazzini et al. 2003:](#bellazzini-et-al.-2003-1) 31
+> [Bellazzini et al. 2003:](#bellazzini-et-al.-2003-1) 32
 >
 > [Newberg et al. 2003:](#newberg-et-al.-2003) 32
 >
-> [Monaco et al. 2003:](#monaco-et-al.-2003) 32
+> [Monaco et al. 2003:](#monaco-et-al.-2003) 33
 >
-> [Majewski et al. 2003:](#majewski-et-al.-2003) 32
+> [Majewski et al. 2003:](#majewski-et-al.-2003) 33
 >
-> [Tautvaišienė et al. 2003:](#tautvaišienė-et-al.-2003) 34
+> [Tautvaišienė et al. 2003:](#tautvaišienė-et-al.-2003) 35
 >
 > [Martinez-Delgado et al. 2004:](#martinez-delgado-et-al.-2004) 35
 >
 > [Bonifacio et al. 2004:](#bonifacio-et-al.-2004) 36
 >
-> [Cohen 2004:](#cohen-2004) 36
+> [Cohen 2004:](#cohen-2004) 37
 >
 > [Putman et al. 2004:](#putman-et-al.-2004) 37
 >
@@ -132,17 +134,17 @@
 >
 > [Vivas et al. 2005](#vivas-et-al.-2005) 38
 >
-> [Dinescu et al. 2005:](#dinescu-et-al.-2005) 38
+> [Dinescu et al. 2005:](#dinescu-et-al.-2005) 39
 >
 > [Monaco et al. 2005:](#monaco-et-al.-2005) 39
 >
 > [Monaco et al. 2005:](#monaco-et-al.-2005-1) 39
 >
-> [Bellazzini et al. 2006:](#bellazzini-et-al.-2006) 39
+> [Bellazzini et al. 2006:](#bellazzini-et-al.-2006) 40
 >
 > [Belokurov et al. 2006:](#belokurov-et-al.-2006) 40
 >
-> [Clewley & Jarvis 2006:](#clewley-jarvis-2006) 40
+> [Clewley & Jarvis 2006:](#clewley-jarvis-2006) 41
 >
 > [Zijlstra et al. 2006:](#zijlstra-et-al.-2006) 41
 >
@@ -150,15 +152,15 @@
 >
 > [Ramsay & Wu 2006:](#ramsay-wu-2006) 42
 >
-> [Monaco et al. 2007:](#monaco-et-al.-2007) 42
+> [Monaco et al. 2007:](#monaco-et-al.-2007) 43
 >
 > [Sbordone et al. 2007:](#sbordone-et-al.-2007) 43
 >
-> [Siegel et al. 2007:](#siegel-et-al.-2007) 44
+> [Siegel et al. 2007:](#siegel-et-al.-2007) 45
 >
 > [Newberg et al. 2007:](#newberg-et-al.-2007) 45
 >
-> [Chou et al. 2007:](#chou-et-al.-2007) 45
+> [Chou et al. 2007:](#chou-et-al.-2007) 46
 >
 > [Keller et al. 2008:](#keller-et-al.-2008) 46
 >
@@ -176,13 +178,13 @@
 >
 > [Ibata et al. 2009:](#ibata-et-al.-2009) 50
 >
-> [Carraro & Bensby 2009:](#carraro-bensby-2009) 50
+> [Carraro & Bensby 2009:](#carraro-bensby-2009) 51
 >
 > [Yanny et al. 2009:](#yanny-et-al.-2009) 51
 >
 > [Prior et al. 2009:](#prior-et-al.-2009) 52
 >
-> [Chou et al. 2010:](#chou-et-al.-2010) 52
+> [Chou et al. 2010:](#chou-et-al.-2010) 53
 >
 > [Pryor et al. 2010:](#pryor-et-al.-2010) 53
 >
@@ -196,144 +198,179 @@
 >
 > [Carretta et al. 2010:](#carretta-et-al.-2010-1) 56
 >
-> [Keller et al. 2010:](#keller-et-al.-2010) 56
+> [Keller et al. 2010:](#keller-et-al.-2010) 57
 >
 > [Correnti et al. 2010:](#correnti-et-al.-2010) 58
 >
-> [Peñarrubia+11:](#peñarrubia11) 59
+> [Peñarrubia+11:](#peñarrubia11) 60
 >
 > [Ruhland et al. 2011:](#ruhland-et-al.-2011) 60
 >
-> [Siegel et al. 2011:](#siegel-et-al.-2011) 60
+> [Siegel et al. 2011:](#siegel-et-al.-2011) 61
 >
-> [Carlin et al. 2012:](#carlin-et-al.-2012) 61
+> [Carlin et al. 2012:](#carlin-et-al.-2012) 62
 >
 > [Salinas et al. 2012:](#salinas-et-al.-2012) 62
 >
-> [Koposov et al. 2012](#koposov-et-al.-2012) 62
+> [Koposov et al. 2012](#koposov-et-al.-2012) 63
 >
-> [Carrell et al. 2012:](#carrell-et-al.-2012) 63
+> [Carrell et al. 2012:](#carrell-et-al.-2012) 64
 >
 > [Frinchaboy et al. 2012:](#frinchaboy-et-al.-2012) 64
 >
 > [McDonald et al. 2012:](#mcdonald-et-al.-2012) 65
 >
-> [Hasselquist et al. 2021:](#hasselquist-et-al.-2021) 65
-
-**[Models](#models)** **69**
-
-> [References](#references-1) 69
+> [Slater et al. 2013:](#slater-et-al.-2013) 65
 >
-> [Notes](#notes-1) 69
+> [Drake et al. 2013:](#drake-et-al.-2013) 66
 >
-> [Velázquex and White 1995](#velázquex-and-white-1995) 69
+> [Koposov et al. 2013:](#koposov-et-al.-2013) 67
+>
+> [Battinelli & Demers 2013:](#battinelli-demers-2013) 67
+>
+> [Newby et al. 2013:](#newby-et-al.-2013) 68
+>
+> [McDonald et al. 2013:](#mcdonald-et-al.-2013) 68
+>
+> [McWilliam et al. 2013:](#mcwilliam-et-al.-2013) 69
+>
+> [Carretta et al. 2014:](#carretta-et-al.-2014) 70
+>
+> [Belokurov et al. 2014:](#belokurov-et-al.-2014) 70
+>
+> [Pila-Díez et al. 2014:](#pila-díez-et-al.-2014) 72
+>
+> [Casey (PhD) 2014:](#casey-phd-2014) 73
+>
+> [de Boer et al. 2014:](#de-boer-et-al.-2014) 74
+>
+> [Torrealba et al. 2015:](#torrealba-et-al.-2015) 74
+>
+> [Koposov et al. 2015:](#koposov-et-al.-2015) 74
+>
+> [Sohn et al. 2015:](#sohn-et-al.-2015) 75
+>
+> [Tepper-Garcia et al. 2018:](#tepper-garcia-et-al.-2018) 75
+>
+> [Hasselquist et al. 2021:](#hasselquist-et-al.-2021) 77
+
+**[Models](#models)** **81**
+
+> [References](#references-1) 81
+>
+> [Notes](#notes-1) 81
+>
+> [Velázquex and White 1995](#velázquex-and-white-1995) 81
 >
 > [Johnston, Kathryn V.; Spergel, David N.; Hernquist, Lars
-> 1995](#johnston-kathryn-v.-spergel-david-n.-hernquist-lars-1995) 69
+> 1995](#johnston-kathryn-v.-spergel-david-n.-hernquist-lars-1995) 81
 >
 > [Edelsohn, D. J.; Elmegreen, B. G.
-> 1997:](#edelsohn-d.-j.-elmegreen-b.-g.-1997) 70
+> 1997:](#edelsohn-d.-j.-elmegreen-b.-g.-1997) 82
 >
-> [Ibata+97:](#ibata97) 70
+> [Ibata+97:](#ibata97) 82
 >
-> [Ibata & Lewis1998:](#ibata-lewis1998) 71
+> [Ibata & Lewis1998:](#ibata-lewis1998) 83
 >
-> [Zhao 1998:](#zhao-1998) 72
+> [Zhao 1998:](#zhao-1998) 84
 >
-> [Ibata et al. 1998:](#ibata-et-al.-1998) 72
+> [Ibata et al. 1998:](#ibata-et-al.-1998) 84
 >
-> [Gómez-Flechoso 1999:](#gómez-flechoso-1999) 73
+> [Gómez-Flechoso 1999:](#gómez-flechoso-1999) 85
 >
-> [Johnston et al. 1999](#johnston-et-al.-1999) 73
+> [Johnston et al. 1999](#johnston-et-al.-1999) 85
 >
 > [Jiang, Ing-Guey and Binney, James
-> 2000:](#jiang-ing-guey-and-binney-james-2000) 74
+> 2000:](#jiang-ing-guey-and-binney-james-2000) 86
 >
-> [Helmi and White 2001:](#helmi-and-white-2001) 75
+> [Helmi and White 2001:](#helmi-and-white-2001) 87
 >
-> [Bailin 2003:](#bailin-2003) 75
+> [Bailin 2003:](#bailin-2003) 87
 >
-> [Law et al. 2004](#law-et-al.-2004) 76
+> [Law et al. 2004](#law-et-al.-2004) 88
 >
-> [Helmi 2004:](#helmi-2004) 76
+> [Helmi 2004:](#helmi-2004) 88
 >
-> [Johnston et al. 2005](#johnston-et-al.-2005) 77
+> [Johnston et al. 2005](#johnston-et-al.-2005) 89
 >
-> [Law et al. 2005:](#law-et-al.-2005) 78
+> [Law et al. 2005:](#law-et-al.-2005) 90
 >
-> [Fellhauer et al. 2006](#fellhauer-et-al.-2006) 79
+> [Fellhauer et al. 2006](#fellhauer-et-al.-2006) 91
 >
-> [Law et al. 2009:](#law-et-al.-2009) 80
+> [Law et al. 2009:](#law-et-al.-2009) 92
 >
-> [Law & Majewski 2010:](#law-majewski-2010) 81
+> [Law & Majewski 2010:](#law-majewski-2010) 93
 >
-> [Law & Majewski 2010:](#law-majewski-2010-1) 83
+> [Law & Majewski 2010:](#law-majewski-2010-1) 95
 >
-> [Peñarrubia et al. 2010:](#peñarrubia-et-al.-2010) 83
+> [Peñarrubia et al. 2010:](#peñarrubia-et-al.-2010) 95
 >
-> [Myers et al. 2010:](#myers-et-al.-2010) 85
+> [Myers et al. 2010:](#myers-et-al.-2010) 97
 >
-> [Lokas et al. 2010](#lokas-et-al.-2010) 85
+> [Lokas et al. 2010](#lokas-et-al.-2010) 97
 >
-> [Purcell et al. 2011:](#purcell-et-al.-2011) 87
+> [Purcell et al. 2011:](#purcell-et-al.-2011) 99
 >
-> [Niederste-Ostholt et al. 2012:](#niederste-ostholt-et-al.-2012) 88
+> [Niederste-Ostholt et al. 2012:](#niederste-ostholt-et-al.-2012) 100
 >
-> [Hernitschek+17](#hernitschek17) 89
+> [Gibbons et al. 2014:](#gibbons-et-al.-2014) 101
 >
-> [Dierickx+17: (Fig. 4 is wrong! Look only at Fig.
-> 6).](#dierickx17-fig.-4-is-wrong-look-only-at-fig.-6.) 89
+> [Hernitschek+17](#hernitschek17) 102
 >
-> [Fardal+19](#fardal19) 90
+> [Dierickx+17:](#dierickx17) 102
 >
-> [Velokurov et al. 2021](#velokurov-et-al.-2021) 90
+> [Fardal+19](#fardal19) 104
+>
+> [Vasiliev et al. 2021](#vasiliev-et-al.-2021) 104
+>
+> [Bland-Hawthorn2021:](#bland-hawthorn2021) 105
 
 **[Star formation and Metallicity
-Distribution](#star-formation-and-metallicity-distribution)** **92**
+Distribution](#star-formation-and-metallicity-distribution)** **106**
 
-> [References](#references-2) 92
+> [References](#references-2) 106
 >
-> [Notes](#notes-2) 92
+> [Notes](#notes-2) 106
 >
-> [Chou+07:](#chou07) 92
+> [Chou+07:](#chou07) 106
 >
-> [Tepper-Garcia+18:](#tepper-garcia18) 92
+> [Tepper-Garcia+18:](#tepper-garcia18) 106
 
-**[RR Lyrae](#rr-lyrae)** **93**
+**[RR Lyrae](#rr-lyrae)** **106**
 
-> [References](#references-3) 93
+> [References](#references-3) 107
 >
-> [Notes](#notes-3) 93
+> [Notes](#notes-3) 107
 >
-> [Fardal+19](#fardal19-1) 93
+> [Fardal+19](#fardal19-1) 107
 >
-> [Hernitschek+17](#hernitschek17-1) 93
+> [Hernitschek+17](#hernitschek17-1) 107
 
 **[RR Lyrae metallicity
-calibration](#rr-lyrae-metallicity-calibration)** **95**
+calibration](#rr-lyrae-metallicity-calibration)** **109**
 
-> [References](#references-4) 95
+> [References](#references-4) 109
 
-**[Bifurcation](#bifurcation)** **100**
+**[Bifurcation](#bifurcation)** **114**
 
-> [References](#references-5) 100
+> [References](#references-5) 114
 
-**[Others](#others)** **102**
+**[Others](#others)** **117**
 
-> [Miscellaneous](#miscellaneous) 102
+> [Miscellaneous](#miscellaneous) 117
 >
-> [Forbes & Bridges 2010:](#forbes-bridges-2010) 102
+> [Forbes & Bridges 2010:](#forbes-bridges-2010) 117
 >
-> [Lux et al. 2010:](#lux-et-al.-2010) 102
+> [Lux et al. 2010:](#lux-et-al.-2010) 117
 >
-> [Kazantzidis et al. 2011:](#kazantzidis-et-al.-2011) 103
+> [Kazantzidis et al. 2011:](#kazantzidis-et-al.-2011) 118
 >
-> [Curiosities](#curiosities) 104
+> [Curiosities](#curiosities) 119
 >
 > [Kesden, Michael & Kamionkowski, Marc
-> 2006](#kesden-michael-kamionkowski-marc-2006) 104
+> 2006](#kesden-michael-kamionkowski-marc-2006) 119
 >
-> [Sgr orbital plane](#sgr-orbital-plane) 104
+> [Sgr orbital plane](#sgr-orbital-plane) 119
 
 #  
 
@@ -1626,6 +1663,29 @@ luminosity function is the safest way to identify the location of the
 bump, since it makes use of stars contained in several magnitude bins
 (see also Ferraro et al. 1999, F99 hereafter)."*
 
+### Dolphin 2012:
+
+*"The central field shows measurable star formation until \~2 Gyr ago,
+while the outer field shows only about half the number of young (\<8
+Gyr) stars. Sagittarius is also the only system for which significant
+chemical enrichment is measured. The inner field shows a metallicity of
+\[M/H\] = -1.1 ± 0.4 dex at ages older than 8 Gyr, which increased to
+\[M/H\] = 0.0 ± 0.2 for the youngest large population of stars (2--4 Gyr
+old). The history seen in the outer field is consistent, but the
+uncertainties are larger because of the smaller number of stars. No
+literature data currently exists using these WFPC2 images; however a few
+ground-based studies have been carried out (Layden & Sarajedini 1997;
+Marconi et al. 1998; Bellazzini, Ferraro & Buonanno 1999a). Marconi et
+al. (1998) and Bellazzini et al. (1999b) found very large metallicity
+dispersions, consistent with the significant metallicity evolution
+measured in this work. The star formation history is agreed to be
+extended, with a peak age agreed to fall between 8 and 11 Gyr; this
+compares favourably with the mean ages measured here (8.6 Gyr in the
+inner field and 9.8 Gyr in the outer field)."*
+
+NOTE: probably first proper estimation of the SFH of Sgr (not counting
+the qualitative studies of Layden and Sarajedini 2000.
+
 ### Bellazzini et al. 2003:
 
 We demonstrate that there is a clear statistical correlation between the
@@ -1699,7 +1759,7 @@ measurement errors and the small-sample sizes. We discuss the
 implications of this in the context of the radius-age trend we have
 previously highlighted for the Magellanic Cloud clusters.
 
-![](.//media/image1.png){width="6.267716535433071in"
+![](.//media/image10.png){width="6.267716535433071in"
 height="1.8888888888888888in"}
 
 ### Bellazzini et al. 2003:
@@ -2635,7 +2695,7 @@ than previous determinations for this galaxy and agrees with previous
 suggestions that Sgr\'s body is truly closer to us, this estimate is
 larger than studies at comparable galactic latitudes.
 
-![](.//media/image9.png){width="6.270833333333333in"
+![](.//media/image14.png){width="6.270833333333333in"
 height="3.2083333333333335in"}
 
 NOTE: distance calibration is tricky and the absolute distance you get
@@ -3015,7 +3075,7 @@ NOT expect any significant gradient in initial radius (based on V21).
 Therefore, the metallicity gradient observed is NOT a product of a
 correlation between initial radius and metallicity.
 
-![](.//media/image12.png){width="6.267716535433071in"
+![](.//media/image20.png){width="6.267716535433071in"
 height="4.736111111111111in"}
 
 ### Correnti et al. 2010:
@@ -3058,7 +3118,7 @@ this. In fact, V21 predicts the trailing arm farther than that, and the
 second wrap of the leading, closer. **The detection seems robust
 though... is the V21 model wrong?**
 
-![](.//media/image13.png){width="6.270833333333333in"
+![](.//media/image19.png){width="6.270833333333333in"
 height="4.697916666666667in"}
 
 **NOTE: based on the comparison of the fields A and B with the V21
@@ -3365,6 +3425,585 @@ thermal-pulsing asymptotic giant branch lifetime of 530-1330 kyr. We
 conclude by discussing the return of carbon-rich material to the
 interstellar medium.
 
+### Slater et al. 2013:
+
+We use data from the Pan-STARRS1 survey to present a panoramic view of
+the Sagittarius tidal stream in the southern Galactic hemisphere. As a
+result of the extensive sky coverage of Pan-STARRS1, the southern stream
+is visible along more than 60° of its orbit, nearly double the length
+seen by the Sloan Digital Sky Survey. T**he recently discovered southern
+bifurcation of the stream is also apparent, with the fainter branch of
+the stream visible over at least 30°.** Using a combination of fitting
+both the main-sequence turnoff and the red clump, we measure the
+distance to both arms of the stream in the south. **We find that the
+distances to the bright arm of the stream agree very well with the
+N-body models of Law & Majewski. We also find that the faint arm lies
+\~5 kpc closer to the Sun than the bright arm, similar to the behavior
+seen in the northern hemisphere.**
+
+NOTE: their detection of the faint arm in the trailing, based on the
+counts shown in Fig.1, is more than questionable. But, if we trust that,
+then their distance distribution is the next questionable thing. There
+is a lot of scatter and yet they claim a separation of \~5kpc, which is
+NOT observed in the leading bifurcation: in Ruhland+11, they put an
+upper limit of \<1-2kpc. In Yanny+09, there is no difference whatsoever
+between Figures 15 and 16. The last reference they use to argue that
+there is a distance difference in the north is Niederste-Ostholt+10,
+where they DO NOT measure anything new, just re-using the measurements
+by Belokurov+06. In those measurements, there is a slight preference of
+the faint branch to be closer to the Sun, but the difference is much
+smaller than the uncertainties. Overall, it's quite bold to take for
+granted that there is a difference in distance between branches in the
+northern bifurcation. As for the south... This is the first work where
+they measure it. There's nothing on distance difference in Koposov+12,
+and 5kpc should be noticeable in their CMDs. Future works like
+Navarrete+17 and Hernitschek+17 do seem to find a bimodality in the
+distance distribution. In the case of the latter, no trace of
+bifurcation is found (because of the use of RR Lyrae), which kinda means
+that the distance bimodality has nothing to do with the bifurcation. As
+for Navarrete+17, it's not clear which values should be used to measure
+the distance between branches since comparing SGB1 or SGB2 gives
+discrepant differential distance moduli. It would seem like this \~5kpc
+difference can be seen both in the bright and faint branches. Need to
+follow up...
+
+### Drake et al. 2013:
+
+We present the analysis of 1207 RR Lyrae found in photometry taken by
+the Catalina Survey\'s Mount Lemmon telescope. By combining accurate
+distances for these stars with measurements for \~14,000 type-ab RR
+Lyrae from the Catalina Schmidt telescope, **we reveal an extended
+association that reaches Galactocentric distances beyond 100 kpc and
+overlaps the Sagittarius stream system.** This result confirms earlier
+evidence for the existence of an outer halo tidal stream resulting from
+a disrupted stellar system. By comparing the RR Lyrae source density
+with that expected based on halo models, we find the detection has \~8σ
+significance. We investigate the distances, radial velocities,
+metallicities, and period-amplitude distribution of the RR Lyrae. **We
+find that both radial velocities and distances are inconsistent with
+current models of the Sagittarius stream.** We also find tentative
+evidence for a division in source metallicities for the most distant
+sources. Following prior analyses, we compare the locations and
+distances of the RR Lyrae with photometrically selected candidate
+horizontal branch stars and find supporting evidence that this structure
+spans at least 60° of the sky. We investigate the prospects of an
+association between the stream and the unusual globular cluster NGC
+2419.
+
+*"We have investigated the possible relationship between the Gemini
+tidal stream and NGC 2419 as first proposed by Newberg et al. (2003).
+The most recent analysis of NGC 2419 shows significant **evidence for it
+being the nuclear remnant of a disrupted dwarf galax**y (van den Bergh &
+Mackey 2004; Mackey & van den Bergh 2005; Cohen et al. 2010, 2011;
+Forbes & Bridges 2010; Cohen & Kirby 2012). Although, we find that the
+distances of many of the RRLs and HB candidates are consistent with NGC
+2419, **the available velocities and location of the Gemini stream are
+not in sufficient agreement to link the two structures.**"*
+
+### Koposov et al. 2013:
+
+Using multi-epoch observations of the Stripe 82 region from the Sloan
+Digital Sky Survey (SDSS), we measure precise statistical proper motions
+of the stars in the Sagittarius (Sgr) stellar stream. The multi-band
+photometry and SDSS radial velocities allow us to efficiently select Sgr
+members and thus enhance the proper-motion precision to \~0.1 mas yr-1.
+We measure separately the proper motion of a photometrically selected
+sample of the main-sequence turn-off stars, as well as spectroscopically
+selected Sgr giants. The data allow us to determine the proper motion
+separately for the two Sgr streams in the south found in Koposov et al.
+Together with the precise velocities from SDSS, our proper motions
+provide exquisite constraints of the three-dimensional motions of the
+stars in the Sgr streams.
+
+NOTE: basically, they have a complex set-up to get proper motions along
+a small portion of the trailing arm. The proper motions of the bright &
+faint, both, agree well with the predictions of LM10 (in this part of
+the stream, LM10 pms are a good prediction, see Antoja+20). In fact,
+their measurement of the proper motion of the faint (field FP1) is dead
+centre of the proper motion track of the bright branch at that Lambda
+(Ramos in prep.).
+
+### Battinelli & Demers 2013:
+
+Context. Stars have been forming in massive dwarf spheroidal galaxies
+continuously for several Gyr. The detection of AGB carbon stars
+indicates that an intermediate-age population is present. Sagittarius,
+the most massive, contains some 100 carbon stars. Most of them are
+probably variable.
+
+Aims: Using photometric monitoring we intend to detect long period
+variables among Sagittarius carbon stars. We should be able to identify
+mira variables, semi-regular and irregular variables, and to determine
+their period and age group.
+
+Methods: We have obtained K and J images over four semesters. These
+images are centered on a sample of 27 photometrically identified C stars
+to follow their variation and determine their periodicity.
+
+Results: We have established the period of 14 program stars and have
+identified 13 miras among them. From their periods **we determined that
+most of them are in the 3-5 Gyr age group.**
+
+Conclusions: **The known miras, distributed over a wide area within
+Sagittarius dwarf spheroidal galaxy (Sgr), belong to populations of
+various ages and, most probably, various metallicities.**
+
+### Newby et al. 2013:
+
+We measure the spatial density of F turnoff stars in the Sagittarius
+dwarf tidal stream, from Sloan Digital Sky Survey data, using
+statistical photometric parallax. We find a set of continuous,
+consistent parameters that describe the leading Sgr stream\'s position,
+direction, and width for 15 stripes in the north Galactic cap, and three
+stripes in the south Galactic cap. We produce a catalog of stars that
+has the density characteristics of the dominant leading Sgr tidal stream
+that can be compared with simulations. **We find that the width of the
+leading (north) tidal tail is consistent with recent triaxial and
+axisymmetric halo model simulations.** The density along the stream is
+roughly consistent with common disruption models in the north, but
+possibly not in the south. **We explore the possibility that one or more
+of the dominant Sgr streams has been misidentified, and that one or more
+of the \"bifurcated\" pieces is the real Sgr tidal tail,** [but we do
+not reach definite conclusions]{.underline}. I**f two dwarf progenitors
+are assumed, fits to the planes of the dominant and \"bifurcated\" tidal
+tails favor an association of the Sgr dwarf spheroidal galaxy with the
+dominant southern stream and the \"bifurcated\" stream in the north.**
+In the north Galactic cap, the best fit Hernquist density profile for
+the smooth component of the stellar halo is oblate, with a flattening
+parameter q = 0.53, and a scale length of r 0 = 6.73. **The southern
+data for both the tidal debris and the smooth component of the stellar
+halo do not match the model fits to the north,** although the stellar
+halo is still overwhelmingly oblate. Finally, we verify that we can
+reproduce the parameter fits on the asynchronous MilkyWay\@home
+volunteer computing platform.
+
+*"By fitting planes to the dominant Sgr streams (Table 6), and to the
+bifurcated pieces as described in other works, **we conclude that it is
+difficult to reconcile the large discrepancy between the thick stream
+planes (15.◦6 ± 0.◦1) and the presumed bifurcated pieces (3.◦9 ± 2.◦2)**
+if one assumes the Sgr dwarf galaxy is the sole progenitor. If one
+assumes the tidal debris comes from the disruption of two dwarf
+galaxies, the plane analysis favors an association of the dominant
+trailing stream and the "bifurcated" northern stream with the Sgr dwarf.
+This is the opposite conclusion of the stream width analysis, which
+favors an association of the dominant northern tidal tail and the Sgr
+dwarf."*
+
+### McDonald et al. 2013:
+
+We present the deepest near-infrared (ZJKs) photometry yet obtained of
+the Sagittarius dwarf spheroidal (Sgr dSph), using Visible and Infrared
+Survey Telescope for Astronomy (VISTA) to survey **11 square degrees
+centred on its core.** We list locations and ZJKs-band magnitudes for
+over 2.9 million sources in the field. We discuss the isolation of the
+Sgr dSph from the foreground and Galactic Bulge populations, identify
+the Sgr dSph\'s horizontal branch in the near-infrared for the first
+time and map the density of the galaxy\'s stars. We present isochrones
+for the Sgr dSph and Bulge populations. **These are consistent with the
+previously reported properties of the Sgr dSph core: namely that it is
+dominated by a population between \[Fe/H\] ≈ -1 dex and solar, with a
+significant \[α/Fe\] versus \[Fe/H\] gradient.** While strong
+contamination from the Galactic Bulge prevents accurate measurement of
+the (Galactic) north side of the Sgr dSph, the dwarf galaxy can be well
+approximated by a roughly ovaloid projection of characteristic size 4° ×
+2°, beyond which the projected stellar density is less than half that of
+the region surrounding the core. The galaxy\'s major axis is
+perpendicular to the Galactic Plane, as in previous studies. **We find
+slight evidence to confirm a metallicity gradient in the Sgr dSph and
+use isochrones to fit a distance of 24.3 ± 2.3 kpc.** We were unable to
+fully constrain the metallicity distribution of the Sgr dSph due to the
+Bulge contamination and strong correlation of \[α/Fe\] with metallicity;
+however, **we find that metal-poor stars (\[Fe/H\] ≲ -1) make up ≲29 per
+cent of the Sgr dSph\'s upper red giant branch population**. The Bulge
+population is best fitted by a younger population with \[Fe/H\] ≈ 0 and
+\[α/Fe\] ≈ 0 or slightly higher. We find no evidence for a split,
+peanut- or X-shaped Bulge population in this line of sight (l = 5.6° ±
+∼1°, b = -14.1° ± ∼3°).
+
+### McWilliam et al. 2013:
+
+From chemical abundance analysis of stars in the Sagittarius dwarf
+spheroidal galaxy (Sgr), we conclude that **the α-element deficiencies
+cannot be due to the Type Ia supernova (SN Ia) time-delay scenario of
+Tinsley**. Instead, **the evidence points to low \[α/Fe\] ratios
+resulting from an initial mass function (IMF) deficient in the highest
+mass stars.** The critical evidence is the 0.4 dex deficiency of
+\[O/Fe\], \[Mg/Fe\], and other hydrostatic elements, contrasting with
+the normal trend of r-process \[Eu/Fe\] r with \[Fe/H\]. Supporting
+evidence comes from the hydrostatic element (O, Mg, Na, Al, Cu) \[X/Fe\]
+ratios, which are inconsistent with iron added to the Milky Way (MW)
+disk trends. Also, the ratio of hydrostatic to explosive (Si, Ca, Ti)
+element abundances suggests a relatively **top-light IMF**. Abundance
+similarities with the LMC, Fornax, and IC 1613 suggest that their
+α-element deficiencies also resulted from IMFs lacking the most massive
+SNe II. The top-light IMF, as well as the normal trend of r-process
+\[Eu/Fe\] r with \[Fe/H\] in Sgr, indicates that **massive SNe II (>30 M
+⊙) are not major sources of r-process elements**. High \[La/Y\] ratios,
+consistent with leaky-box chemical evolution, are confirmed but \~0.3
+dex larger than theoretical asymptotic giant branch (AGB) predictions.
+**This suggests that a substantial increase in the theoretical Carbon-13
+pocket in low-mass AGB stars is required**. Sgr has the lowest \[Rb/Zr\]
+ratios known, consistent with pollution by low-mass (\< 2 M ⊙) AGB stars
+near \[Fe/H\] = -0.6, likely resulting from leaky-box chemical
+evolution. The \[Cu/O\] trends in Sgr and the MW suggest that Cu yields
+increase with both metallicity and stellar mass, as expected from Cu
+production by the weak s-process in massive stars. Finally, we present
+an updated hyperfine splitting line list, an abundance analysis of
+Arcturus, and further develop our error analysis formalism.
+
+### Carretta et al. 2014:
+
+Massive globular clusters (GCs) contain at least two generations of
+stars with slightly different ages and clearly distinct light element
+abundances. The Na-O anticorrelation is the best studied chemical
+signature of multiple stellar generations. Instead, low-mass clusters
+usually appear to be chemically homogeneous. We are investigating
+low-mass GCs to understand what the lower mass limit is where multiple
+populations can form, mainly using the Na and O abundance distribution.
+We used VLT/FLAMES spectra of giants in the low-mass, metal-poor GC
+Terzan 8 that belongs to the Sagittarius dwarf galaxy to determine
+abundances of Fe, O, Na, α-, Fe-peak, and neutron-capture elements in
+six stars observed with UVES and 14 observed with GIRAFFE. The **average
+metallicity is \[Fe/H\] = -2.27 ± 0.03** (rms = 0.08), based on the six
+high-resolution UVES spectra. **Only one star**, observed with GIRAFFE,
+**shows an enhanced abundance of Na** and we tentatively **assign it to
+the second generation**. In this cluster, unlike what happens in more
+massive GCs, **the second generation seems to represent at most a
+minority fraction**. We discuss the implications of our findings,
+comparing Terzan 8 with the other Sgr dSph GCs, and to GCs and field
+stars in the Large Magellanic Cloud, Fornax, and in other dwarfs
+galaxies.
+
+### Belokurov et al. 2014:
+
+Using a variety of stellar tracers - blue horizontal branch stars,
+main-sequence turn-off stars and red giants - we follow the path of the
+Sagittarius (Sgr) stream across the sky in Sloan Digital Sky Survey
+data. Our study presents new Sgr debris detections, accurate distances
+and line-of-sight velocities that together help to shed new light on the
+puzzle of the Sgr tails. For both the leading and the trailing tails, we
+trace the points of their maximal extent, or apocentric distances, and
+find that they lie at R(Lead) = 47.8 ± 0.5 kpc and R(Trail) = 102.5 ±
+2.5 kpc, respectively. **The angular difference between the apocentres
+is 93.2° ± 3.5°**, which is smaller than predicted for logarithmic
+haloes. **Such differential orbital precession can be made consistent
+with models of the Milky Way in which the dark matter density falls more
+quickly with radius**. However, currently, no existing Sgr disruption
+simulation can explain the entirety of the observational data. Based on
+its position and radial velocity, we show that **the unusually large
+globular cluster NGC 2419 can be associated with the Sgr trailing
+stream**. We measure the precession of the orbital plane of the Sgr
+debris in the Milky Way potential and show that, surprisingly, **Sgr
+debris in the primary (brighter) tails evolves differently from the
+secondary (fainter) tails, both in the north and the south.**
+
+***"The BHB distribution \[in the northern hemisphere\] appears double
+peaked, while the more metal-rich RGB profile peaks at B ∼ −5◦. This
+behaviour is reminiscent of the recent measurement of the trailing
+debris in the Galactic south by Koposov et al. (2012), who detect the
+similar metallicity difference between the stream components at positive
+and negative B"***
+
+NOTE: based on this, the ratio BHB to RGB should change between
+branches.
+
+*"Newberg et al. (2003) show that, within the Sgr debris plane, an
+overdensity of BHBs at distances similar to that of NGC 2419 can be seen
+in the SDSS photometric data. The significance of this BHB overdensity
+was confirmed recently by Ruhland et al. (2011). Given the proximity of
+the stream and the cluster, Newberg et al. (2003) speculate that the
+cluster was once part of the Sgr galaxy. Casetti-Dinescu et al. (2009)
+on the other hand link the cluster with the Virgo stellar stream (which
+is, most likely, a part of the Virgo overdensity) on the basis of the
+cluster's proximity to the very eccentric orbit predicted from the
+measured mean radial velocity and the proper motion of the stream. In
+this paper, we have shown that **NGC 2419** does lie close to the plane
+of the Sgr tidal debris."*
+
+*"The rate with which an orbit precesses in a spherically symmetric
+gravitational potential depends primarily on how quickly the mass
+generating the gravity field decays with radius. For example, in
+Keplerian potentials, the precession angle is 0◦ to ensure that the
+orbits are closed after one period, while in logarithmic haloes, the
+precession is ∼120◦. \[..\] The precession rate is not solely dependent
+on the mass decay rate in the host, it is also a weak function of the
+orbital energy and angular momentum (see equation 3.18 in Binney &
+Tremaine 2008)"*
+
+![](.//media/image6.png){width="6.267716535433071in"
+height="1.3888888888888888in"}
+
+NOTE: this precession refers to the angular separation between
+consecutives apocentres along the orbital rosette, i.e., **Apsidal
+precession.** This is NOT the precession of the orbital plane,
+understood as a change in the orientation of the rotational axis, as
+there is none in a spherical unperturbed potential.
+
+*"It is not possible to measure the precession of the Sgr progenitor's
+orbit directly, but the angle between the leading and the trailing
+apocentres encodes the necessary information."*
+
+NOTE: is it, though? It is known that hot streams do not follow the
+orbit exactly (Sanders&Binney13). Plus, the apocentre of the leading is
+marked by the second pericentre material, while the apo of the trailing
+is marked by the first peri material (based on V21 model).
+
+"*The leading apocentre is at Lambda = 71.◦3 ± 3.◦5, where it reaches
+Rgc = 47.8 ± 0.5 kpc. Trailing tail's apocentre is at Lambda = 170.◦5 ±
+1◦ and Rgc = 102.5 ± 2.5 kpc. \[..\] , the differential orbital
+precession between the leading and the trailing apocentres is δ˜ = 99.◦3
+± 3.◦5. Taking into account the Sun's distance from the centre of the
+Galaxy R0 = 8 kpc, **the Galactocentric δ˜ GC = 93.◦2 ± 3.◦5.***"
+
+*"The angle through which the orbit turns from one apocentre to the next
+is largely controlled by the radial profile of the potential. Our
+measured value is inconsistent with a flat rotation curve, or
+logarithmic potential, and indicates that the Milky Way's dark matter
+density falls off more quickly than isothermal."*
+
+"*How fast does the plane of the debris precess? Johnston et al. (2005)
+show that the M giants in the leading and the trailing tails define
+Galactocentric planes whose poles are ∼10◦ apart. \[..\] The left-hand
+panel of Fig. 13 gives the contours of the pole density for each piece
+of Branches A and B. \[..\] The precession of the leading pole is in the
+direction of increasing*
+
+*longitude (GC) and decreasing latitude (GC), the same direction as
+identified by Johnston et al. (2005). \[..\] we can conclude with
+certainty that the amplitude of the precession of the plane of the
+leading debris (bright branch) over ∼100◦ along the stream ought to be
+less than ∼10◦. \[..\] the sense of precession of the Branch B debris
+pole is opposite to that of Branch A. As one steps along the leading
+tail away from the remnant in the direction of Sgr motion, the Branch B
+pole moves in the direction of decreasing l and decreasing b. \[..\]
+Overall, the poles of the debris in the bright trailing stream at 240◦
+\< Lambda \< 280◦ have the same sense of precession as the Branch A
+debris around 80◦ \< Lambda \< 100◦, i.e. the stream angular momentum
+vector moves in the direction of increasing l and decreasing b."*
+
+NOTE: this poles are based solely on the density distribution, no
+kinematics. The poles of the bright and faint branches are different and
+change differently with Lambda.
+
+*"Finally, the poles of the debris planes at the positions of the
+apocentres seem to lie very close to each other, as judged by the Branch
+A red contours in the left-hand panel and dark blue and light blue dots
+(for the bright arm) in the right-hand panel, and reassuringly close to
+the pole of 275◦, −14◦ chosen for orbit mapping in Section 4.1"*
+
+*"The complex behaviour of the precession of the plane of the Sgr debris
+that we have measured is most likely caused by an interplay between the
+rotational kinematics (internal rotation) of the stripped material and
+the torques exerted by the triaxial gravity field."*
+
+### Pila-Díez et al. 2014:
+
+We use data from two CFHT-MegaCam photometric pencil-beam surveys in the
+g\' and the r\' bands to measure distances to the Sagittarius, the
+Palomar 5 and the Orphan stream. We show that, using a cross-correlation
+algorithm to detect the turnoff point of the main sequence, it is
+possible to overcome the main limitation of a two-bands pencil-beam
+survey, namely the lack of adjacent control-fields that can be used to
+subtract the foreground and background stars to enhance the signal on
+the colour-magnitude diagrams. We describe the cross-correlation
+algorithm and its implementation. We combine the resulting main sequence
+turnoff points with theoretical isochrones to derive photometric
+distances to the streams. Our results (31 detections on the Sagittarius
+stream and one each for the Palomar 5 and the Orphan streams) confirm
+the findings by previous studies, **expand the distance trend for the
+Sagittarius faint southern branch and trace the Sagittarius faint branch
+of the northern-leading arm out to 56 kpc.** In addition, they show
+evidence for nearby substructures. **We argue that these detections
+trace the continuation of the Sagittarius northern-leading arm into the
+southern hemisphere, and the northern wrap of the Sagittarius trailing
+arm.** We provide accurate distance measurements to these detections.
+
+**NOTE: they report the presence of the faint branch in the trailing
+down to Lambda\~-50deg!** Already hinted at, with low significance, in
+Pan-STARRS1 (Slater+13). They seem to confirm the presence of the second
+wrap of the trailing in the north (after crossing the leading), first
+hinted by Correnti+10. It also looks like they detect the second wrap of
+the leading in the north, at D\~20kpc.
+
+### Casey (PhD) 2014:
+
+Low-resolution spectra for hundreds of stars in the direction of the
+Virgo Over-Density and the Sagittarius northern leading arms have been
+obtained. Multiple significant kinematic groups are recovered in this
+accretion-dominated region, confirming detections by previous studies. A
+metal-poor population (\[Fe/H\] = -1.7) in the Sagittarius stream is
+discovered due to a photometric selection that was inadvertently biased
+towards more metal-poor stars. Positions and kinematics of Sagittarius
+stream members are compared with existing best-fitting dark matter
+models, and a triaxial dark matter halo distribution is favoured.
+
+Weisz et al. 2014: (follow up on Dolphin 2002)
+
+*"We have excluded Sagittarius from this comparison due to its unusual
+interaction history."*
+
+NOTE: they don't comment on Sgr but they provide a cumulative SFH,
+perhaps not too realistic.
+
+![](.//media/image15.png){width="2.3593755468066493in"
+height="2.762952755905512in"}
+
+### de Boer et al. 2014:
+
+We employ abundances from the Sloan Digital Sky Survey (SDSS) and the
+Sloan Extension for Galactic Understanding and Exploration (SEGUE) to
+study the α-element distribution of the stellar members of the
+Sagittarius stream. To test the reliability of SDSS/SEGUE abundances for
+the study of Sagittarius, we select high-likelihood samples tracing the
+different components of the Milky Way, and recover known literature
+α-element distributions. Using selection criteria based on the spatial
+position, radial velocity, distance and colours of individual stars, we
+obtain a robust sample of Sagittarius-stream stars. The α-element
+distribution of the Sagittarius stream forms a narrow sequence at
+intermediate metallicities with a clear turn-down, consistent with the
+presence of an α-element \`knee\'. **This is the first time that the
+α-element knee of the Sagittarius dwarf galaxy has been detected.
+Fitting a toy model to our data, we determine that the α-knee in
+Sagittarius takes place at \[Fe/H\]=-1.27±0.05, only slightly less
+metal-poor than the knee in the Milky Way.** This indicates that a small
+number of Sagittarius-like galaxies could have contributed significantly
+to the build-up of the Milky Way\'s stellar halo system at ancient
+times.
+
+*"Comparison to the age--metallicity relation from Forbes & Bridges
+(2010) shows that the knee corresponds to an age of ≈11 Gyr, roughly 1.5
+Gyr after their proposed start of star formation in Sgr. This time delay
+between the onset of SN Ia is consistent with theories of galaxy
+formation, which place the occurrence of the knee approximately 1 Gyr
+after the start of star formation (see, e.g. Raiteri, Villata & Navarro
+1996; Matteucci & Recchi 2001)."*
+
+NOTE: their fitted alfa vs iron trends do not match current data, as it
+lands right on top of the MW field stars (or even above if only
+considering SDSS abundances). This puts a bit into question their
+measured knee.
+
+### Torrealba et al. 2015:
+
+**Most prominent among these is a southern extension of the Sagittarius
+dwarf galaxy\'s stream system, reaching down to declinations ∼ -40 °.**
+
+NOTE: basically, they detect Sgr whole stream (first wrap) using RR
+Lyrae.
+
+### Koposov et al. 2015:
+
+We show that a combination of infrared photometry from WISE and 2MASS
+surveys can yield highly pure samples of M giant stars. We take
+advantage of the new WISE∩2MASS M giant selection to trace the
+Sagittarius (Sgr) trailing tail behind the Galactic disc in the
+direction of the anticentre. The M giant candidates selected via
+broad-band photometry are confirmed spectroscopically using AAOmega on
+the Anglo-Australian Telescope in three fields around the extremity of
+the Sgr trailing tail in the Southern Galactic hemisphere. **We
+demonstrate that at the Sgr longitude tilde{Λ }\_{{⊙}} = 204°, the
+line-of-sight velocities of the trailing tail starts to deviate from the
+track of the Law & Majewski model, confirming the prediction of
+Belokurov et al.** This discovery serves to substantiate the measurement
+of low differential orbital precession of the Sgr stream which in turn
+may imply diminished dark matter content within 100 kpc.
+
+NOTE: they detect the stream "very" close to the stream (comparable to
+Antoja+20 or Ramos+20). They have very few radial velocities, with a lot
+of dispersion, but it is true that there is a slight disagreement with
+LM10 (except for one point).
+
+### Sohn et al. 2015:
+
+We present a multi-epoch Hubble Space Telescope (HST) study of stellar
+proper motions (PMs) for four fields spanning 200° along the Sagittarius
+(Sgr) stream: one trailing arm field, one field near the Sgr dwarf
+spheroidal tidal radius, and two leading arm fields. We determine
+absolute PMs of dozens of individual stars per field, using established
+techniques that use distant background galaxies as the stationary
+reference frame. Stream stars are identified based on combined
+color-magnitude diagram and PM information. The results are broadly
+consistent with the few existing PM measurements for the Sgr galaxy and
+the trailing arm. However, **our new results provide the highest PM
+accuracy for the stream to date, the first PM measurements for the
+leading arm, and the first PM measurements for individual stream
+stars**; we also serendipitously determine the PM of the globular
+cluster NGC 6652. In the trailing-arm field, **the individual PMs allow
+us to kinematically separate trailing-arm stars from leading-arm stars
+that are 360° further ahead in their orbit.** Also, in three of our
+fields **we find indications that two distinct kinematical components
+may exist within the same arm and wrap of the stream**. Qualitative
+comparison of the HST data to the predictions of the Law & Majewski and
+Peñarrubia et al. N-body models show that the PM measurements closely
+follow the predicted trend with Sgr longitude. This provides a
+successful consistency check on the PM measurements, as well as on these
+N-body approaches (which were not tailored to fit any PM data).
+
+### Tepper-Garcia et al. 2018:
+
+The remarkable 1994 discovery of the Sagittarius dwarf galaxy (Sgr)
+revealed that, together with the Magellanic Clouds, there are at least
+three major dwarf galaxies, each with a total mass of order
+10\^10-10\^11 M⊙, falling onto the Galaxy in the present epoch. Beyond a
+Galactic radius of 300 kpc, dwarfs tend to retain their gas. At roughly
+50 kpc, the Magellanic Clouds have experienced substantial gas stripping
+as evidenced by the Magellanic Stream which extends from them. **Since
+Sgr experienced star formation long after it fell into the Galaxy, it is
+interesting to explore just how and when this dwarf lost its gas.** To
+date, there has been no definitive detection of an associated gas
+component. We revisit recent simulations of the stellar and dark matter
+components of Sgr but, for the first time, include gas that is initially
+bound to the infalling galaxy. **We find that the gas stripping was
+30-50 per cent complete at its first disc crossing ∼2.7 Gyr ago, then
+entirely stripped at its last disc crossing ∼1 Gyr ago.** **Our timeline
+is consistent with the last substantial burst of star formation in Sgr,
+which occurred about the time of the last disc crossing.** We discuss
+the consequences of gas stripping and conclude that the vast majority of
+the stripped gas was fully settled onto the Galaxy by ∼300 Myr ago. It
+is highly unlikely that any of the high- or intermediate-velocity clouds
+have a direct association with the Sgr dwarf.
+
+*"Did the interaction with the Galaxy induce star-forming episodes in
+Sgr? It is believed that pericentric passages are associated with bursts
+of star formation (e.g. Mayer et al. 2001). Siegel et al. (2007)
+identify at least two distinct stellar populations in Sgr, with ages
+∼2.3 and ∼0.1−0.8 Gyr. In our model, Sgr experiences pericentric
+passages at ∼2.8 and ∼1.3 Gyr, which would be consistent with delayed
+star formation episodes at the epochs determined from observations.
+Moreover, pericentric passages are closely related to disc transits
+that, as our results show, remove a significant fraction of the gas
+within a dwarf system. Thus, our model suggests that the last
+pericentric passage of Sgr about the Galaxy triggered the last burst of
+star formation within the dwarf prior to its disc crossing, just before
+the dwarf was fully stripped of its remaining gas."*
+
+*"Was the Sgr precursor a disc galaxy? Łokas et al. (2010) speculate
+that the observed geometric and kinematic structure of Sgr's stellar
+remnant cannot be recovered unless the precursor had a disc. But is has
+been argued that a residual kinematic signature should be observable in
+Sgr stellar remnant if it had been a disc galaxy (Penarrubia et al. ˜
+2010), which does not appear to be the case (Penarrubia et al. ˜ 2011).
+Our results show that Sgr's present-day morphology can be recovered from
+a gas-bearing, spheroidal progenitor. But we cannot make any statement
+about its kinematics. Yet, **we argue that Sgr need not have had a
+significant disc component prior to infall, and could even have been a
+gas-rich dwarf spheroidal, which has been observed (Blitz & Robishaw
+2000)."***
+
+"*Is the gas stripped away from Sgr currently observable as high- or
+intermediate-velocity gas? Under the assumption that stellar feedback
+within the dwarf does not play an important role in removing gas, we
+argued that the mass of the stripped gas around the Galaxy as given by
+our model may be regarded as an upper limit at any given time. And even
+more so since we ignore the onset of starburst- or nuclear-driven winds
+within the Galaxy which impact negatively the lifetime of gas clouds
+(e.g. Cooper et al. 2009). In other words, our model favours the
+survivability within the Galactic halo of the gas stripped away from
+Sgr. Given the resulting lack of gas associated with Sgr in the halo in
+our model, we conclude that it is unlikely that any of the gas stripped
+away from Sgr survived to be observable as HVCs or IVCs, as has been
+claimed in the past (Bland-Hawthorn et al. 1998; Putman et al. 2004).*"
+
 ### Hasselquist et al. 2021:
 
 APOGEE chemical analysis of several dwarfs in the MW.
@@ -3510,10 +4149,10 @@ its evolution, which is consistent with observations of Sgr that show
 few or no young*** ***(age \< 2-3 Gyr) stars (e.g., Siegel et al. 2007),
 as well as the \[C/N\] inferences shown in §4.6."***
 
-![](.//media/image14.png){width="0.8333333333333334in"
+![](.//media/image21.png){width="0.8333333333333334in"
 height="4.423611111111111in"}
 
-![](.//media/image14.png){width="0.4375in" height="4.194444444444445in"}
+![](.//media/image21.png){width="0.4375in" height="4.194444444444445in"}
 
 "The Sgr comparison is shown in the bottom-right panel of Figure 12.
 Neither model matches well with the Weisz et al. (2014) SFH of Sgr,
@@ -3588,7 +4227,7 @@ contour map (panel a) and velocity dispersion profile (panel b) compares
 well with the results reported in Ibata+94. Hence we cannot constrain
 the initial mass of the dwarf or its orbit \[..\]."*
 
-![](.//media/image6.png){width="6.267716535433071in"
+![](.//media/image2.png){width="6.267716535433071in"
 height="2.861111111111111in"}
 
 ### Edelsohn, D. J.; Elmegreen, B. G. 1997:
@@ -3746,7 +4385,7 @@ surface brightness, gas-poor dwarf galaxies of mass \>∼ 10\^9M⊙ onto
 giant spiral galaxies from careful analysis of observations of the
 structure of HI disks.
 
-![](.//media/image5.png){width="6.267716535433071in" height="3.25in"}
+![](.//media/image4.png){width="6.267716535433071in" height="3.25in"}
 
 ### Gómez-Flechoso 1999:
 
@@ -4277,7 +4916,7 @@ From Peñarrubia+10: *"However, LM10 find that in order to reproduce the
 location and velocities of the stream the intermediate axis of the dark
 matter halo should be aligned with the spin vector of the MW disc. This
 is hard to understand as circular orbits about the intermediate axis are
-unstable (e.g. Adams et al. 2007)"*
+unstable **(e.g. Adams et al. 2007)**"*
 
 ### Law & Majewski 2010:
 
@@ -4542,7 +5181,7 @@ of two like V21 model). Also, in the case of the light Sgr, their
 trailing arm seems a bit short compared to the detections of
 Correnti+2010.
 
-![](.//media/image2.png){width="5.432292213473316in"
+![](.//media/image17.png){width="5.432292213473316in"
 height="3.630536964129484in"}
 
 NOTES: the integration is very similar to V21 but it does not eject
@@ -4582,6 +5221,46 @@ the calculation of Niederste-Ostholt et al. and **slightly revise
 upwards the luminosity of the Sgr progenitor to 9.9-14.4 × 10\^7 L⊙
 based on insights from the simulations.**
 
+### Gibbons et al. 2014:
+
+Motivated by recent observations of the Sagittarius stream, we devise a
+rapid algorithm to generate faithful representations of the centroids of
+stellar tidal streams formed in a disruption of a progenitor of an
+arbitrary mass in an arbitrary potential. Our method works by releasing
+swarms of test particles at the Lagrange points around the satellite and
+subsequently evolving them in a combined potential of the host and the
+progenitor. We stress that the action of the progenitor\'s gravity is
+crucial to making streams that look almost indistinguishable from the
+N-body realizations, as indeed ours do. The method is tested on mock
+stream data in three different Milky Way potentials with increasing
+complexity, and is shown to deliver unbiased inference on the Galactic
+mass distribution out to large radii. When applied to the observations
+of the Sagittarius stream, our model gives a natural explanation of the
+stream\'s apocentric distances and the differential orbital precession.
+We, therefore, provide a new independent measurement of the Galactic
+mass distribution beyond 50 kpc. The Sagittarius stream model favours a
+light Milky Way with the mass 4.1 ± 0.4 × 10\^11 M⊙ at 100 kpc, which
+can be extrapolated to 5.6 ± 1.2 × 10\^11 M⊙ at 200 kpc. Such a low mass
+for the Milky Way Galaxy is in good agreement with estimates from the
+kinematics of halo stars and from the satellite galaxies (once Leo I is
+removed from the sample). It entirely removes the \`Too Big To Fail
+Problem\'.
+
+***"If the progenitor's gravity is not included, the model stream barely
+reaches half of the length of the N-body representation."***
+
+NOTE: they use spherical models controlled by three parameters, a
+velocity scale factor, the radial scale length, and the power-law
+coefficient that governs the radial profile. It was shown, from all the
+other models (previous and posteriors) that, to reproduce properly Sgr,
+you need to account for at least triaxiality and the Magellanic clouds.
+
+NOTES: current mass estimates of the MW are roughly double their
+estimate. Therefore, it seems like their model is indeed biased.
+
+![](.//media/image11.png){width="5.5625in"
+height="3.1145833333333335in"}
+
 ### Hernitschek+17
 
 "*In more recent work, Belokurov et al. (2014) have demonstrated that
@@ -4594,7 +5273,30 @@ Distances in this work are calculated as explained in Sesar+17
 Multi-band Data: The PS1 Sample): **most of the stars don't have
 metallicity so they impose -1.5dex.**
 
-### Dierickx+17: (Fig. 4 is wrong! Look only at Fig. 6).
+### Dierickx+17: 
+
+The extensive span of the Sagittarius (Sgr) stream makes it a promising
+tool for studying the gravitational potential of the Milky Way (MW).
+Characterizing its stellar kinematics can constrain halo properties and
+provide a benchmark for the paradigm of galaxy formation from cold dark
+matter. Accurate models of the disruption dynamics of the Sgr progenitor
+are necessary to employ this tool. Using a combination of analytic
+modeling and N-body simulations, we build a new model of the Sgr orbit
+and resulting stellar stream. In contrast to previous models, we
+simulate the full infall trajectory of the Sgr progenitor from the time
+it first crossed the MW virial radius 8 Gyr ago. An exploration of the
+parameter space of initial phase-space conditions yields tight
+constraints on the angular momentum of the Sgr progenitor. **Our
+best-fit model is the first to accurately reproduce existing data on the
+3D positions and radial velocities of the debris detected 100 kpc away
+in the MW halo.** In addition to replicating the mapped stream, **the
+simulation also predicts the existence of several arms of the Sgr stream
+extending to hundreds of kiloparsecs.** The two most distant stars known
+in the MW halo coincide with the predicted structure. Additional stars
+in the newly predicted arms can be found with future data from the Large
+Synoptic Survey Telescope. Detecting a statistical sample of stars in
+the most distant Sgr arms would provide an opportunity to constrain the
+MW potential out to unprecedented Galactocentric radii.
 
 *"If we apply these equations then the current position vector of the
 center of Sgr is rSgr,obs = - (16.1, 2.35, 6.12) kpc, in agreement with
@@ -4626,8 +5328,8 @@ concentration parameter c by the relationship rs = Rvir/c. As the halo
 accretes mass on its outskirts, the scale radius is maintained constant
 while the virial radius and the concentration parameter grow."
 
-In this work, the authors basically do a first exploration of parameters
-with a method similar to NBodyDirect (Gala) -\> test particle
+NOTE: In this work, the authors basically do a first exploration of
+parameters with a method similar to NBodyDirect (Gala) -\> test particle
 simulations but at the same time the particles feel each other's
 potential. With that, they can do a first fast exploration of the
 parameter space. Then, they run N-body models from the optimal point. No
@@ -4654,10 +5356,39 @@ simple recipe (Chandrasekar equation but with lots of assumptions).
 
 ### Fardal+19
 
-Our median matches better with their Model A than the RR Lyrae from
-Sesar et al. 2017b (Table 1).
+Recent maps of the halo using RR Lyrae from Pan-STARRS1 depict the
+spatial structure of the Sagittarius stream, showing the leading and
+trailing stream apocentres differ in Galactocentric radius by a factor
+of 2, and also resolving substructure in the stream at these apocentres.
+Here we present dynamical models that reproduce these features of the
+stream **in simple Galactic potentials.** **We find that debris at the
+apocentres must be dynamically young, being stripped off in pericentric
+passages either one or two orbital periods ago.** The ratio of the
+leading and trailing apocentres is sensitive to both dynamical friction
+and the outer slope of the Galactic rotation curve. These dependencies
+can be understood with simple regularities connecting the apocentric
+radii, circular velocities, and orbital period of the progenitor. **The
+effect of dynamical friction can be constrained using substructure
+within the leading apocentre.** Our models are far from final; the
+errors allowed when sampling parameter space are deliberately generous,
+not every stream feature is reproduced, and we explore a limited set of
+potentials. Still, it is interesting that we consistently find the mass
+within 100 kpc to be ∼ 7 × 10\^{11} M\_{⊙}, with a nearly flat rotation
+curve between 50 and 100 kpc. This points to a more extended Galactic
+halo than assumed in some current models. We show one example model in
+various observational dimensions. **A plot of velocity versus distance
+separates younger from older debris, and suggests that the young
+trailing debris will serve as an especially useful probe of the outer
+Galactic potential.**
 
-### Velokurov et al. 2021
+NOTE: The Ramos+20 median matches better with their Model A than the RR
+Lyrae from Sesar et al. 2017b (Table 1).
+
+NOTE: their statement that the velocity vs distance separates debris by
+Tstrip is not fulfilled in V21 model, where, incidentally, the leading
+apocentre is formed by stars stripper 3 pericentres ago.
+
+### Vasiliev et al. 2021
 
 *"The best-fit halo shape and orientation is indeed rather peculiar:
 **the inner part of the halo is moderately oblate, with axis ratio z : R
@@ -4675,6 +5406,20 @@ improves the fit of the stream track. At the same time, the oblate inner
 part aligned with the disc shifts the distant portion of the trailing
 arm up (closer to the Galactic plane), improving the fit for both the
 distance and velocity at Λ \< −100◦."*
+
+### Bland-Hawthorn2021:
+
+*"For consistency with most earlier work, especially Binney & Sch¨onrich
+(2018), we adopt an initial perturber mass of 2 × 1010 M to drive the
+impulse (see also G´omez et al. 2013). Earlier work has already shown
+that this is the lowmass threshold needed to drive the necessary
+response (L19, B19); models using a lower perturber mass can account for
+Sgr's tidal tails (e.g. Law et al. 2005) but produce a very weak
+vertical disc response. We do not view the apparent inconsistency with
+observations as a problem. If the phase spiral phenomenon is long-lived,
+a disc crossing prior to the current event may in fact be responsible.
+But this raises new questions about the stripping rate experienced by
+Sgr as a function of time, issues we address in Sec. 6."*
 
 # [Star formation and Metallicity Distribution]{.underline}
 
@@ -4755,7 +5500,7 @@ different distances (their fig. 1)."
 
 ### Hernitschek+17
 
-![](.//media/image16.png){width="6.270833333333333in"
+![](.//media/image18.png){width="6.270833333333333in"
 height="3.263888888888889in"}
 
 Fig.1: RRab stars within \|B∣\< 9º as obtained after fitting of the
@@ -4813,7 +5558,7 @@ computed in a non-linear way and thus the relation with the JK96 scale
 (bias by +0.3 wrt Zinn&West84, see Gratton+04) depends on the location
 in the Periods vs ${{\phi_{31}}^{s}}_{}$:
 
-![](.//media/image8.png){width="6.270833333333333in" height="7.625in"}
+![](.//media/image1.png){width="6.270833333333333in" height="7.625in"}
 
 However, the stars selected by nGC3 fall predominantly at the regions
 where the relation JK96 to Nemec13 is almost one-to-one. Therefore, for
@@ -4822,15 +5567,15 @@ Z&W84 scale. However, if we take the relation in Eq. (5) of
 Kunder&Chaboyer 2008, we can fit directly the metallicity in the Z&W84
 scale -\> \[Fe/H\]~ZW~\~-1.55dex.
 
-![](.//media/image11.png){width="5.208333333333333in"
+![](.//media/image8.png){width="5.208333333333333in"
 height="4.166666666666667in"}
 
-![](.//media/image3.png){width="5.208333333333333in"
+![](.//media/image7.png){width="5.208333333333333in"
 height="4.166666666666667in"}
 
 Regarding the RRc stars, the relation is linear and we can already see
 the offset wrt to Z&W84 in the following figure, also from
-Nemec+13:![](.//media/image10.png){width="6.270833333333333in"
+Nemec+13:![](.//media/image9.png){width="6.270833333333333in"
 height="7.527777777777778in"}
 
 When we take the mean metallicity of DPAC for RRc stars at distance \>
@@ -4911,6 +5656,18 @@ whether it produces a bifurcation in the trailing arm).
 
 The Fellhauer model does not match the current data of the stream in any
 way, apart from the appreciations done in Koposov+12.
+
+Comparison of orbital poles: Belokurov+14 vs Vasiliev+21
+
+[Data]{.underline}
+
+![](.//media/image13.png){width="3.6927088801399823in"
+height="3.37584208223972in"}
+
+[Model]{.underline}
+
+![](.//media/image12.png){width="3.7552088801399823in"
+height="3.5197331583552054in"}
 
 # Others
 
@@ -5064,7 +5821,7 @@ The first tests have shown a discrepancy in the determination of the
 pole of Sgr stream. However, this might be correct because, when
 colouring the stream by B_sol we see that is not centred at zero:
 
-![](.//media/image4.png){width="3.0781255468066493in"
+![](.//media/image16.png){width="3.0781255468066493in"
 height="2.478254593175853in"}
 
 We have also checked that the change used is coherent up to the level of
@@ -5072,5 +5829,5 @@ We have also checked that the change used is coherent up to the level of
 
 It is centred, however, with the trailing tail, as it was intended.
 
-![](.//media/image7.png){width="3.8443175853018374in"
+![](.//media/image3.png){width="3.8443175853018374in"
 height="3.057292213473316in"}
