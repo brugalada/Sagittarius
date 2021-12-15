@@ -1,3 +1,7 @@
+---
+title: "[]{#_6p1n4937dysw .anchor}Notes on Sagittarius"
+---
+
 **[Observational evidence](#observational-evidence)** **6**
 
 > [References:](#references) 6
@@ -30,7 +34,7 @@
 > [Whitelock, Irwin and Catchpole
 > 1996](#whitelock-irwin-and-catchpole-1996) 10
 >
-> [Zijlstra and Walsh 1996](#zijlstra-and-walsh-1996) 10
+> [Zijlstra and Walsh 1996](#zijlstra-and-walsh-1996) 11
 >
 > [Alcock et al. 1996](#alcock-et-al.-1996) 11
 >
@@ -38,17 +42,17 @@
 >
 > [Ng & Schultheis 1997:](#ng-schultheis-1997) 14
 >
-> [Layden & Sarajedini 1997:](#layden-sarajedini-1997) 14
+> [Layden & Sarajedini 1997:](#layden-sarajedini-1997) 15
 >
 > [Walsh et al. 1997](#walsh-et-al.-1997) 15
 >
 > [Marconi et al. 1997:](#marconi-et-al.-1997) 15
 >
-> [Montegriffo et al. 1998:](#montegriffo-et-al.-1998) 15
+> [Montegriffo et al. 1998:](#montegriffo-et-al.-1998) 16
 >
 > [Smith et al. 1998:](#smith-et-al.-1998) 16
 >
-> [Ng 1998:](#ng-1998) 16
+> [Ng 1998:](#ng-1998) 17
 >
 > [van den Bergh 1998:](#van-den-bergh-1998) 17
 >
@@ -60,59 +64,59 @@
 >
 > [Burton & Lockman 1999:](#burton-lockman-1999) 19
 >
-> [Brown et al. 1999:](#brown-et-al.-1999) 19
+> [Brown et al. 1999:](#brown-et-al.-1999) 20
 >
-> [Majewski et al. 1999:](#majewski-et-al.-1999) 19
+> [Majewski et al. 1999:](#majewski-et-al.-1999) 20
 >
-> [Layden and Sarajedini 2000:](#layden-and-sarajedini-2000) 20
+> [Layden and Sarajedini 2000:](#layden-and-sarajedini-2000) 21
 >
 > [Cseresnjes et al. 2000:](#cseresnjes-et-al.-2000) 21
 >
-> [Bonifacio et al. 2000:](#bonifacio-et-al.-2000) 21
+> [Bonifacio et al. 2000:](#bonifacio-et-al.-2000) 22
 >
 > [Dinescu et al. 2000:](#dinescu-et-al.-2000) 22
 >
-> [Dudziak et al. 2000:](#dudziak-et-al.-2000) 22
+> [Dudziak et al. 2000:](#dudziak-et-al.-2000) 23
 >
 > [Yanny et al. 2000:](#yanny-et-al.-2000) 23
 >
-> [Ibata et al. 2001:](#ibata-et-al.-2001) 23
+> [Ibata et al. 2001:](#ibata-et-al.-2001) 24
 >
 > [Martinez-Delgado et al. 2001:](#martinez-delgado-et-al.-2001) 24
 >
-> [Vivas et al. 2001:](#vivas-et-al.-2001) 24
+> [Vivas et al. 2001:](#vivas-et-al.-2001) 25
 >
-> [Dohm-Palmer et al. 2001:](#dohm-palmer-et-al.-2001) 24
+> [Dohm-Palmer et al. 2001:](#dohm-palmer-et-al.-2001) 25
 >
-> [Cseresnjes 2001:](#cseresnjes-2001) 25
+> [Cseresnjes 2001:](#cseresnjes-2001) 26
 >
 > [Cole 2001](#cole-2001) 26
 >
-> [Alard 2001:](#alard-2001) 26
+> [Alard 2001:](#alard-2001) 27
 >
 > [Newberg et al. 2002:](#newberg-et-al.-2002) 27
 >
-> [Martinez-Delgado et al. 2002:](#martinez-delgado-et-al.-2002) 27
+> [Martinez-Delgado et al. 2002:](#martinez-delgado-et-al.-2002) 28
 >
 > [Bellazzini et al. 2002](#bellazzini-et-al.-2002) 28
 >
-> [Dinescu et al. 2002](#dinescu-et-al.-2002) 28
+> [Dinescu et al. 2002](#dinescu-et-al.-2002) 29
 >
 > [Kundu et al. 2002:](#kundu-et-al.-2002) 29
 >
-> [Monaco et al. 2002:](#monaco-et-al.-2002) 29
+> [Monaco et al. 2002:](#monaco-et-al.-2002) 30
 >
 > [Dolphin 2012:](#dolphin-2012) 30
 >
-> [Bellazzini et al. 2003:](#bellazzini-et-al.-2003) 30
+> [Bellazzini et al. 2003:](#bellazzini-et-al.-2003) 31
 >
 > [Bonifacio et al. 2003:](#bonifacio-et-al.-2003) 31
 >
-> [Mackey & Gilmore 2003:](#mackey-gilmore-2003) 31
+> [Mackey & Gilmore 2003:](#mackey-gilmore-2003) 32
 >
 > [Bellazzini et al. 2003:](#bellazzini-et-al.-2003-1) 32
 >
-> [Newberg et al. 2003:](#newberg-et-al.-2003) 32
+> [Newberg et al. 2003:](#newberg-et-al.-2003) 33
 >
 > [Monaco et al. 2003:](#monaco-et-al.-2003) 33
 >
@@ -120,257 +124,259 @@
 >
 > [Tautvaišienė et al. 2003:](#tautvaišienė-et-al.-2003) 35
 >
-> [Martinez-Delgado et al. 2004:](#martinez-delgado-et-al.-2004) 35
+> [Martinez-Delgado et al. 2004:](#martinez-delgado-et-al.-2004) 36
 >
-> [Bonifacio et al. 2004:](#bonifacio-et-al.-2004) 36
+> [Bonifacio et al. 2004:](#bonifacio-et-al.-2004) 37
 >
 > [Cohen 2004:](#cohen-2004) 37
 >
-> [Putman et al. 2004:](#putman-et-al.-2004) 37
+> [Putman et al. 2004:](#putman-et-al.-2004) 38
 >
-> [Majewski et al. 2004:](#majewski-et-al.-2004) 37
+> [Majewski et al. 2004:](#majewski-et-al.-2004) 38
 >
-> [Monaco et al. 2004:](#monaco-et-al.-2004) 38
+> [Monaco et al. 2004:](#monaco-et-al.-2004) 39
 >
-> [Vivas et al. 2005](#vivas-et-al.-2005) 38
+> [Vivas et al. 2005](#vivas-et-al.-2005) 39
 >
 > [Dinescu et al. 2005:](#dinescu-et-al.-2005) 39
 >
-> [Monaco et al. 2005:](#monaco-et-al.-2005) 39
+> [Monaco et al. 2005:](#monaco-et-al.-2005) 40
 >
-> [Monaco et al. 2005:](#monaco-et-al.-2005-1) 39
+> [Monaco et al. 2005:](#monaco-et-al.-2005-1) 40
 >
 > [Bellazzini et al. 2006:](#bellazzini-et-al.-2006) 40
 >
-> [Belokurov et al. 2006:](#belokurov-et-al.-2006) 40
+> [Belokurov et al. 2006:](#belokurov-et-al.-2006) 41
 >
 > [Clewley & Jarvis 2006:](#clewley-jarvis-2006) 41
 >
-> [Zijlstra et al. 2006:](#zijlstra-et-al.-2006) 41
+> [Zijlstra et al. 2006:](#zijlstra-et-al.-2006) 42
 >
-> [Bellazzini et al. 2006](#bellazzini-et-al.-2006-1) 42
+> [Bellazzini et al. 2006](#bellazzini-et-al.-2006-1) 43
 >
-> [Ramsay & Wu 2006:](#ramsay-wu-2006) 42
+> [Ramsay & Wu 2006:](#ramsay-wu-2006) 43
 >
 > [Monaco et al. 2007:](#monaco-et-al.-2007) 43
 >
-> [Sbordone et al. 2007:](#sbordone-et-al.-2007) 43
+> [Sbordone et al. 2007:](#sbordone-et-al.-2007) 44
 >
 > [Siegel et al. 2007:](#siegel-et-al.-2007) 45
 >
-> [Newberg et al. 2007:](#newberg-et-al.-2007) 45
+> [Newberg et al. 2007:](#newberg-et-al.-2007) 46
 >
 > [Chou et al. 2007:](#chou-et-al.-2007) 46
 >
-> [Keller et al. 2008:](#keller-et-al.-2008) 46
+> [Keller et al. 2008:](#keller-et-al.-2008) 47
 >
-> [Mottini et al. 2008](#mottini-et-al.-2008) 47
+> [Mottini et al. 2008](#mottini-et-al.-2008) 48
 >
-> [Mottini et al. 2008:](#mottini-et-al.-2008-1) 47
+> [Mottini et al. 2008:](#mottini-et-al.-2008-1) 48
 >
-> [Cole et al. 2008:](#cole-et-al.-2008) 48
+> [Cole et al. 2008:](#cole-et-al.-2008) 49
 >
-> [Kniazev et al. 2008:](#kniazev-et-al.-2008) 48
+> [Kniazev et al. 2008:](#kniazev-et-al.-2008) 49
 >
-> [Bellazzini et al. 2008:](#bellazzini-et-al.-2008) 49
+> [Bellazzini et al. 2008:](#bellazzini-et-al.-2008) 50
 >
-> [Kunder&Chaboyer09:](#kunderchaboyer09) 49
+> [Kunder&Chaboyer09:](#kunderchaboyer09) 50
 >
-> [Ibata et al. 2009:](#ibata-et-al.-2009) 50
+> [Ibata et al. 2009:](#ibata-et-al.-2009) 51
 >
 > [Carraro & Bensby 2009:](#carraro-bensby-2009) 51
 >
-> [Yanny et al. 2009:](#yanny-et-al.-2009) 51
+> [Yanny et al. 2009:](#yanny-et-al.-2009) 52
 >
-> [Prior et al. 2009:](#prior-et-al.-2009) 52
+> [Prior et al. 2009:](#prior-et-al.-2009) 53
 >
-> [Chou et al. 2010:](#chou-et-al.-2010) 53
+> [Chou et al. 2010:](#chou-et-al.-2010) 54
 >
-> [Pryor et al. 2010:](#pryor-et-al.-2010) 53
+> [Pryor et al. 2010:](#pryor-et-al.-2010) 54
 >
-> [Niederste-Ostholt et al. 2010:](#niederste-ostholt-et-al.-2010) 54
+> [Niederste-Ostholt et al. 2010:](#niederste-ostholt-et-al.-2010) 55
 >
-> [Giuffrida et al. 2010:](#giuffrida-et-al.-2010) 54
+> [Giuffrida et al. 2010:](#giuffrida-et-al.-2010) 55
 >
-> [Carretta et al. 2010:](#carretta-et-al.-2010) 55
+> [Carretta et al. 2010:](#carretta-et-al.-2010) 56
 >
-> [Sollima et al. 2010:](#sollima-et-al.-2010) 55
+> [Sollima et al. 2010:](#sollima-et-al.-2010) 56
 >
-> [Carretta et al. 2010:](#carretta-et-al.-2010-1) 56
+> [Carretta et al. 2010:](#carretta-et-al.-2010-1) 57
 >
-> [Keller et al. 2010:](#keller-et-al.-2010) 57
+> [Keller et al. 2010:](#keller-et-al.-2010) 58
 >
-> [Correnti et al. 2010:](#correnti-et-al.-2010) 58
+> [Correnti et al. 2010:](#correnti-et-al.-2010) 59
 >
-> [Peñarrubia+11:](#peñarrubia11) 60
+> [Peñarrubia+11:](#peñarrubia11) 61
 >
-> [Ruhland et al. 2011:](#ruhland-et-al.-2011) 60
+> [Ruhland et al. 2011:](#ruhland-et-al.-2011) 61
 >
-> [Siegel et al. 2011:](#siegel-et-al.-2011) 61
+> [Siegel et al. 2011:](#siegel-et-al.-2011) 62
 >
-> [Carlin et al. 2012:](#carlin-et-al.-2012) 62
+> [Carlin et al. 2012:](#carlin-et-al.-2012) 63
 >
-> [Salinas et al. 2012:](#salinas-et-al.-2012) 62
+> [Salinas et al. 2012:](#salinas-et-al.-2012) 63
 >
-> [Koposov et al. 2012](#koposov-et-al.-2012) 63
+> [Koposov et al. 2012](#koposov-et-al.-2012) 64
 >
-> [Carrell et al. 2012:](#carrell-et-al.-2012) 64
+> [Carrell et al. 2012:](#carrell-et-al.-2012) 65
 >
-> [Frinchaboy et al. 2012:](#frinchaboy-et-al.-2012) 64
+> [Frinchaboy et al. 2012:](#frinchaboy-et-al.-2012) 65
 >
-> [McDonald et al. 2012:](#mcdonald-et-al.-2012) 65
+> [McDonald et al. 2012:](#mcdonald-et-al.-2012) 66
 >
-> [Slater et al. 2013:](#slater-et-al.-2013) 65
+> [Slater et al. 2013:](#slater-et-al.-2013) 66
 >
-> [Drake et al. 2013:](#drake-et-al.-2013) 66
+> [Drake et al. 2013:](#drake-et-al.-2013) 67
 >
-> [Koposov et al. 2013:](#koposov-et-al.-2013) 67
+> [Koposov et al. 2013:](#koposov-et-al.-2013) 68
 >
-> [Battinelli & Demers 2013:](#battinelli-demers-2013) 67
+> [Battinelli & Demers 2013:](#battinelli-demers-2013) 68
 >
-> [Newby et al. 2013:](#newby-et-al.-2013) 68
+> [Newby et al. 2013:](#newby-et-al.-2013) 69
 >
-> [McDonald et al. 2013:](#mcdonald-et-al.-2013) 68
+> [McDonald et al. 2013:](#mcdonald-et-al.-2013) 69
 >
-> [McWilliam et al. 2013:](#mcwilliam-et-al.-2013) 69
+> [McWilliam et al. 2013:](#mcwilliam-et-al.-2013) 70
 >
-> [Carretta et al. 2014:](#carretta-et-al.-2014) 70
+> [Carretta et al. 2014:](#carretta-et-al.-2014) 71
 >
-> [Belokurov et al. 2014:](#belokurov-et-al.-2014) 70
+> [Belokurov et al. 2014:](#belokurov-et-al.-2014) 71
 >
-> [Pila-Díez et al. 2014:](#pila-díez-et-al.-2014) 72
+> [Pila-Díez et al. 2014:](#pila-díez-et-al.-2014) 73
 >
-> [Casey (PhD) 2014:](#casey-phd-2014) 73
+> [Casey (PhD) 2014:](#casey-phd-2014) 74
 >
-> [de Boer et al. 2014:](#de-boer-et-al.-2014) 74
+> [de Boer et al. 2014:](#de-boer-et-al.-2014) 75
 >
-> [Torrealba et al. 2015:](#torrealba-et-al.-2015) 74
+> [Torrealba et al. 2015:](#torrealba-et-al.-2015) 76
 >
-> [Koposov et al. 2015:](#koposov-et-al.-2015) 74
+> [Koposov et al. 2015:](#koposov-et-al.-2015) 76
 >
-> [Sohn et al. 2015:](#sohn-et-al.-2015) 75
+> [Sohn et al. 2015:](#sohn-et-al.-2015) 76
 >
-> [Tepper-Garcia et al. 2018:](#tepper-garcia-et-al.-2018) 75
+> [Navarrete et al. 2017](#navarrete-et-al.-2017) 77
 >
-> [Hasselquist et al. 2021:](#hasselquist-et-al.-2021) 77
+> [Tepper-Garcia et al. 2018:](#tepper-garcia-et-al.-2018) 79
+>
+> [Hasselquist et al. 2021:](#hasselquist-et-al.-2021) 80
 
-**[Models](#models)** **81**
+**[Models](#models)** **85**
 
-> [References](#references-1) 81
+> [References](#references-1) 85
 >
-> [Notes](#notes-1) 81
+> [Notes](#notes-1) 85
 >
-> [Velázquex and White 1995](#velázquex-and-white-1995) 81
+> [Velázquez and White 1995](#velázquez-and-white-1995) 85
 >
 > [Johnston, Kathryn V.; Spergel, David N.; Hernquist, Lars
-> 1995](#johnston-kathryn-v.-spergel-david-n.-hernquist-lars-1995) 81
+> 1995](#johnston-kathryn-v.-spergel-david-n.-hernquist-lars-1995) 85
 >
 > [Edelsohn, D. J.; Elmegreen, B. G.
-> 1997:](#edelsohn-d.-j.-elmegreen-b.-g.-1997) 82
+> 1997:](#edelsohn-d.-j.-elmegreen-b.-g.-1997) 86
 >
-> [Ibata+97:](#ibata97) 82
+> [Ibata+97:](#ibata97) 86
 >
-> [Ibata & Lewis1998:](#ibata-lewis1998) 83
+> [Ibata & Lewis1998:](#ibata-lewis1998) 87
 >
-> [Zhao 1998:](#zhao-1998) 84
+> [Zhao 1998:](#zhao-1998) 88
 >
-> [Ibata et al. 1998:](#ibata-et-al.-1998) 84
+> [Ibata et al. 1998:](#ibata-et-al.-1998) 88
 >
-> [Gómez-Flechoso 1999:](#gómez-flechoso-1999) 85
+> [Gómez-Flechoso 1999:](#gómez-flechoso-1999) 89
 >
-> [Johnston et al. 1999](#johnston-et-al.-1999) 85
+> [Johnston et al. 1999](#johnston-et-al.-1999) 89
 >
 > [Jiang, Ing-Guey and Binney, James
-> 2000:](#jiang-ing-guey-and-binney-james-2000) 86
+> 2000:](#jiang-ing-guey-and-binney-james-2000) 90
 >
-> [Helmi and White 2001:](#helmi-and-white-2001) 87
+> [Helmi and White 2001:](#helmi-and-white-2001) 91
 >
-> [Bailin 2003:](#bailin-2003) 87
+> [Bailin 2003:](#bailin-2003) 91
 >
-> [Law et al. 2004](#law-et-al.-2004) 88
+> [Law et al. 2004](#law-et-al.-2004) 92
 >
-> [Helmi 2004:](#helmi-2004) 88
+> [Helmi 2004:](#helmi-2004) 92
 >
-> [Johnston et al. 2005](#johnston-et-al.-2005) 89
+> [Johnston et al. 2005](#johnston-et-al.-2005) 93
 >
-> [Law et al. 2005:](#law-et-al.-2005) 90
+> [Law et al. 2005:](#law-et-al.-2005) 94
 >
-> [Fellhauer et al. 2006](#fellhauer-et-al.-2006) 91
+> [Fellhauer et al. 2006](#fellhauer-et-al.-2006) 95
 >
-> [Law et al. 2009:](#law-et-al.-2009) 92
+> [Law et al. 2009:](#law-et-al.-2009) 96
 >
-> [Law & Majewski 2010:](#law-majewski-2010) 93
+> [Law & Majewski 2010:](#law-majewski-2010) 97
 >
-> [Law & Majewski 2010:](#law-majewski-2010-1) 95
+> [Law & Majewski 2010:](#law-majewski-2010-1) 99
 >
-> [Peñarrubia et al. 2010:](#peñarrubia-et-al.-2010) 95
+> [Peñarrubia et al. 2010:](#peñarrubia-et-al.-2010) 99
 >
-> [Myers et al. 2010:](#myers-et-al.-2010) 97
+> [Myers et al. 2010:](#myers-et-al.-2010) 101
 >
-> [Lokas et al. 2010](#lokas-et-al.-2010) 97
+> [Lokas et al. 2010](#lokas-et-al.-2010) 101
 >
-> [Purcell et al. 2011:](#purcell-et-al.-2011) 99
+> [Purcell et al. 2011:](#purcell-et-al.-2011) 103
 >
-> [Niederste-Ostholt et al. 2012:](#niederste-ostholt-et-al.-2012) 100
+> [Niederste-Ostholt et al. 2012:](#niederste-ostholt-et-al.-2012) 104
 >
-> [Gibbons et al. 2014:](#gibbons-et-al.-2014) 101
+> [Gibbons et al. 2014:](#gibbons-et-al.-2014) 105
 >
-> [Hernitschek+17](#hernitschek17) 102
+> [Hernitschek+17](#hernitschek17) 106
 >
-> [Dierickx+17:](#dierickx17) 102
+> [Dierickx+17:](#dierickx17) 106
 >
-> [Fardal+19](#fardal19) 104
+> [Fardal+19](#fardal19) 108
 >
-> [Vasiliev et al. 2021](#vasiliev-et-al.-2021) 104
+> [Vasiliev et al. 2021](#vasiliev-et-al.-2021) 108
 >
-> [Bland-Hawthorn2021:](#bland-hawthorn2021) 105
+> [Bland-Hawthorn2021:](#bland-hawthorn2021) 109
 
 **[Star formation and Metallicity
-Distribution](#star-formation-and-metallicity-distribution)** **106**
+Distribution](#star-formation-and-metallicity-distribution)** **110**
 
-> [References](#references-2) 106
+> [References](#references-2) 110
 >
-> [Notes](#notes-2) 106
+> [Notes](#notes-2) 110
 >
-> [Chou+07:](#chou07) 106
+> [Chou+07:](#chou07) 110
 >
-> [Tepper-Garcia+18:](#tepper-garcia18) 106
+> [Tepper-Garcia+18:](#tepper-garcia18) 110
 
-**[RR Lyrae](#rr-lyrae)** **106**
+**[RR Lyrae](#rr-lyrae)** **111**
 
-> [References](#references-3) 107
+> [References](#references-3) 111
 >
-> [Notes](#notes-3) 107
+> [Notes](#notes-3) 111
 >
-> [Fardal+19](#fardal19-1) 107
+> [Fardal+19](#fardal19-1) 111
 >
-> [Hernitschek+17](#hernitschek17-1) 107
+> [Hernitschek+17](#hernitschek17-1) 111
 
 **[RR Lyrae metallicity
-calibration](#rr-lyrae-metallicity-calibration)** **109**
+calibration](#rr-lyrae-metallicity-calibration)** **113**
 
-> [References](#references-4) 109
+> [References](#references-4) 113
 
-**[Bifurcation](#bifurcation)** **114**
+**[Bifurcation](#bifurcation)** **118**
 
-> [References](#references-5) 114
+> [References](#references-5) 118
 
-**[Others](#others)** **117**
+**[Others](#others)** **121**
 
-> [Miscellaneous](#miscellaneous) 117
+> [Miscellaneous](#miscellaneous) 121
 >
-> [Forbes & Bridges 2010:](#forbes-bridges-2010) 117
+> [Forbes & Bridges 2010:](#forbes-bridges-2010) 121
 >
-> [Lux et al. 2010:](#lux-et-al.-2010) 117
+> [Lux et al. 2010:](#lux-et-al.-2010) 121
 >
-> [Kazantzidis et al. 2011:](#kazantzidis-et-al.-2011) 118
+> [Kazantzidis et al. 2011:](#kazantzidis-et-al.-2011) 122
 >
-> [Curiosities](#curiosities) 119
+> [Curiosities](#curiosities) 123
 >
 > [Kesden, Michael & Kamionkowski, Marc
-> 2006](#kesden-michael-kamionkowski-marc-2006) 119
+> 2006](#kesden-michael-kamionkowski-marc-2006) 123
 >
-> [Sgr orbital plane](#sgr-orbital-plane) 119
+> [Sgr orbital plane](#sgr-orbital-plane) 123
 
 #  
 
@@ -557,6 +563,16 @@ Sagittarius dwarf galaxy was found serendipitously using a combination
 of UK Schmidt Telescope sky survey plates, the APM automatic plate
 measuring facility and the Anglo-Australian Telescope multifibre
 spectrograph, AUTOFIB."*
+
+*"The hypothesis that the unknown population is part of a spiral arm
+close to the Galactic Centre solves some of the problems inherent in the
+above disc hypothesis. The narrow line-of-sight depth implied by the
+small magnitude spread of the excess feature near R = 17.7, and the low
+velocity dispersion is consistent with seeing a spiral arm approximately
+edge-on." \[..\] "but note that some situations, such as a tightly wound
+spiral arm or that depicted in Fig. 19, can be ruled out".*
+
+They discard this hypothesis, or at least it is not very likely.
 
 ### Mateo et al. 1995a
 
@@ -845,6 +861,13 @@ significantly more massive in the past, we would expect to find its
 --- globular clusters and stars --- along its dispersion orbit; however,
 this is not observed."***
 
+*"The numerical calculations summarized in Sec. 4 below show that the
+effect of Galactic tides on a dwarf spheroidal is to generate
+flattening, and to orient the dwarf spheroidal such that its major axis
+is aligned along its orbit, at least near perigalacticon for elliptical
+orbits. That is, a tidally-distorted dSph galaxy is effectively a bar
+which is spin-orbit locked near perigalacticon."*
+
 ### Ng & Schultheis 1997:
 
 A catalogue is presented with variable (RR Lyrae, semiregular and Mira)
@@ -1026,6 +1049,13 @@ upper limit to the luminosity of Sgr is therefore L\~5.8×107 Lsolar.
 is consistent with values observed in the most luminous dSph companions
 of the Milky Way.**
 
+*"The Sgr main sequence turnoff occurs at I0 ∼ 20 mag and (V−I) ∼ 0.6
+(Mateo et al. 1996; Fahlman et al. 1996; Figure 2). By good fortune,
+this corresponds to a gap in the density of contaminating foreground
+stars from the thin disk (located at I0 ∼ \< 20 in this color range) and
+background galaxies that populate the prominent 'blob' in Figure 2
+fainter than I0 ∼ 22.5 at this color."*
+
 NOTE: first actual detection of the stream.
 
 ### Whitelock et al. 1999:
@@ -1154,7 +1184,8 @@ corresponds to a different Sgr tidal streamer than that detected by most
 other surveys.
 
 NOTE: farthest detection of the stream by that time, I think. Only other
-is Mateo 1998 but it was closer to the dwarf by some 10deg.
+is Mateo 1998 but it was closer to the dwarf by some 10deg. But
+actually, M98 probably reached farther in Lambda.
 
 ### Layden and Sarajedini 2000:
 
@@ -1759,7 +1790,7 @@ measurement errors and the small-sample sizes. We discuss the
 implications of this in the context of the radius-age trend we have
 previously highlighted for the Magellanic Cloud clusters.
 
-![](.//media/image10.png){width="6.267716535433071in"
+![](media/image7.png){width="6.267716535433071in"
 height="1.8888888888888888in"}
 
 ### Bellazzini et al. 2003:
@@ -2695,7 +2726,7 @@ than previous determinations for this galaxy and agrees with previous
 suggestions that Sgr\'s body is truly closer to us, this estimate is
 larger than studies at comparable galactic latitudes.
 
-![](.//media/image14.png){width="6.270833333333333in"
+![](media/image10.png){width="6.270833333333333in"
 height="3.2083333333333335in"}
 
 NOTE: distance calibration is tricky and the absolute distance you get
@@ -2783,6 +2814,13 @@ couple of years before this article.
 
 NOTE: no difference in distance or vlos between the branches of the
 leading bifurcation.
+
+*"Models that explain the upper branch as debris that has orbited the
+Galaxy at least one more time than the lower branch (leading tidal
+tail), or at least one less time (trailing tidal tail), must also
+explain the similarity in populations between these two debris streams.
+Alternatively, we suggest that the two branches might be from debris
+that was stripped from the Sgr dwarf galaxy at similar times."*
 
 ### Prior et al. 2009:
 
@@ -2946,7 +2984,7 @@ spanning from \[Fe/H\] = -2.3 to a nearly solar value.**
 remnant? Usually, the gradient in population across the stream is
 justified in terms of a correlation between age-metallicity-binding
 energy. On the other hand, if the mix has always been homogeneous, then
-this means that the stars that are NOT on the stream, where born AFTER
+this means that the stars that are NOT on the stream, were born AFTER
 the corresponding pericentre passage (i.e., \<1Gyr ago).**
 
 ### Carretta et al. 2010:
@@ -3075,7 +3113,7 @@ NOT expect any significant gradient in initial radius (based on V21).
 Therefore, the metallicity gradient observed is NOT a product of a
 correlation between initial radius and metallicity.
 
-![](.//media/image20.png){width="6.267716535433071in"
+![](media/image17.png){width="6.267716535433071in"
 height="4.736111111111111in"}
 
 ### Correnti et al. 2010:
@@ -3118,7 +3156,7 @@ this. In fact, V21 predicts the trailing arm farther than that, and the
 second wrap of the leading, closer. **The detection seems robust
 though... is the V21 model wrong?**
 
-![](.//media/image19.png){width="6.270833333333333in"
+![](media/image12.png){width="6.270833333333333in"
 height="4.697916666666667in"}
 
 **NOTE: based on the comparison of the fields A and B with the V21
@@ -3392,17 +3430,17 @@ extended Sgr system moving along its orbit. Thus, we confirm that Sgr is
 like other dSphs in having no significant rotation (vrot/σ(v) 1)
 signature along any axis (e.g., Figures 10, Section 4)."*
 
-NOTE: the authors agree that the model presented in Lokas+2010 is
+**NOTE: the authors agree that the model presented in Lokas+2010 is
 consistent with their data and deem it "the first model to explain both
 the very large ellipticity of Sgr as well as the observed kinematics of
-its stars".
+its stars".**
 
-"\[..\] the velocity dispersion profile for Sgr as a function of radius
+*"\[..\] the velocity dispersion profile for Sgr as a function of radius
 for the data presented in this study also strongly imitates those for
 other MW dSphs. Just like the velocity dispersion profiles of the other
 classical MW dSphs, that of Sgr remains more or less flat to large
 radii, including that part of the system where it is clearly dominated
-by tidal debris."
+by tidal debris."*
 
 ### McDonald et al. 2012:
 
@@ -3466,6 +3504,10 @@ the distance between branches since comparing SGB1 or SGB2 gives
 discrepant differential distance moduli. It would seem like this \~5kpc
 difference can be seen both in the bright and faint branches. Need to
 follow up...
+
+From Navarrete+17: *"Note that, according to Slater et al. (2013), there
+could also be a difference in the heliocentric distances to the two
+branches, of the order of ∼5 kpc"*
 
 ### Drake et al. 2013:
 
@@ -3730,7 +3772,7 @@ on the mass decay rate in the host, it is also a weak function of the
 orbital energy and angular momentum (see equation 3.18 in Binney &
 Tremaine 2008)"*
 
-![](.//media/image6.png){width="6.267716535433071in"
+![](media/image13.png){width="6.267716535433071in"
 height="1.3888888888888888in"}
 
 NOTE: this precession refers to the angular separation between
@@ -3845,7 +3887,7 @@ interaction history."*
 NOTE: they don't comment on Sgr but they provide a cumulative SFH,
 perhaps not too realistic.
 
-![](.//media/image15.png){width="2.3593755468066493in"
+![](media/image14.png){width="2.3593755468066493in"
 height="2.762952755905512in"}
 
 ### de Boer et al. 2014:
@@ -3938,6 +3980,140 @@ Peñarrubia et al. N-body models show that the PM measurements closely
 follow the predicted trend with Sgr longitude. This provides a
 successful consistency check on the PM measurements, as well as on these
 N-body approaches (which were not tailored to fit any PM data).
+
+### Navarrete et al. 2017
+
+We take advantage of the deep and wide coverage of the VLT Survey
+Telescope (VST) ATLAS survey to study the line-of-sight structure of the
+Sagittarius (Sgr) stellar stream in the Southern hemisphere, only ∼40°
+away from the progenitor. We use photometrically selected subgiant
+branch (SGB) stars to reveal a complex debris morphology of the trailing
+arm and detect at least two clear peaks in the SGB distance modulus
+distribution. The separation between the two line-of-sight components is
+at least 5 kpc at the edge of the VST ATLAS footprint, but appears to
+change along the stream, which allows us to conclude that these
+detections correspond to two physically independent stellar structures,
+rather than a mix of co-distant stellar populations within a single
+stream. Our discovery of a fork in the Sgr trailing arm is verified
+using blue horizontal branch stars, and our distance measurements are
+calibrated using RR Lyrae stars from the Catalina Real-Time Transient
+Survey. Comparing with numerical simulations of the Sgr dwarf
+disruption, the more distant of the two components in the fork matches
+perfectly with the track of the trailing debris. However, no obvious
+counterpart exists in the simulation for the closer line-of-sight
+component.
+
+*"\[..\] fainter component of the Sgr bifurcation does not appear to be
+traced by M-giants at all, which could be due to the metallicity
+differences between the two branches as explained in Koposov et al.
+(2012)."*
+
+*"As the Sun is located very close to the plane of the Sgr stream, the
+information on the shape of the tidal tails and thus the orbit of the
+progenitor is encoded in the run of the line-of-sight distances along
+the stream. Therefore, high distance accuracy is required to facilitate
+an unbiased gravitational potential inference. \[..\] Moreover, good
+distance precision is necessary to unpick multiple wraps of the stream
+in a given direction. For example, Belokurov et al. (2006) detected
+multiple debris components along the sightlines towards the leading tail
+using SGB stars as tracers. It is likely that the so-called branch C of
+the stream they see behind the leading debris is in fact a part of the
+trailing tail. Correnti et al. (2010) used RC stars to produce further
+evidence for multiple wraps of the stream."*
+
+*"\[We\] show that (i) the trailing tail bifurcation detected by Koposov
+et al. (2012) continues into the VST ATLAS footprint and (ii) the
+trailing debris appears to be split along the line of sight, with the
+additional stream component following a distinct distance track."*
+
+*"VST ATLAS covers two big patches of the sky at negative declinations,
+centred at (α, δ) = (195.◦0, --24.◦5) and (10.◦0, --11.◦0). \[..\] the
+VST ATLAS covers mostly the region with B \< 0◦. Thus, the focus of this
+study is mostly on the bright branch of the trailing Sgr tail."*
+
+*"it is immediately apparent that the SGB portion of the Hess diagram of
+the trailing tail in the ATLAS data is much broader than the SGB of the
+leading tail in the SDSS. In fact, there is a striking resemblance of
+the behaviour of the SGB considered here and the split SGB shown in the
+left-hand panel of fig. 4 of Belokurov et al. (2006). In the north, the
+double SGB arises due to the projection along the line of sight of the
+two independent Sgr streams, the socalled **branches A and C. We
+conjecture that a similar situation is observed in this portion of the
+trailing tail in the south.** \[..\] Intriguingly, this \[faint\] branch
+of the stream -- studied earlier by Koposov et al. (2012) and Slater et
+al. (2013) -- also does not possess a particularly tight SGB, thus
+hinting at multiple debris along the line of sight in the direction of
+the faint trailing Sgr branch."*
+
+NOTE: C branch is actually the trailing tail intersecting the leading
+arm at Lambda\~90deg. See also Correnti+2010.
+
+*"The presence of two peaks in the SGB LF of the bright Sgr stream (i.e.
+B˜ \< 0◦), separated by about 0.6 mag, could be either due to two
+distinct Sgr tidal debris overdensities at two different distances along
+the line of sight or, alternatively, due to a complex stellar population
+in the Sgr stream, albeit all at the same distance."*
+
+NOTE: from figure 5, right panel, it is easy to see that the bright
+branch (but also the faint) are crossed by the leading tail at
+Lambda\~70deg, close to the predicted Lambdas (V21 model). For the Faint
+branch (fig. 6), the signal seems to be dominated by the leading debris
+at Lambda>-50deg, at least in SGB stars. They still produce two peaks in
+the Luminosity Function even at Lambda\~-40deg, but I do not see that in
+Fig.6.
+
+*"\[in the the faint branch and with BHB\] stream 1 appears to break up
+into further two substructures, again in agreement with the complex
+signal in the SGB residuals map presented above."*
+
+"*Overall, the BHB stars fully corroborate the picture established
+earlier with the SGB tracers: the trailing debris appears to be
+bifurcated into two components along the line of sight. However, the
+bright Sgr trailing arm detections appear to be much more significant
+compared to the ones found at the faint arm. Note, however, that without
+kinematic information it is impossible to establish with 100 per cent
+certainty that the brighter BHBs have indeed originated from the Sgr
+dwarf. Perhaps, these could belong to a different halo substructure,
+unrelated to Sgr. To clarify further the nature of the BHB stars with
+lower m − M, their position on the sky is studied in Section 4.3."*
+
+*"From the 327 RRL stars originally identified in the Sgr 1 overdensity,
+we selected only those confined to the plane of the bright trailing arm
+of Sgr, i.e. between −7◦ \< B˜ \< 0◦. This spatial selection reduces the
+sample size to 250 RRL, spanning the longitude of the Sgr stream from ˜
+= −50◦ to ˜ = −6◦. Unfortunately, because of the spatial limits of the
+survey, there are only 42 RRL located at positive B˜ , thus making it
+unfeasible to track down the peaks for the faint Sgr branch. Therefore,
+the RRL distribution is only analysed here for the bright branch of the
+Sgr trailing arm."*
+
+NOTE: Hernitschek+17 ran into the same problem, and could not detect the
+faint branch significantly in the trailing arm.
+
+*"We detect two peaks in the heliocentric distance distribution of RRL
+in Sgr 1 in the first two bins, namely at ˜ ∼ −40◦ and ˜ ∼ −33◦. In the
+two bins closest to the progenitor, the distance distribution of RRL is
+consistent with one broad peak that was modelled with a single
+Gaussian."*
+
+*"Curiously, the two components \[of the bright branch\] diverge at the
+point where the young trailing debris cross the wrap of the leading
+tail. This, however, might be a pure coincidence given that the
+simulated leading tail appears to be moving almost perpendicular to the
+SGB 2. \[..\] The other two SGB detections \[of the faint branch\] do
+not appear in the distribution of the simulated debris. However, again,
+around the location studied here, there appears to be a large spray of
+the leading debris."*
+
+NOTE: based on Fig.11 it is clear that they are detecting the leading
+arm, which is correlated with Beta. At Beta>0, it is easier to detect at
+farther distances. At Beta\<0, it dominates at closer distances. In any
+case, the faint branch in the trailing arm runs parallel to the bright
+branch.
+
+NOTE: they don't detect any metallicity differences between the RRLyrae
+in the two streams, but that is expected in any case because there is no
+gradient in metallicity for the RR Lyrae.
 
 ### Tepper-Garcia et al. 2018:
 
@@ -4149,10 +4325,10 @@ its evolution, which is consistent with observations of Sgr that show
 few or no young*** ***(age \< 2-3 Gyr) stars (e.g., Siegel et al. 2007),
 as well as the \[C/N\] inferences shown in §4.6."***
 
-![](.//media/image21.png){width="0.8333333333333334in"
+![](media/image21.png){width="0.8333333333333334in"
 height="4.423611111111111in"}
 
-![](.//media/image21.png){width="0.4375in" height="4.194444444444445in"}
+![](media/image21.png){width="0.4375in" height="4.194444444444445in"}
 
 "The Sgr comparison is shown in the bottom-right panel of Figure 12.
 Neither model matches well with the Weisz et al. (2014) SFH of Sgr,
@@ -4201,7 +4377,7 @@ formed its metal-rich (-0.9 \< \[Fe/H\] \< -0.3) globular clusters some
 
 ## Notes
 
-### Velázquex and White 1995
+### Velázquez and White 1995
 
 *"We use numerical simulations to test the feasibility of the suggestion
 by Ibata, Gilmore & Irwin that the excess population of stars which they
@@ -4227,7 +4403,7 @@ contour map (panel a) and velocity dispersion profile (panel b) compares
 well with the results reported in Ibata+94. Hence we cannot constrain
 the initial mass of the dwarf or its orbit \[..\]."*
 
-![](.//media/image2.png){width="6.267716535433071in"
+![](media/image1.png){width="6.267716535433071in"
 height="2.861111111111111in"}
 
 ### Edelsohn, D. J.; Elmegreen, B. G. 1997:
@@ -4385,7 +4561,7 @@ surface brightness, gas-poor dwarf galaxies of mass \>∼ 10\^9M⊙ onto
 giant spiral galaxies from careful analysis of observations of the
 structure of HI disks.
 
-![](.//media/image4.png){width="6.267716535433071in" height="3.25in"}
+![](media/image11.png){width="6.267716535433071in" height="3.25in"}
 
 ### Gómez-Flechoso 1999:
 
@@ -4449,10 +4625,10 @@ NOTES: first model to account for striped material, not only the core.
 Interestingly, they discuss the different wrapps and how the transition
 from 3p material to 2p material in the trailing arm (in terms of Ramos
 et al. 2021) is seen as a break in the density as observed by Mateo et
-al. 1998. **From V21 model, we see that T3p1w is manly centred around
-b=-27deg, and that the transition to T2p1w happens more or less at
-b=-35deg.** They then say that the rest of the material (Majewski et al.
-1999) at lower latitudes is the leading arm, which is not correct.
+al. 1998. **From the V21 model, we see that T3p1w is mainly centred
+around b=-27deg, and that the transition to T2p1w happens more or less
+at b=-35deg.** They then say that the rest of the material (Majewski et
+al. 1999) at lower latitudes is the leading arm, which is not correct.
 
 ### 
 
@@ -5181,7 +5357,7 @@ of two like V21 model). Also, in the case of the light Sgr, their
 trailing arm seems a bit short compared to the detections of
 Correnti+2010.
 
-![](.//media/image17.png){width="5.432292213473316in"
+![](media/image4.png){width="5.432292213473316in"
 height="3.630536964129484in"}
 
 NOTES: the integration is very similar to V21 but it does not eject
@@ -5258,8 +5434,7 @@ you need to account for at least triaxiality and the Magellanic clouds.
 NOTES: current mass estimates of the MW are roughly double their
 estimate. Therefore, it seems like their model is indeed biased.
 
-![](.//media/image11.png){width="5.5625in"
-height="3.1145833333333335in"}
+![](media/image5.png){width="5.5625in" height="3.1145833333333335in"}
 
 ### Hernitschek+17
 
@@ -5500,7 +5675,7 @@ different distances (their fig. 1)."
 
 ### Hernitschek+17
 
-![](.//media/image18.png){width="6.270833333333333in"
+![](media/image22.png){width="6.270833333333333in"
 height="3.263888888888889in"}
 
 Fig.1: RRab stars within \|B∣\< 9º as obtained after fitting of the
@@ -5558,7 +5733,7 @@ computed in a non-linear way and thus the relation with the JK96 scale
 (bias by +0.3 wrt Zinn&West84, see Gratton+04) depends on the location
 in the Periods vs ${{\phi_{31}}^{s}}_{}$:
 
-![](.//media/image1.png){width="6.270833333333333in" height="7.625in"}
+![](media/image2.png){width="6.270833333333333in" height="7.625in"}
 
 However, the stars selected by nGC3 fall predominantly at the regions
 where the relation JK96 to Nemec13 is almost one-to-one. Therefore, for
@@ -5567,15 +5742,15 @@ Z&W84 scale. However, if we take the relation in Eq. (5) of
 Kunder&Chaboyer 2008, we can fit directly the metallicity in the Z&W84
 scale -\> \[Fe/H\]~ZW~\~-1.55dex.
 
-![](.//media/image8.png){width="5.208333333333333in"
+![](media/image16.png){width="5.208333333333333in"
 height="4.166666666666667in"}
 
-![](.//media/image7.png){width="5.208333333333333in"
+![](media/image18.png){width="5.208333333333333in"
 height="4.166666666666667in"}
 
 Regarding the RRc stars, the relation is linear and we can already see
 the offset wrt to Z&W84 in the following figure, also from
-Nemec+13:![](.//media/image9.png){width="6.270833333333333in"
+Nemec+13:![](media/image3.png){width="6.270833333333333in"
 height="7.527777777777778in"}
 
 When we take the mean metallicity of DPAC for RRc stars at distance \>
@@ -5661,13 +5836,16 @@ Comparison of orbital poles: Belokurov+14 vs Vasiliev+21
 
 [Data]{.underline}
 
-![](.//media/image13.png){width="3.6927088801399823in"
+![](media/image8.png){width="3.6927088801399823in"
 height="3.37584208223972in"}
 
 [Model]{.underline}
 
-![](.//media/image12.png){width="3.7552088801399823in"
+![](media/image9.png){width="3.7552088801399823in"
 height="3.5197331583552054in"}
+
+![](media/image15.png){width="6.58792104111986in"
+height="3.4739588801399823in"}
 
 # Others
 
@@ -5821,7 +5999,7 @@ The first tests have shown a discrepancy in the determination of the
 pole of Sgr stream. However, this might be correct because, when
 colouring the stream by B_sol we see that is not centred at zero:
 
-![](.//media/image16.png){width="3.0781255468066493in"
+![](media/image19.png){width="3.0781255468066493in"
 height="2.478254593175853in"}
 
 We have also checked that the change used is coherent up to the level of
@@ -5829,5 +6007,5 @@ We have also checked that the change used is coherent up to the level of
 
 It is centred, however, with the trailing tail, as it was intended.
 
-![](.//media/image3.png){width="3.8443175853018374in"
+![](media/image6.png){width="3.8443175853018374in"
 height="3.057292213473316in"}
