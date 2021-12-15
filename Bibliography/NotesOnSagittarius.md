@@ -1790,7 +1790,7 @@ measurement errors and the small-sample sizes. We discuss the
 implications of this in the context of the radius-age trend we have
 previously highlighted for the Magellanic Cloud clusters.
 
-![](media/image7.png){width="6.267716535433071in"
+![](.//media/image7.png){width="6.267716535433071in"
 height="1.8888888888888888in"}
 
 ### Bellazzini et al. 2003:
@@ -2726,7 +2726,7 @@ than previous determinations for this galaxy and agrees with previous
 suggestions that Sgr\'s body is truly closer to us, this estimate is
 larger than studies at comparable galactic latitudes.
 
-![](media/image10.png){width="6.270833333333333in"
+![](.//media/image10.png){width="6.270833333333333in"
 height="3.2083333333333335in"}
 
 NOTE: distance calibration is tricky and the absolute distance you get
@@ -3113,7 +3113,7 @@ NOT expect any significant gradient in initial radius (based on V21).
 Therefore, the metallicity gradient observed is NOT a product of a
 correlation between initial radius and metallicity.
 
-![](media/image17.png){width="6.267716535433071in"
+![](.//media/image17.png){width="6.267716535433071in"
 height="4.736111111111111in"}
 
 ### Correnti et al. 2010:
@@ -3156,7 +3156,7 @@ this. In fact, V21 predicts the trailing arm farther than that, and the
 second wrap of the leading, closer. **The detection seems robust
 though... is the V21 model wrong?**
 
-![](media/image12.png){width="6.270833333333333in"
+![](.//media/image12.png){width="6.270833333333333in"
 height="4.697916666666667in"}
 
 **NOTE: based on the comparison of the fields A and B with the V21
@@ -3772,7 +3772,7 @@ on the mass decay rate in the host, it is also a weak function of the
 orbital energy and angular momentum (see equation 3.18 in Binney &
 Tremaine 2008)"*
 
-![](media/image13.png){width="6.267716535433071in"
+![](.//media/image13.png){width="6.267716535433071in"
 height="1.3888888888888888in"}
 
 NOTE: this precession refers to the angular separation between
@@ -3887,7 +3887,7 @@ interaction history."*
 NOTE: they don't comment on Sgr but they provide a cumulative SFH,
 perhaps not too realistic.
 
-![](media/image14.png){width="2.3593755468066493in"
+![](.//media/image14.png){width="2.3593755468066493in"
 height="2.762952755905512in"}
 
 ### de Boer et al. 2014:
@@ -4325,10 +4325,10 @@ its evolution, which is consistent with observations of Sgr that show
 few or no young*** ***(age \< 2-3 Gyr) stars (e.g., Siegel et al. 2007),
 as well as the \[C/N\] inferences shown in §4.6."***
 
-![](media/image21.png){width="0.8333333333333334in"
+![](.//media/image21.png){width="0.8333333333333334in"
 height="4.423611111111111in"}
 
-![](media/image21.png){width="0.4375in" height="4.194444444444445in"}
+![](.//media/image21.png){width="0.4375in" height="4.194444444444445in"}
 
 "The Sgr comparison is shown in the bottom-right panel of Figure 12.
 Neither model matches well with the Weisz et al. (2014) SFH of Sgr,
@@ -4403,7 +4403,7 @@ contour map (panel a) and velocity dispersion profile (panel b) compares
 well with the results reported in Ibata+94. Hence we cannot constrain
 the initial mass of the dwarf or its orbit \[..\]."*
 
-![](media/image1.png){width="6.267716535433071in"
+![](.//media/image1.png){width="6.267716535433071in"
 height="2.861111111111111in"}
 
 ### Edelsohn, D. J.; Elmegreen, B. G. 1997:
@@ -4561,7 +4561,7 @@ surface brightness, gas-poor dwarf galaxies of mass \>∼ 10\^9M⊙ onto
 giant spiral galaxies from careful analysis of observations of the
 structure of HI disks.
 
-![](media/image11.png){width="6.267716535433071in" height="3.25in"}
+![](.//media/image11.png){width="6.267716535433071in" height="3.25in"}
 
 ### Gómez-Flechoso 1999:
 
@@ -5357,7 +5357,7 @@ of two like V21 model). Also, in the case of the light Sgr, their
 trailing arm seems a bit short compared to the detections of
 Correnti+2010.
 
-![](media/image4.png){width="5.432292213473316in"
+![](.//media/image4.png){width="5.432292213473316in"
 height="3.630536964129484in"}
 
 NOTES: the integration is very similar to V21 but it does not eject
@@ -5434,7 +5434,7 @@ you need to account for at least triaxiality and the Magellanic clouds.
 NOTES: current mass estimates of the MW are roughly double their
 estimate. Therefore, it seems like their model is indeed biased.
 
-![](media/image5.png){width="5.5625in" height="3.1145833333333335in"}
+![](.//media/image5.png){width="5.5625in" height="3.1145833333333335in"}
 
 ### Hernitschek+17
 
@@ -5675,7 +5675,7 @@ different distances (their fig. 1)."
 
 ### Hernitschek+17
 
-![](media/image22.png){width="6.270833333333333in"
+![](.//media/image22.png){width="6.270833333333333in"
 height="3.263888888888889in"}
 
 Fig.1: RRab stars within \|B∣\< 9º as obtained after fitting of the
@@ -5733,7 +5733,7 @@ computed in a non-linear way and thus the relation with the JK96 scale
 (bias by +0.3 wrt Zinn&West84, see Gratton+04) depends on the location
 in the Periods vs ${{\phi_{31}}^{s}}_{}$:
 
-![](media/image2.png){width="6.270833333333333in" height="7.625in"}
+![](.//media/image2.png){width="6.270833333333333in" height="7.625in"}
 
 However, the stars selected by nGC3 fall predominantly at the regions
 where the relation JK96 to Nemec13 is almost one-to-one. Therefore, for
@@ -5742,15 +5742,15 @@ Z&W84 scale. However, if we take the relation in Eq. (5) of
 Kunder&Chaboyer 2008, we can fit directly the metallicity in the Z&W84
 scale -\> \[Fe/H\]~ZW~\~-1.55dex.
 
-![](media/image16.png){width="5.208333333333333in"
+![](.//media/image16.png){width="5.208333333333333in"
 height="4.166666666666667in"}
 
-![](media/image18.png){width="5.208333333333333in"
+![](.//media/image18.png){width="5.208333333333333in"
 height="4.166666666666667in"}
 
 Regarding the RRc stars, the relation is linear and we can already see
 the offset wrt to Z&W84 in the following figure, also from
-Nemec+13:![](media/image3.png){width="6.270833333333333in"
+Nemec+13:![](.//media/image3.png){width="6.270833333333333in"
 height="7.527777777777778in"}
 
 When we take the mean metallicity of DPAC for RRc stars at distance \>
@@ -5836,15 +5836,15 @@ Comparison of orbital poles: Belokurov+14 vs Vasiliev+21
 
 [Data]{.underline}
 
-![](media/image8.png){width="3.6927088801399823in"
+![](.//media/image8.png){width="3.6927088801399823in"
 height="3.37584208223972in"}
 
 [Model]{.underline}
 
-![](media/image9.png){width="3.7552088801399823in"
+![](.//media/image9.png){width="3.7552088801399823in"
 height="3.5197331583552054in"}
 
-![](media/image15.png){width="6.58792104111986in"
+![](.//media/image15.png){width="6.58792104111986in"
 height="3.4739588801399823in"}
 
 # Others
@@ -5999,7 +5999,7 @@ The first tests have shown a discrepancy in the determination of the
 pole of Sgr stream. However, this might be correct because, when
 colouring the stream by B_sol we see that is not centred at zero:
 
-![](media/image19.png){width="3.0781255468066493in"
+![](.//media/image19.png){width="3.0781255468066493in"
 height="2.478254593175853in"}
 
 We have also checked that the change used is coherent up to the level of
@@ -6007,5 +6007,5 @@ We have also checked that the change used is coherent up to the level of
 
 It is centred, however, with the trailing tail, as it was intended.
 
-![](media/image6.png){width="3.8443175853018374in"
+![](.//media/image6.png){width="3.8443175853018374in"
 height="3.057292213473316in"}
